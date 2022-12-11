@@ -1,18 +1,27 @@
-h1 {
-    color: #ff0000;
-    font-size: 2em;
-    font-family: "Times New Roman", Times, serif;
-    font-weight: bold;
-    text-align: center;
-    text-transform: uppercase;
-    text-decoration: underline;
+body {
+    background-color:#E0E0E2;
 }
 
-p {
-    color: #0000ff;
-    font-size: 1em;
-    font-family: Arial, serif;
-    font-weight: bold;
-    text-align: center;
-    text-transform: lowercase;
+h1, h2 {
+    color:#721817;
+}
+
+.center-text {
+    align-content:center;
+}
+
+#logo {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 > span {
+    color:#FA9F42;
+    font-size: 0.75em;
+}
+
+#copyright {
+    padding-top: 12px;
+    font-size: 0.75em;
 }

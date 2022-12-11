@@ -305,3 +305,66 @@ Inline elements
 - `i`
 - `em`
 
+## Alignment
+
+Text alignment is used to align the text inside an element. The `text-align` property is used to specify the horizontal alignment of text inside an element.
+
+Text alignment can be set to: `left`, `right`, `center`, `justify`.
+
+```css
+p {
+  text-align: center;
+}
+```
+
+To align HTML elements needs to consider the box model and document flow. Aligning an HTML element is done by changing the properties of tis box model and how it impacts the document flow.
+
+HTML center alignment is done by setting the `margin` property to `auto` on the left and right sides.
+
+```html
+<div class="parent">
+  <div class="child">
+  </div>
+</div>
+```
+
+```css
+.parent {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.child {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  margin: auto;
+}
+```
+
+HTML element left / right alignment is done by setting the `float` property to `left` or `right` on the element.
+
+```html
+<div class="parent">
+  <div class="child">
+  </div>
+  <div class="child">
+  </div>
+</div>
+```
+
+```css
+.parent {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.child {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  float: left;
+}
+```

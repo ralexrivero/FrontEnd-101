@@ -282,4 +282,26 @@ p {
 
 ## Document Flow
 
+Block vs inline elements.
 The document flow is the way the browser displays the elements on the page.
+Block elements are displayed using the full width of the page, and are displayed one below the other, like a stack of blocks.
+Inline elements only ocuppy the the width and height of their content, and are displayed one next to the other, like a line of text.
+
+Block elments
+
+- `div`
+- `form`
+- `h1` to `h6`
+
+Inline elements
+
+- `span`
+- `a`
+- `p`
+- `img`
+- `input`
+- `label`
+- `b`
+- `i`
+- `em`
+

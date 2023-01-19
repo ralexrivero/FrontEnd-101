@@ -62,6 +62,11 @@ h1 {
 - [Imagenes](./img.md)
 - [Fuentes](./fuentes.md)
  -->
+
+## Clases
+
+- [Clase 0](./course/clase_00/00-estructura.html)
+
 ## Recursos populares
 
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)

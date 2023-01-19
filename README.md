@@ -57,7 +57,7 @@ h1 {
 
 ## Recursos
 
-- [HTML cheatsheet](./course/02-HTML_es.md)
+- [HTML cheatsheet](./course/02-HTML_CS_es.md)
 <!-- - [CSS cheatsheet](./cssCS.md)
 - [Imagenes](./img.md)
 - [Fuentes](./fuentes.md)

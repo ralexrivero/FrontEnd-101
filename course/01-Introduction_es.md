@@ -38,7 +38,6 @@ Internet es una red de redes. Es una red de redes que están conectadas entre s�
 
 ## Frameworks y librerias
 
-Un framework es un conjunto de herramientas que son usadas para crear páginas web. Es un conjunto de herramientas que son usadas para crear páginas web que están escritas en HTML y CSS. Es un conjunto de herramientas que son usadas para crear páginas web que están escritas en Javascript. Es un conjunto de herramientas que son usadas para crear páginas web que están escritas en PHP.
+Un framework es un conjunto de herramientas que son usadas para crear páginas web.
 
-Una librería es un conjunto de funciones que son usadas para crear páginas web. Es un conjunto de funciones que son usadas para crear páginas web que están escritas en HTML y CSS. Es un conjunto de funciones que son usadas para crear páginas web que están escritas en Javascript. Es un conjunto de funciones que son usadas para crear páginas web que están escritas en PHP.
-
+Una librería es un conjunto de funciones que son usadas para crear páginas web.

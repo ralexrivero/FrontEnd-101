@@ -1,4 +1,4 @@
-# HTML and CSS Course
+# HTML-CSS101
 
 ```html
 ██   ██ ████████ ███    ███ ██           ██████ ███████ ███████ 
@@ -8,38 +8,73 @@
 ██   ██    ██    ██      ██ ███████      ██████ ███████ ███████ 
 ```
 
-This is a course on HTML and CSS. It is designed to be taught in a classroom setting, but can be used for self-study as well.
+> Introduccion a HTML y CSS
 
-## Table of Contents
+## Tabla de Contenido
 
-1. [Introduction](course/01-Introduction.md)
-2. [HTML](course/02-HTML.md)
-3. [CSS](course/03-CSS.md)
-4. [CSS Layout](course/04-CSS-Layout.md)
-5. [CSS Positioning](course/05-CSS-Positioning.md)
-6. [CSS Flexbox](course/06-CSS-Flexbox.md)
-7. [CSS Grid](course/07-CSS-Grid.md)
-8. [CSS Responsive Design](course/08-CSS-Responsive-Design.md)
+- [Introduccion](#introduccion)
+- [HTML](#html)
+- [CSS](#css)
+- [Entorno](#entorno)
+- [Recursos](#recursos)
+- [Licencia](#licencia)
 
-## License
+## Introduccion
 
-This course is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+En este curso aprenderemos los fundamentos de HTML y CSS, dos tecnologias que son el corazon de la web. HTML es el lenguaje que usamos para crear la estructura de una pagina web, mientras que CSS es el lenguaje que usamos para darle estilo a la pagina.
 
-## Contributing
+## HTML
 
-If you would like to contribute to this course, please read the [contributing guidelines](CONTRIBUTING.md).
+HTML es el lenguaje que usamos para crear la estructura de una pagina web. HTML es un lenguaje de marcado, lo que significa que usamos etiquetas para definir la estructura de la pagina. Por ejemplo, la etiqueta `<h1>` define un encabezado de nivel 1, mientras que la etiqueta `<p>` define un parrafo.
 
-## Acknowledgements
+```html
+<h1>Este es un encabezado</h1>
+<p>Este es un parrafo</p>
+```
 
-This course was created by [Ralex](https://ralex.me)
+## CSS
 
-You can take a one on one course with me at [https://ralex.me/course](https://ralex.me/course)
+CSS es el lenguaje que usamos para darle estilo a la pagina. CSS es un lenguaje de estilos, lo que significa que usamos reglas para definir como se ve la pagina. Por ejemplo, la regla `color: red;` define el color del texto como rojo, mientras que la regla `background-color: blue;` define el color de fondo como azul.
 
-## About the Author
+```css
+h1 {
+  color: red;
+  background-color: blue;
+}
+```
 
-I am a software engineer and teacher. I have been teaching programming for over 5 years. I have taught at the college level, and I have also taught programming to kids. I am a Full Stack Developer, Data Scientist and QA, and I have worked professionally as a software engineer and consultant.
+## Entorno
 
-## Author
+> entornos en linea
+
+[![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=E34F26&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)<!--HTML5-->
+[![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/CSS)<!-- CSS3 -->
+[![Codepen](https://img.shields.io/static/v1?label=&message=codepen.io&color=000000&logo=CodePen&logoColor=000000&labelColor=e2e2e2)](https://codepen.io/)<!-- Codepen.io -->
+
+- [codepen.io](https://codepen.io)
+- [codesandbox.io](https://codesandbox.io)
+- [stackblitz.com](https://stackblitz.com)
+
+## Recursos
+
+- [HTML cheatsheet](./course/02-HTML_es.md)
+<!-- - [CSS cheatsheet](./cssCS.md)
+- [Imagenes](./img.md)
+- [Fuentes](./fuentes.md)
+ -->
+## Recursos populares
+
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+- [W3SCHOOLS](https://www.w3schools.com/)
+
+## Licencia
+
+[Open Source](https://opensource.org/licenses/MIT)
+
+## Autores
+
+- Ronald
 
 [![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/ralex_uy) <!-- twitter -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-+28K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ronald-rivero/) <!-- linkedin -->

@@ -65,7 +65,7 @@ h1 {
 
 ## Clases
 
-- [Clase 0](./course/clase_00/00-estructura.html)
+- [Clase 00](./course/clase_00/00-estructura.html)
 
 ## Recursos populares
 

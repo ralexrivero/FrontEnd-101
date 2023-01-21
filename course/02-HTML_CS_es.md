@@ -107,6 +107,16 @@ La etiqueta HTML `<head>` contiene metadatos sobre el documento. Los metadatos s
 
 - `<meta>` define metadatos sobre el documento que no pueden ser definidos por `<head>`, `<title>`, `<style>` o `<script>`.
 
+#### metadatos en profundidad
+
+- `<meta charset="UTF-8">` especifica la codificación de caracteres utilizada en el documento.
+- `<meta name="viewport" content="width=device-width, initial-scale=1.0">` es utilizada para asegurar que el contenido de la página se adapte correctamente a diferentes tamaños de pantalla.
+- `<meta http-equiv="X-UA-Compatible" content="ie=edge">` es utilizada para especificar la compatibilidad con versiones anteriores de Internet Explorer.
+- `<title>` es utilizada para especificar el título de la página, que aparecerá en la pestaña del navegador y en los resultados de búsqueda.
+- `<meta name="description" content="">` proporciona una descripción breve y concisa del contenido de la página.
+- `<meta name="keywords" content="">` proporciona palabras clave o términos relacionados con el contenido de la página que ayudan a los motores de búsqueda a entender el contenido.
+- `<meta name="author" content="">` proporciona el nombre del autor o institución responsable de la página.
+
 #### ejemplo
 
 ```html

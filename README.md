@@ -58,14 +58,17 @@ h1 {
 ## Recursos
 
 - [HTML cheatsheet](./course/02-HTML_CS_es.md)
+- [Imagenes](./course/img_es.md)
 <!-- - [CSS cheatsheet](./cssCS.md)
-- [Imagenes](./img.md)
+
 - [Fuentes](./fuentes.md)
  -->
 
 ## Clases
 
 - [Clase 00](./course/clase_00/00-estructura.html)
+- [Clase 01](./course/clase_01/01-boilerplate.html)
+- [Base HTML](./course/clase_01/base.html)
 
 ## Recursos populares
 

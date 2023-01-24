@@ -69,6 +69,7 @@ h1 {
 - [Clase 00](./course/clase_00/00-estructura.html)
 - [Clase 01](./course/clase_01/01-boilerplate.html)
 - [Base HTML](./course/clase_01/base.html)
+- [Clase 4](./course/clase_04/) - codigos de elementos HTML y formularios
 
 ## Recursos populares
 

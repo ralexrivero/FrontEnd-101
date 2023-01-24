@@ -69,7 +69,7 @@ h1 {
 - [Clase_02](./course/clase_02/) - nuestro boilerplate HTML aplicado
 - [Clase_03](./course/clase_03/) - elementos HTML
 - [Clase_04](./course/clase_04/) - formularios
-- [Clase_05](./course/clase_05/) - 
+- [Clase_05](./course/clase_05/)
 
 ## Recursos populares
 

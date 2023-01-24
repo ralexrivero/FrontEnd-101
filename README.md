@@ -68,7 +68,7 @@ h1 {
 - [Clase_01](./course/clase_01/) - estructura basica de un documento HTML
 - [Clase_02](./course/clase_02/) - nuestro boilerplate HTML aplicado
 - [Clase_03](./course/clase_03/) - elementos HTML
-- [Clase_04](./course/clase_04/) - formularios
+- [Clase_04](./course/clase_04/) - formularios y CSS
 - [Clase_05](./course/clase_05/)
 
 ## Recursos populares

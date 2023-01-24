@@ -59,17 +59,17 @@ h1 {
 
 - [HTML cheatsheet](./course/02-HTML_CS_es.md)
 - [Imagenes](./course/img_es.md)
-<!-- - [CSS cheatsheet](./cssCS.md)
-
-- [Fuentes](./fuentes.md)
- -->
+- [CSS cheatsheet](./course/03-CSS_es.md)
+- [Fuentes](./course/fonts_es.md)
 
 ## Clases
 
-- [Clase 00](./course/clase_00/00-estructura.html)
-- [Clase 01](./course/clase_01/01-boilerplate.html)
-- [Base HTML](./course/clase_01/base.html)
-- [Clase 4](./course/clase_04/) - codigos de elementos HTML y formularios
+- [Clase_00](./course/clase_00/) - hola mundo
+- [Clase_01](./course/clase_01/) - estructura basica de un documento HTML
+- [Clase_02](./course/clase_02/) - nuestro boilerplate HTML aplicado
+- [Clase_03](./course/clase_03/) - elementos HTML
+- [Clase_04](./course/clase_04/) - formularios
+- [Clase_05](./course/clase_05/) - 
 
 ## Recursos populares
 

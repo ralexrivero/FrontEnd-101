@@ -1,13 +1,13 @@
 # Fuentes
 
-## Fuentes
+## Fuentes online y descargas
 
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Adobe Fonts](https://fonts.adobe.com/)
 
-## Iconos
+## Iconos y favicons
 
 - [Font Awesome](https://fontawesome.com/)
 - [Flaticon](https://www.flaticon.es/)

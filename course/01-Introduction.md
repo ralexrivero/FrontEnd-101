@@ -101,10 +101,8 @@ Getting Started with Visual Studio Code  (Microsoft)
 
 https://code.visualstudio.com/docs
 
-
 ## What is a web developer?
 
 A web developer is a person that is used to create web pages. A web developer is a person that is used to create web pages that are written in HTML and CSS. A web developer is a person that is used to create web pages that are written in HTML and CSS and Javascript. A web developer is a person that is used to create web pages that are written in HTML and CSS and Javascript and PHP.
 
 Libraries are reusable pieces of ode that can be used by your application. They are purpose-built to provide a specific functionality. A developer access the functionality of a library by calling a function or method, as a result they can have more time to focus on the application development.
-

@@ -1,0 +1,14 @@
+/*
+Comentarios de multiples lineas
+*/
+
+h1 {
+  color: chocolate;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+}
+
+h2 {
+  background-color: aquamarine;
+  color:blueviolet;
+}

@@ -1,0 +1,74 @@
+/* selector de etiqueta */
+/* no es lo mas recomendable */
+
+h1 {
+  color: chocolate;
+}
+
+/*
+selector de id
+es el mas especifico
+es el menos recomendado o utilizado
+lo usamos principalmente para js o para hipervinculos
+*/
+
+#propiedad_texto {
+  color: green;
+}
+
+/*
+clases
+Es la forma recomendada, la mejor practica
+*/
+
+.parrafo_uno {
+  color: red;
+}
+
+.titulo_secundario {
+  font-size: 24px;
+  background-color: aqua;
+}
+
+/*
+*************************************************
+  Fuentes
+*************************************************
+*/
+
+/*
+font family
+agregamos una fuente de google fonts
+color
+
+*/
+.texto_formal {
+  font-family:'Times New Roman', Times, serif;
+}
+
+.texto_informal {
+  font-family: 'Roboto', sans-serif;
+  color: brown;
+}
+
+.texto_parrafo_mediano {
+  font-size: 16px;
+}
+
+.parrafo_italica {
+  font-style: italic;
+}
+
+.parrafo_oblique {
+  font-style: oblique;
+}
+
+.parrafo_centro {
+  text-align: center;
+}
+
+.parrafo_resaltado {
+  font-weight: bold;
+/*  font-variant: small-caps; */
+  text-decoration: underline;
+}

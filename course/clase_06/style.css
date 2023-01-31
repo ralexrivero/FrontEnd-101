@@ -1,0 +1,107 @@
+html {
+  font-size: 14px;
+}
+/* agrupacion de selectores */
+
+.titulo_principal, .encabezado_secundario, .encabezado_tres {
+  color: cornflowerblue;
+}
+
+
+.notas {
+  background-color: beige;
+}
+
+/* sub clase */
+
+p.notas {
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.rojo {
+  color: #ff0000;
+}
+
+.transparencia {
+  font-weight: bolder;
+  font-size: 48px;
+  color: rgba(255, 00, 00, 0.15);
+}
+
+.hexadecimal {
+  color: #f06292;
+}
+
+/**************************************************
+bordes
+**************************************************/
+
+.borde_solido {
+  border: 2px solid #9575CD;
+}
+
+.borde_inferior {
+  border-bottom: 5px solid #E53935;
+}
+
+.borde_superior {
+  border-top: 4px solid #f06292;
+}
+
+.borde_multiple {
+  border-top-width: 5px;
+  border-top-style: solid;
+  border-top-color: #ad1456;
+
+  border-right-width: 10px;
+  border-right-style: dotted;
+  border-right-color: #00e8a8;
+
+  border-bottom-width: 15px;
+  border-bottom-style: dashed;
+  border-bottom-color: #f0c162;
+
+  border-left-width: 20px;
+  border-left-style: double;
+  border-left-color: #91f062;
+}
+
+.borde_relieve {
+  border: 12px groove #64FFDA;
+}
+
+.elem_linea {
+  border: 2 px solid #33691E;
+  background-color: #DCEDC8;
+}
+
+.elemento {
+  border-width: 5px 10px 15px 20px;
+  border-style: solid dotted dashed double;
+  border-color: red blue green yellow;
+}
+
+.multiple_abreviado {
+  border-width: 5px 10px 15px 20px;
+  border-style: solid dotted dashed double;
+  border-color: red blue green yellow;
+}
+
+p {
+  font-size: 1rem;
+}
+
+.borde_redondeado {
+  border: 1px solid #ad1456;
+  border-radius: 2rem;
+/*  border-radius: 5px 10px 15px 20px */
+}
+
+.margen {
+  margin: 20px;;
+}
+
+.relleno {
+  padding: 20px;
+}

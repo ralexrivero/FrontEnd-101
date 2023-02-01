@@ -1,0 +1,53 @@
+.formulario {
+  width: 50%;
+  /* arriba, derecha, abajo, izquierda */
+  /* arriba y abajo, derecha e izquierda */
+  /* uno para los cuatro */
+  margin: 20px auto;
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: 20px auto;
+  border: 2px solid #5D5335;
+  border-radius: 4px;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+  width: 80%;
+  padding: 10px;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+}
+
+label {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.btn {
+  background-color: #11B549;
+  color: #fff;
+  padding: 10px 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+/* pseudoclases */
+
+/* cuando paso el puntero por arriba, lo uso para botones y vinculos */
+
+.btn:hover {
+  background-color: #00F252;
+}
+
+.btn:active {
+  background-color: 00F252;
+  box-shadow: 0 1px #666;
+  transform: translateY(2px);
+}

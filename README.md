@@ -70,7 +70,13 @@ h1 {
 - [Clase_03](./course/clase_03/) - elementos HTML
 - [Clase_04](./course/clase_04/) - formularios y CSS
 - [Clase_05](./course/clase_05/) - href y CSS: formato de texto
-- [Clase_06](./course/clase_06/) - 
+- [Clase_06](./course/clase_06/) - bordes y colores
+- [Clase_07](./course/clase_07/) - CSS avanzado: modelo de caja
+
+## labs
+
+- [lab_02](./course/lab/0x02-lab/) - formulario simple con estilos css
+- [lab 02 deploy](https://ralexrivero.github.io/curso_html_css/lab/0x02-lab_02/)
 
 ## Recursos populares
 

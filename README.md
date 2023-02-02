@@ -76,7 +76,7 @@ h1 {
 ## labs
 
 - [lab_02](./course/lab/0x02-lab/) - formulario simple con estilos css
-- [lab 02 deploy](https://ralexrivero.github.io/curso_html_css/lab/0x02-lab_02/)
+- [lab 02 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x02-lab/)
 
 ## Recursos populares
 

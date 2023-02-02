@@ -73,10 +73,12 @@ h1 {
 - [Clase_06](./course/clase_06/) - bordes y colores
 - [Clase_07](./course/clase_07/) - CSS avanzado: modelo de caja
 
-## labs
+## Labs
 
-- [lab_02](./course/lab/0x02-lab/) - formulario simple con estilos css
-- [lab 02 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x02-lab/)
+| Lab | despliegue | contenido |
+|--------|------------------------------------|---------------|
+| [lab_02](./course/lab/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x02-lab/) | formulario simple con estilos css |
+
 
 ## Recursos populares
 

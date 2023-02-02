@@ -16,7 +16,7 @@
 - [HTML](#html)
 - [CSS](#css)
 - [Entorno](#entorno)
-- [Recursos](#recursos)
+- [Secciones](#secciones)
 - [Licencia](#licencia)
 
 ## Introduccion

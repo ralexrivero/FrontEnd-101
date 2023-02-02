@@ -55,14 +55,18 @@ h1 {
 - [codesandbox.io](https://codesandbox.io)
 - [stackblitz.com](https://stackblitz.com)
 
-## Recursos
+## Secciones
 
+- [Introduccion](./course/01-intro_es.md)
 - [HTML cheatsheet](./course/02-HTML_CS_es.md)
-- [Imagenes](./course/img_es.md)
 - [CSS cheatsheet](./course/03-CSS_es.md)
+- [Box model](./course/05-box_model_es.md)
+- [Imagenes](./course/img_es.md)
 - [Fuentes](./course/fonts_es.md)
 
 ## Clases
+
+> clic para ver el código
 
 - [Clase_00](./course/clase_00/) - hola mundo
 - [Clase_01](./course/clase_01/) - estructura basica de un documento HTML
@@ -75,10 +79,11 @@ h1 {
 
 ## Labs
 
-| Lab | despliegue | contenido |
+> código y despligue de los labs
+
+| código | despliegue | contenido |
 |--------|------------------------------------|---------------|
 | [lab_02](./course/lab/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x02-lab/) | formulario simple con estilos css |
-
 
 ## Recursos populares
 

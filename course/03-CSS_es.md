@@ -100,7 +100,7 @@ p {
 }
 ```
 
-Un selector universal se utiliza para resetear los estilos de un documento.
+El selector universal se utiliza para resetear los estilos de un documento.
 
 ```css
 * {
@@ -176,6 +176,8 @@ body {
 - [HTML COLORS](https://htmlcolorcodes.com/es/)
 - [CSS COLOR NAMES](https://www.w3schools.com/colors/colors_names.asp)
 - [Material Design Color Tool](https://material.io/resources/color/#!/?view.left=0&view.right=0)
+- [Color Hunt](https://colorhunt.co/)
+- [Paletton](https://paletton.com/)
 
 ## Unidades
 

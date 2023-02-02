@@ -2,6 +2,8 @@
 
 El modelo de caja en HTML y CSS es un concepto clave para entender cómo funciona la maquetación de una página web. Se refiere a la forma en que los elementos HTML se representan visualmente en la página.
 
+![Box model](./img/box_model_es.png)
+
 Cada elemento HTML es una caja, que puede tener un contenido, un borde, un margen, un relleno y una altura y ancho especificados. Estas propiedades se pueden modificar mediante CSS para crear un diseño personalizado y atractivo.
 
 Aquí hay un ejemplo de código HTML que muestra cómo utilizar las propiedades de la caja en CSS para dar estilo a un elemento HTML:

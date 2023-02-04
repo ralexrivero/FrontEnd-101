@@ -78,8 +78,8 @@ h1 {
 | [Clase_05](./course/clase_05/) | | - href y CSS: formato de texto |
 | [Clase_06](./course/clase_06/) | | - bordes y colores |
 | [Clase_07](./course/clase_07/) | | - CSS avanzado: modelo de caja |
-| [Clase_08](./course/clase_08/consolas/) | | - CSS avanzado: galeria de imagenes con flexbox |
-| [Clase_08](./course/clase_08/flexbox/) | | - CSS avanzado: posicionamiento con flexbox |
+| [Clase_08](./course/clase_08/consolas/) |[galeria](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_08/consolas/) | - CSS avanzado: galeria de imagenes con flexbox |
+| [Clase_08](./course/clase_08/flexbox/) |[flexbox](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
 
 ## Labs
 

@@ -12,12 +12,21 @@
 
 ## Tabla de Contenido
 
-- [Introduccion](#introduccion)
-- [HTML](#html)
-- [CSS](#css)
-- [Entorno](#entorno)
-- [Secciones](#secciones)
-- [Licencia](#licencia)
+# Table of contents
+
+- [HTML-CSS101](#html-css101)
+  - [Tabla de Contenido](#tabla-de-contenido)
+  - [Introduccion](#introduccion)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [Entorno](#entorno)
+  - [Entornos en linea](#entornos-en-linea)
+  - [Secciones](#secciones)
+  - [Clases](#clases)
+  - [Labs](#labs)
+  - [Links de interes](#links-de-interes)
+  - [Licencia](#licencia)
+  - [Autor](#autor)
 
 ## Introduccion
 
@@ -63,6 +72,7 @@ h1 {
 - [Box model](./course/05-box_model_es.md)
 - [Imagenes](./course/img_es.md)
 - [Fuentes](./course/fonts_es.md)
+- [Flexbox](./course/06-flexbox_es.md)
 
 ## Clases
 

@@ -68,14 +68,18 @@ h1 {
 
 > clic para ver el código
 
-- [Clase_00](./course/clase_00/) - hola mundo
-- [Clase_01](./course/clase_01/) - estructura basica de un documento HTML
-- [Clase_02](./course/clase_02/) - nuestro boilerplate HTML aplicado
-- [Clase_03](./course/clase_03/) - elementos HTML
-- [Clase_04](./course/clase_04/) - formularios y CSS
-- [Clase_05](./course/clase_05/) - href y CSS: formato de texto
-- [Clase_06](./course/clase_06/) - bordes y colores
-- [Clase_07](./course/clase_07/) - CSS avanzado: modelo de caja
+| codigo | despliegue | contenido |
+|--------|------------------------------------|---------------|
+| [Clase_00](./course/clase_00/) | | - hola mundo |
+| [Clase_01](./course/clase_01/) | | - estructura basica de un documento HTML |
+| [Clase_02](./course/clase_02/) | | - nuestro boilerplate HTML aplicado |
+| [Clase_03](./course/clase_03/) | | - elementos HTML |
+| [Clase_04](./course/clase_04/) | | - formularios y CSS |
+| [Clase_05](./course/clase_05/) | | - href y CSS: formato de texto |
+| [Clase_06](./course/clase_06/) | | - bordes y colores |
+| [Clase_07](./course/clase_07/) | | - CSS avanzado: modelo de caja |
+| [Clase_08](./course/clase_08/consolas/) | | - CSS avanzado: galeria de imagenes con flexbox |
+| [Clase_08](./course/clase_08/flexbox/) | | - CSS avanzado: posicionamiento con flexbox |
 
 ## Labs
 
@@ -85,7 +89,7 @@ h1 {
 |--------|------------------------------------|---------------|
 | [lab_02](./course/lab/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x02-lab/) | formulario simple con estilos css |
 
-## Recursos populares
+## Links de interes
 
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS)

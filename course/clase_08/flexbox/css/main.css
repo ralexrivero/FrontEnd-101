@@ -24,13 +24,10 @@ body {
 .box-p {
   color: #fff;
   font-weight: 500;
+  font-size: 30px;
 }
 
-.flex-container {
-  display: flex;
-  width: 100%;
-}
-
+/* propiedades de las cajas */
 .box-1 {
   background-color: #9765f4;
   height: 150px;
@@ -49,3 +46,50 @@ body {
   width: 100px;
 }
 
+/* flexbox */
+
+.flex-container {
+  display: flex;
+  width: 100%;
+}
+
+.flex-container-wrap {
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+}
+
+.flex-container-column {
+  flex-direction: column;
+}
+
+.flex-container-column-reverse {
+  flex-direction: column-reverse;
+}
+
+
+.flex-container-center {
+  justify-content: center;
+}
+
+.flex-container-between {
+  justify-content: space-between;
+}
+
+.flex-container-around {
+  justify-content: space-around;
+}
+
+.flex-container-evenly {
+  justify-content: space-evenly;
+}
+
+.flex-container-align-end {
+  align-items: flex-end;
+}
+
+.flex-pinterest {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  flex-basis: 33.33%;
+}

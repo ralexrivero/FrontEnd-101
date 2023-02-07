@@ -1,0 +1,25 @@
+.box-1 {
+  display: flex;
+  flex-direction: column;
+  min-width: 240px;
+  max-width: 480px;
+  border: 10px solid #000;
+  border-radius: 4px;
+  background-color: #ff9e22;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.box-2 {
+  display: flex;
+  flex-direction: column;
+  min-width: none;
+  max-width: 480px;
+  border: 10px solid #000;
+  border-radius: 4px;
+  background-color: #f186c0;
+  padding: 10px;
+  margin: 10px;
+  box-sizing: border-box;
+}

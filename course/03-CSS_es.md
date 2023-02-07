@@ -754,10 +754,4 @@ body {
 
 Algunos frameworks CSS que pueden ser de utilidad.
 
-- [Bootstrap](https://getbootstrap.com/)
-- [Materialize](https://materializecss.com/)
-- [Bulma](https://bulma.io/)
-- [Foundation](https://get.foundation/)
-- [Semantic UI](https://semantic-ui.com/)
-- [Tailwind](https://tailwindcss.com/)
-- [Material UI](https://material-ui.com/)
+- [CSS frameworks](04-CSS_Frameworks.md)

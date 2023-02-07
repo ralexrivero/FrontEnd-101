@@ -8,19 +8,7 @@
 - [MVP.css](https://andybrewer.github.io/mvp/)
 - [Skeleton](http://getskeleton.com/)
 - [Bulma](https://bulma.io/)
-
-Bootstrap Official Website
-
-https://getbootstrap.com/
-
-Bootstrap 5 Foundations by Daniel Foreman
-
-https://www.amazon.com/Bootstrap-Foundations-Mr-Daniel-Foreman/dp/B0948GRS8W/
-
-Responsive Web Design with HTML5 and CSS  by Ben Frain
-
-https://www.amazon.com/Responsive-Web-Design-HTML5-CSS/dp/1839211563/
-
-Bootstrap Themes
-
-https://themes.getbootstrap.com/
+- [Milligram](https://milligram.io/)
+- [Semantic UI](https://semantic-ui.com/)
+- [Material UI](https://material-ui.com/)
+- [Materialize](https://materializecss.com/)

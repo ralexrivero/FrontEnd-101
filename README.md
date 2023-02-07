@@ -12,12 +12,21 @@
 
 ## Tabla de Contenido
 
-- [Introduccion](#introduccion)
-- [HTML](#html)
-- [CSS](#css)
-- [Entorno](#entorno)
-- [Secciones](#secciones)
-- [Licencia](#licencia)
+# Table of contents
+
+- [HTML-CSS101](#html-css101)
+  - [Tabla de Contenido](#tabla-de-contenido)
+  - [Introduccion](#introduccion)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [Entorno](#entorno)
+  - [Entornos en linea](#entornos-en-linea)
+  - [Secciones](#secciones)
+  - [Clases](#clases)
+  - [Labs](#labs)
+  - [Links de interes](#links-de-interes)
+  - [Licencia](#licencia)
+  - [Autor](#autor)
 
 ## Introduccion
 
@@ -63,6 +72,7 @@ h1 {
 - [Box model](./course/05-box_model_es.md)
 - [Imagenes](./course/img_es.md)
 - [Fuentes](./course/fonts_es.md)
+- [Flexbox](./course/06-flexbox_es.md)
 
 ## Clases
 
@@ -80,6 +90,7 @@ h1 {
 | [Clase_07](./course/clase_07/) | | - CSS avanzado: modelo de caja |
 | [Clase_08](./course/clase_08/consolas/) |[galeria](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_08/consolas/) | - CSS avanzado: galeria de imagenes con flexbox |
 | [Clase_08](./course/clase_08/flexbox/) |[flexbox](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
+<!-- | [Clase_09](./course/clase_09/) | [flexbox](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_08/flexbox/)| - CSS avanzado: posicionamiento con flexbox | -->
 
 ## Labs
 

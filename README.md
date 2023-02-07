@@ -88,8 +88,8 @@ h1 {
 | [Clase_07](./course/clase_07/) | | - CSS avanzado: modelo de caja |
 | [Clase_08](./course/clase_08/consolas/) |[galeria](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_08/consolas/) | - CSS avanzado: galeria de imagenes con flexbox |
 | [Clase_08](./course/clase_08/flexbox/) |[flexbox](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
-| [Clase_09](./course/clase_09/) | [border-box](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_09/09-border-box)| - CSS avanzado: box-sizing  |
-| [Clase_09](./course/clase_09/) | [max-width](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_09/09-max-width)| - CSS avanzado: max-width y min-width |
+| [Clase_09](./course/clase_09/09-border-box/) | [border-box](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_09/09-border-box)| - CSS avanzado: box-sizing  |
+| [Clase_09](./course/clase_09/09-max-width/) | [max-width](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_09/09-max-width)| - CSS avanzado: max-width y min-width |
 
 ## Labs
 

@@ -95,9 +95,9 @@ h1 {
 
 > código y despligue de los labs
 
-| código | despliegue | contenido |
-|--------|------------------------------------|---------------|
-| [lab_02](./course/lab/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x02-lab/) | formulario simple con estilos css |
+| código | despliegue | contenido | especificación |
+|--------|------------------------------------|---------------|---------------|
+| [lab_02](./course/lab/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./course/lab/0x02-lab/0x02-espec.md) |
 
 ## Links de interes
 

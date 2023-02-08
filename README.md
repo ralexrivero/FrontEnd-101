@@ -12,19 +12,17 @@
 
 ## Tabla de Contenido
 
-- [HTML-CSS101](#html-css101)
-  - [Tabla de Contenido](#tabla-de-contenido)
-  - [Introduccion](#introduccion)
-  - [HTML](#html)
-  - [CSS](#css)
-  - [Entorno](#entorno)
-  - [Entornos en linea](#entornos-en-linea)
-  - [Secciones](#secciones)
-  - [Clases](#clases)
-  - [Labs](#labs)
-  - [Links de interes](#links-de-interes)
-  - [Licencia](#licencia)
-  - [Autor](#autor)
+- [Introduccion](#introduccion)
+- [HTML](#html)
+- [CSS](#css)
+- [Entorno](#entorno)
+- [Entornos en linea](#entornos-en-linea)
+- [Secciones](#secciones)
+- [Clases](#clases)
+- [Labs](#labs)
+- [Links de interes](#links-de-interes)
+- [Licencia](#licencia)
+- [Autor](#autor)
 
 ## Introduccion
 

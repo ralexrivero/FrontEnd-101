@@ -1,26 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
-  <title>Document</title>
+  <title>code snippet</title>
 </head>
 <body>
-  <h2>HTML</h2>
-  <pre>
-    <code>
-      &lt;head&gt;
-        &lt;meta charset="UTF-8"&gt;
-        &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
-        &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
-        &lt;link rel="stylesheet" href="style.css"&gt;
-        &lt;title&gt;Document&lt;/title&gt;
-      &lt;/head&gt;
-    </code>
-  </pre>
-  <h2>CSS</h2>
+  <main>
+    <div class="container flex-column">
+      <h1>Code snippet</h1>
+      <p class="intro">Escapando caracteres especiales, utilizando elementos pre y code, junto con CSS formateamos nuestro codigo para generar un code snippet dark mode</p>
+    </div> <!-- container -->
+
+    <div class="container">
+      <div class="code-area">
+        <pre class="code-snippet">
+          <code class="lang-html">
+            <!-- pegar el codigo escapado -->
+            &lt;head&gt;
+              &lt;meta charset=<span class="code-string">"UTF-8"</span>&gt;
+              &lt;meta http-equiv=<span class="code-string">"X-UA-Compatible" </span>content=<span class="code-string">"IE=edge"</span>&gt;
+              &lt;meta name=<span class="code-string">"viewport"</span> content=<span class="code-string">"width=device-width, initial-scale=1.0"</span>&gt;
+              &lt;link rel="stylesheet" href="style.css"&gt;
+              &lt;title&gt;Document&lt;/title&gt;
+            &lt;/head&gt;
+          </code>
+        </pre>
+      </div> <!-- code-area -->
+    </div> <!-- container -->
+  </main>
 </body>
 </html>
 

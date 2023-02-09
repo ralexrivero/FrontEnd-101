@@ -1,17 +1,85 @@
-pre {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 16px;
-  background-color: #d4d4d4;
-  padding: 1rem;
-  border-radius: 4px;
-  font-family: Arial, Helvetica, sans-serif;
-  line-height: 1.5;
-  overflow-x: auto;
+/******************************************************
+  reset
+******************************************************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-code {
-  background-color: rgba(255, 255, 255, 0.05);
-  color: #d4d4d4;
-  padding: 2px 4px;
-  border-radius: 4px;
+/******************************************************
+  general
+******************************************************/
+body {
+  background-color: #282c34;
+  color: #abb2bf;
+  font-family: "Source Code Pro", monospace;
+  font-size: 1rem;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+.intro {
+  max-width: 60%;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+/******************************************************
+  snippet
+******************************************************/
+.code-area {
+/*   background-color: rgba(171, 184, 195, 1); */
+}
+
+.code-snippet {
+  display: flex;
+  align-items: flex-start;
+  border-radius: 10px;
+/*   box-shadow: 0px 0px 10px #ccc; */
+  box-shadow: 0 20px 68px rgba(0, 0, 0, 0.55);
+  overflow: auto;
+  margin: 2rem 0.5rem;
+  padding: 1rem;
+  width: 100%;
+}
+
+.code-line {
+  display: block;
+  padding: 0 10px;
+}
+
+.code-keyword {
+  color: #56b6c2;
+  font-weight: bold;
+}
+
+.code-string {
+  color: #98c379;
+}
+
+.code-number {
+  color: #d19a66;
+}
+
+.code-comment {
+  color: #5c6370;
+  font-style: italic;
+}
+
+.code-tag {
+  color: #e06c75;
+}
+
+.code-attribute {
+  color: #d19a66;
 }

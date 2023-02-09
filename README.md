@@ -88,6 +88,8 @@ h1 {
 | [Clase_08](./course/clase_08/flexbox/) |[flexbox](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
 | [Clase_09](./course/clase_09/09-border-box/) | [border-box](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_09/09-border-box)| - CSS avanzado: box-sizing  |
 | [Clase_09](./course/clase_09/09-max-width/) | [max-width](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_09/09-max-width)| - CSS avanzado: max-width y min-width |
+| [Clase_10](./course/clase_10/float) | [clase 10](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_10/float) | - CSS avanzado: posicionamiento con float |
+| [Clase_10](./course/clase_10/codigo) | [clase 10](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_10/codigo) | - CSS avanzado: formatear un code snippet |
 
 ## Labs
 

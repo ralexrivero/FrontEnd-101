@@ -97,8 +97,8 @@ h1 {
 |--------|------------------------------------|---------------|---------------|
 | [lab_02](./course/lab/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./course/lab/0x02-lab/0x02-espec.md) |
 | [lab_03](./course/lab/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x03-lab/) | flexbox | [0x03-spec](./course/lab/0x03-lab/0x03-espec.md) |
-| [lab_04](./course/lab/0x04-lab/) | [lab 04 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x04-lab/) | refactorizacion de css | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
-
+| [lab_04](./course/lab/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x04-lab/09-border-box/) | refactorizacion de css border-box | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
+| [lab_04](./course/lab/0x04-lab/09-max-width/) | [lab 04 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x04-lab/09-max-width) | refactorizacion de css max-width | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
 
 ## Links de interes
 

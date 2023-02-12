@@ -93,7 +93,6 @@ h1 {
 | [Clase_11](./course/clase_11/float) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/float) | - CSS avanzado: layout de dos columnas con float |
 | [Clase_11](./course/clase_11/fontawesome) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/fontawesome) | - CSS avanzado: iconos con FontAwesome |
 
-
 ## Labs
 
 > código y despligue de los labs

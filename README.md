@@ -91,6 +91,7 @@ h1 {
 | [Clase_10](./course/clase_10/float) | [clase 10](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_10/float) | - CSS avanzado: posicionamiento con float |
 | [Clase_10](./course/clase_10/codigo) | [clase 10](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_10/codigo) | - CSS avanzado: formatear un code snippet |
 
+
 ## Labs
 
 > código y despligue de los labs

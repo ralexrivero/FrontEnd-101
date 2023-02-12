@@ -31,15 +31,51 @@ Las propiedades flexbox más comunes son:
 - `flex-basis`: Establece el tamaño base de los elementos hijos en el contenedor flex.
 - `flex`: Es un atajo para establecer `flex-grow`, `flex-shrink` y `flex-basis` en una sola línea.
 
-## Flexbox Container
+## Flexbox Container - elemento padre
 
-Un elemento contenedor es un elemento HTML que contiene otros elementos HTML. El elemento contenedor se define con la propiedad `display: flex;`.
+### display
+
+- `display: flex;` establece que un elemento es un contenedor flex.
+- `display: inline-flex;` establece que un elemento es un contenedor flex en línea.
+
+Esta propiedad establece un contexto flex para todos sus hijos directos.``
 
 ```css
 .container {
   display: flex;
 }
 ```
+
+### flex-direction
+
+- `flex-direction: row | row-reverse | column | column-reverse;`
+
+- `row;` distribuye los elementos flexibles en una fila. Es el valor por omisión. De izquierda a derecha.
+- `row-reverse;` distribuye los elementos flexibles en una fila, pero en orden inverso. De derecha a izquierda.
+- `column;` distribuye los elementos flexibles en una columna. De arriba a abajo.
+- `column-reverse;` distribuye los elementos flexibles en una columna, pero en orden inverso. De abajo a arriba.
+
+### flex-wrap
+
+Define si los items flex se fuerzan a una sola línea o fluyen en múltiples líneas.
+
+- `flex-wrap: nowrap | wrap | wrap-reverse;`
+
+- `nowrap;` los elementos flexibles no se ajustan en varias líneas. Es el valor por omisión.
+- `wrap;` los elementos flexibles se ajustan en varias líneas. De arriba a abajo.
+- `wrap-reverse;` los elementos flexibles se ajustan en varias líneas, pero en orden inverso. De abajo a arriba.
+
+### justify-content
+
+- `justify-content: center | flex-start | flex-end | space-between | space-around;`
+
+- `center;` alinea los elementos flexibles en el centro del elemento contenedor.
+- `flex-start;` alinea los elementos flexibles al principio del elemento contenedor.
+- `flex-end;` alinea los elementos flexibles al final del elemento contenedor.
+- `space-between;` distribuye los elementos flexibles con un espacio igual entre ellos.
+- `space-around;` distribuye los elementos flexibles con un espacio igual alrededor de ellos.
+
+
 
 ## Flexbox Items
 

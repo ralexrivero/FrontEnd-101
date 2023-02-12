@@ -90,8 +90,8 @@ h1 {
 | [Clase_09](./course/clase_09/09-max-width/) | [max-width](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_09/09-max-width)| - CSS avanzado: max-width y min-width |
 | [Clase_10](./course/clase_10/float) | [clase 10](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_10/float) | - CSS avanzado: posicionamiento con float |
 | [Clase_10](./course/clase_10/codigo) | [clase 10](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_10/codigo) | - CSS avanzado: formatear un code snippet |
-| [Clase_11](./course/clase_11/float) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/float) | - CSS avanzado: posicionamiento con float |
-| [Clase_11](./course/clase_11/fontawesome) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/fontawesome) | - CSS avanzado: formatear un code snippet |
+| [Clase_11](./course/clase_11/float) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/float) | - CSS avanzado: layout de dos columnas con float |
+| [Clase_11](./course/clase_11/fontawesome) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/fontawesome) | - CSS avanzado: iconos con FontAwesome |
 
 
 ## Labs

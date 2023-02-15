@@ -10,7 +10,7 @@
 
 body {
   background-color: #eceff1;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Roboto', sans-serif;
 }
 
 main {
@@ -150,3 +150,16 @@ li {
 .grad_1 {
   background: linear-gradient(45deg, #2196f3, #f44336);
 }
+
+/*****************************************
+ * gradiente en texto
+*****************************************/
+
+.gradient-text {
+	background: -webkit-linear-gradient(#36beff,#733ff1);
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	text-decoration: none;
+}
+

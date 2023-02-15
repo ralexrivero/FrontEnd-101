@@ -108,7 +108,6 @@ console.log("Hola mundo");
 | [Clase_12](./course/clase_12/hello_javascript/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_12/hello_javascript) | - JavaScript: Hello World en consola |
 | [Clase_12](./course/clase_12/tipos_variables/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_12/tipos_variables) | - JavaScript: Tipos de variables en JavaScript |
 
-
 ## Labs
 
 > código y despligue de los labs
@@ -119,6 +118,9 @@ console.log("Hola mundo");
 | [lab_03](./course/lab/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x03-lab/) | flexbox | [0x03-spec](./course/lab/0x03-lab/0x03-espec.md) |
 | [lab_04](./course/lab/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x04-lab/09-border-box/) | refactorizacion de css border-box | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
 | [lab_04](./course/lab/0x04-lab/09-max-width/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x04-lab/09-max-width) | refactorizacion de css max-width | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
+<!-- | [lab_05](./course/lab/0x05-lab/) | [lab 05 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x05-lab/) | flexbox | [0x05-spec](./course/lab/0x05-lab/0x05-espec.md) |
+| [lab_06](./course/lab/0x06-lab/) | [lab 06 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x06-lab/) | flexbox | [0x06-spec](./course/lab/0x06-lab/0x06-espec.md) | -->
+| [lab_07](./course/lab/0x07-lab/) | [lab 07 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x07-lab/) | flexbox | [0x07-spec](./course/lab/0x07-lab/0x07-espec.md) |
 
 ## Links de interes
 

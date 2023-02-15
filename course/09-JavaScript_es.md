@@ -442,3 +442,6 @@ for (const  numero of numeros) {
   console.log(numero);
 }
 ```
+
+## Strings
+

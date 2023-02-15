@@ -116,14 +116,22 @@ const  esEstudiante = true;
 
 En el ejemplo anterior, `nombre` es una variable de tipo `string`, `edad` es una variable de tipo `number` y `esEstudiante` es una variable de tipo `boolean`.
 
-Tipos de datos primitivos:
+### Tipos de datos primitivos
 
-- `string`: una cadena de caracteres.
-- `number`: un número.
-- `boolean`: un valor lógico que puede ser `true` o `false`.
-- `null`: un valor especial que indica la ausencia de un valor.
-- `undefined`: un valor especial que indica que una variable no ha sido inicializada.
-- `symbol`: un tipo de dato primitivo que es único e inmutable.
+- `string`: cadena de caracteres o una cadena vacía, por ejemplo: `"Hola"`, `"Adiós"`, `""`
+- `number`: un número entero o decimal, por ejemplo: `17` o `24.31`, `-911`
+- `boolean`: un valor lógico que puede ser `true` o `false`
+- `null`: un valor especial que indica la ausencia de un valor
+- `undefined`: un valor especial que indica que una variable no ha sido inicializada, por ejemplo: `let nombre;`
+- `symbol`: un tipo de dato primitivo que es único e inmutable, por ejemplo: `Symbol("foo")`
+
+### Tipos de datos no primitivos
+
+- `object`: colecciones de *propiedades* y *valores*, por ejemplo: `{ nombre: "Juan", edad: 25 }`
+- `array`: una lista ordenada de valores, por ejemplo: `[1, 2, 3, 4, 5]`
+- `function`: bloques de código reutilizable que pueden ser llamados, por ejemplo: `function sumar(a, b) { return a + b; }`
+- `date`: representan fechas y horas, por ejemplo: `new Date()`
+- `regexp`: las expresiones regulares son patrones utilizados para buscar y reemplazar texto, por ejemplo: `/hola/`
 
 ## Operador typeof
 

@@ -8,7 +8,7 @@
 ██   ██    ██    ██      ██ ███████      ██████ ███████ ███████ 
 ```
 
-> Introduccion a HTML y CSS
+> Introduccion a HTML, CSS y JavaScript
 
 ## Tabla de Contenido
 
@@ -26,11 +26,11 @@
 
 ## Introduccion
 
-En este curso aprenderemos los fundamentos de HTML y CSS, dos tecnologias que son el corazon de la web. HTML es el lenguaje que usamos para crear la estructura de una pagina web, mientras que CSS es el lenguaje que usamos para darle estilo a la pagina.
+En este curso aprenderemos los fundamentos de **HTML**, **CSS** y **JavaScript**, tres tecnologias que son el corazon de la web. HTML es el lenguaje que usamos para crear la estructura de una pagina web, mientras que CSS es el lenguaje que usamos para darle estilo a la pagina y JavaScript es el lenguaje que usamos para darle interactividad a la pagina.
 
 ## HTML
 
-HTML es el lenguaje que usamos para crear la estructura de una pagina web. HTML es un lenguaje de marcado, lo que significa que usamos etiquetas para definir la estructura de la pagina. Por ejemplo, la etiqueta `<h1>` define un encabezado de nivel 1, mientras que la etiqueta `<p>` define un parrafo.
+**HTML** es el lenguaje que usamos para crear la estructura de una pagina web. **HTML** es un lenguaje de marcado, lo que significa que usamos etiquetas para definir la estructura de la pagina. Por ejemplo, la etiqueta `<h1>` define un encabezado de nivel 1, mientras que la etiqueta `<p>` define un parrafo.
 
 ```html
 <h1>Este es un encabezado</h1>
@@ -39,7 +39,7 @@ HTML es el lenguaje que usamos para crear la estructura de una pagina web. HTML 
 
 ## CSS
 
-CSS es el lenguaje que usamos para darle estilo a la pagina. CSS es un lenguaje de estilos, lo que significa que usamos reglas para definir como se ve la pagina. Por ejemplo, la regla `color: red;` define el color del texto como rojo, mientras que la regla `background-color: blue;` define el color de fondo como azul.
+**CSS** es el lenguaje que usamos para darle estilo a la pagina. **CSS** es un lenguaje de estilos, lo que significa que usamos reglas para definir como se ve la pagina. Por ejemplo, la regla `color: red;` define el color del texto como rojo, mientras que la regla `background-color: blue;` define el color de fondo como azul.
 
 ```css
 h1 {
@@ -48,10 +48,19 @@ h1 {
 }
 ```
 
+## JavaScript
+
+**JavaScript** es el lenguaje que usamos para darle interactividad a la pagina. **JavaScript** es un lenguaje de programacion, lo que significa que usamos instrucciones para definir como se comporta la pagina. Por ejemplo, la instruccion `console.log("Hola mundo");` imprime en la consola el texto "Hola mundo".
+
+```js
+console.log("Hola mundo");
+```
+
 ## Entorno
 
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=E34F26&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)<!--HTML5-->
 [![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/CSS)<!-- CSS3 -->
+[![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)<!-- JS -->
 [![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/)<!-- vs code -->
 
 ## Entornos en linea
@@ -69,6 +78,9 @@ h1 {
 - [Imagenes](./course/img_es.md)
 - [Fuentes](./course/fonts_es.md)
 - [Flexbox](./course/06-flexbox_es.md)
+- [Grid](./course/08-grid_es.md)
+- [Gradientes](./course/07-gradients_es.md)
+- [JavaScript](./course/09-JavaScript_es.md)
 
 ## Clases
 
@@ -91,7 +103,11 @@ h1 {
 | [Clase_10](./course/clase_10/float) | [clase 10](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_10/float) | - CSS avanzado: posicionamiento con float |
 | [Clase_10](./course/clase_10/codigo) | [clase 10](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_10/codigo) | - CSS avanzado: formatear un code snippet |
 | [Clase_11](./course/clase_11/float) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/float) | - CSS avanzado: layout de dos columnas con float |
-| [Clase_11](./course/clase_11/fontawesome) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/fontawesome) | - CSS avanzado: iconos con FontAwesome |
+| [Clase_11](./course/clase_11/fontawesome) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/fontawesome) | - Iconos con FontAwesome |
+| [Clase_12](./course/clase_12/flexbox_master/) | [clase 12](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_12/flexbox_master) | - CSS avanzado: Flexbox, FontAwesome y Gradientes |
+| [Clase_12](./course/clase_12/hello_javascript/) | [clase 12](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_12/hello_javascript) | - JavaScript: Hello World en consola |
+| [Clase_12](./course/clase_12/tipos_variables/) | [clase 12](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_12/tipos_variables) | - JavaScript: Tipos de variables en JavaScript |
+
 
 ## Labs
 

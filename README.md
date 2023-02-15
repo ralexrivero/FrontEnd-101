@@ -96,17 +96,17 @@ console.log("Hola mundo");
 | [Clase_05](./course/clase_05/) | | - href y CSS: formato de texto |
 | [Clase_06](./course/clase_06/) | | - bordes y colores |
 | [Clase_07](./course/clase_07/) | | - CSS avanzado: modelo de caja |
-| [Clase_08](./course/clase_08/consolas/) |[galeria](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_08/consolas/) | - CSS avanzado: galeria de imagenes con flexbox |
-| [Clase_08](./course/clase_08/flexbox/) |[flexbox](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
-| [Clase_09](./course/clase_09/09-border-box/) | [border-box](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_09/09-border-box)| - CSS avanzado: box-sizing  |
-| [Clase_09](./course/clase_09/09-max-width/) | [max-width](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_09/09-max-width)| - CSS avanzado: max-width y min-width |
-| [Clase_10](./course/clase_10/float) | [clase 10](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_10/float) | - CSS avanzado: posicionamiento con float |
-| [Clase_10](./course/clase_10/codigo) | [clase 10](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_10/codigo) | - CSS avanzado: formatear un code snippet |
-| [Clase_11](./course/clase_11/float) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/float) | - CSS avanzado: layout de dos columnas con float |
-| [Clase_11](./course/clase_11/fontawesome) | [clase 11](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_11/fontawesome) | - Iconos con FontAwesome |
-| [Clase_12](./course/clase_12/flexbox_master/) | [clase 12](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_12/flexbox_master) | - CSS avanzado: Flexbox, FontAwesome y Gradientes |
-| [Clase_12](./course/clase_12/hello_javascript/) | [clase 12](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_12/hello_javascript) | - JavaScript: Hello World en consola |
-| [Clase_12](./course/clase_12/tipos_variables/) | [clase 12](https://ralexrivero.github.io/HTML-CSS-Course/course/clase_12/tipos_variables) | - JavaScript: Tipos de variables en JavaScript |
+| [Clase_08](./course/clase_08/consolas/) |[galeria](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_08/consolas/) | - CSS avanzado: galeria de imagenes con flexbox |
+| [Clase_08](./course/clase_08/flexbox/) |[flexbox](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
+| [Clase_09](./course/clase_09/09-border-box/) | [border-box](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_09/09-border-box)| - CSS avanzado: box-sizing  |
+| [Clase_09](./course/clase_09/09-max-width/) | [max-width](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_09/09-max-width)| - CSS avanzado: max-width y min-width |
+| [Clase_10](./course/clase_10/float) | [clase 10](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_10/float) | - CSS avanzado: posicionamiento con float |
+| [Clase_10](./course/clase_10/codigo) | [clase 10](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_10/codigo) | - CSS avanzado: formatear un code snippet |
+| [Clase_11](./course/clase_11/float) | [clase 11](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_11/float) | - CSS avanzado: layout de dos columnas con float |
+| [Clase_11](./course/clase_11/fontawesome) | [clase 11](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_11/fontawesome) | - Iconos con FontAwesome |
+| [Clase_12](./course/clase_12/flexbox_master/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_12/flexbox_master) | - CSS avanzado: Flexbox, FontAwesome y Gradientes |
+| [Clase_12](./course/clase_12/hello_javascript/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_12/hello_javascript) | - JavaScript: Hello World en consola |
+| [Clase_12](./course/clase_12/tipos_variables/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_12/tipos_variables) | - JavaScript: Tipos de variables en JavaScript |
 
 
 ## Labs
@@ -115,10 +115,10 @@ console.log("Hola mundo");
 
 | código | despliegue | contenido | especificación |
 |--------|------------------------------------|---------------|---------------|
-| [lab_02](./course/lab/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./course/lab/0x02-lab/0x02-espec.md) |
-| [lab_03](./course/lab/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x03-lab/) | flexbox | [0x03-spec](./course/lab/0x03-lab/0x03-espec.md) |
-| [lab_04](./course/lab/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x04-lab/09-border-box/) | refactorizacion de css border-box | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
-| [lab_04](./course/lab/0x04-lab/09-max-width/) | [lab 04 deploy](https://ralexrivero.github.io/HTML-CSS-Course/course/lab/0x04-lab/09-max-width) | refactorizacion de css max-width | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
+| [lab_02](./course/lab/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./course/lab/0x02-lab/0x02-espec.md) |
+| [lab_03](./course/lab/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x03-lab/) | flexbox | [0x03-spec](./course/lab/0x03-lab/0x03-espec.md) |
+| [lab_04](./course/lab/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x04-lab/09-border-box/) | refactorizacion de css border-box | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
+| [lab_04](./course/lab/0x04-lab/09-max-width/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x04-lab/09-max-width) | refactorizacion de css max-width | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
 
 ## Links de interes
 

@@ -102,6 +102,10 @@ li {
   width: 100%;
 }
 
+.container-xl {
+  width: fit-content;
+  max-width: 80%;
+}
 
 .flex-item {
   display: flex;
@@ -126,6 +130,14 @@ li {
   font-size: 1.75rem;
   background: linear-gradient(45deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .6));
 }
+
+
+.flex-item-sm {
+  width: 4rem;
+  height: 4rem;
+}
+
+
 
 /* definir tamanos de cajas flex-item
 sm
@@ -155,6 +167,31 @@ xsxxl
  * justify-content
 *****************************************/
 
+.justify_content_start {
+  justify-content: flex-start;
+}
+
+.justify_content_end {
+  justify-content: flex-end;
+}
+
+.justify_content_center {
+  justify-content: center;
+}
+
+.justify_content_between {
+  justify-content: space-between;
+}
+
+.justify_content_space_around {
+  justify-content: space-around;
+}
+
+.justify_content_space_evenly {
+  justify-content: space-evenly;
+}
+
+
 /*****************************************
  * align-items
 *****************************************/
@@ -176,11 +213,11 @@ xsxxl
 }
 
 .grad_2 {
-  background: blue;
+  background: linear-gradient(30deg, #1cb5e0 30%, #000851 100%);
 }
 
 .grad_3 {
-  background: blue;
+  background: linear-gradient(45deg, red, blue, green, indigo, cyan, magenta)
 }
 
 .conic_gradient {

@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #eceff1;
+  background-color: #fff;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -84,6 +84,7 @@ li {
   padding: 1rem;
 }
 
+
 /*****************************************
  * flexbox
 *****************************************/
@@ -137,8 +138,34 @@ li {
   height: 4rem;
 }
 
+.flex-item-md {
+  width: 5rem;
+  height: 5rem;
+  font-size: 2rem;
+}
 
+.item-xsxl {
+  width: 5rem;
+  height: 8rem;;
+}
 
+.item-xsxxl {
+  width: 5rem;
+  height: 12rem;;
+}
+
+.item-i-big {
+  font-size: 3rem;
+}
+
+.item-i-small {
+  font-size: 1rem;
+}
+
+.flex-item-no-height {
+  width: 4rem;
+  height: auto;
+}
 /* definir tamanos de cajas flex-item
 sm
 sm:hover
@@ -196,6 +223,27 @@ xsxxl
  * align-items
 *****************************************/
 
+.align_items_start {
+  align-items: flex-start;
+}
+
+.align_items_end {
+  align-items: flex-end;
+}
+
+.align_items_center {
+  align-items: center;
+}
+
+.align_items_baseline {
+  align-items: baseline;
+}
+
+.align_items_stretch {
+  align-items: stretch;
+}
+
+
 /*****************************************
  * align-content
 *****************************************/
@@ -217,7 +265,7 @@ xsxxl
 }
 
 .grad_3 {
-  background: linear-gradient(45deg, red, blue, green, indigo, cyan, magenta)
+  background: linear-gradient(45deg, orange, cyan , green, indigo, cyan, magenta)
 }
 
 .conic_gradient {

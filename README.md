@@ -108,6 +108,9 @@ console.log("Hola mundo");
 | [Clase_12](./course/clase_12/hello_javascript/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_12/hello_javascript) | - JavaScript: Hello World en consola |
 | [Clase_12](./course/clase_12/tipos_variables/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_12/tipos_variables) | - JavaScript: Tipos de variables en JavaScript |
 | [Clase_13](./course/clase_13/variables/) | [clase 13](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_13/variables) | - JavaScript: Variables en JavaScript y tipos de datos |
+| [Clase_14](./course/clase_14/00-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_14/00-grid) | - Grid: display en grilla |
+| [Clase_14](./course/clase_14/01-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_14/01-grid) | - Grid: layout base |
+| [Clase_14](./course/clase_14/02-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_14/02-grid) | - Grid: template areas |
 
 ## Labs
 

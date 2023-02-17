@@ -119,8 +119,8 @@ console.log("Hola mundo");
 | [lab_03](./course/lab/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x03-lab/) | flexbox | [0x03-spec](./course/lab/0x03-lab/0x03-espec.md) |
 | [lab_04](./course/lab/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x04-lab/09-border-box/) | refactorizacion de css border-box | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
 | [lab_04](./course/lab/0x04-lab/09-max-width/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x04-lab/09-max-width) | refactorizacion de css max-width | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
-| [lab_05](./course/lab/0x05-lab/) | [lab 05 Flex Awesome](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x05-lab/) | float | [0x05-spec](./course/lab/0x05-lab/0x05-espec.md) |
-| [lab_06](./course/lab/0x06-lab/) | [lab 06 Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x06-lab/) | float | [0x06-spec](./course/lab/0x06-lab/0x06-espec.md) |
+| [lab_05](./course/lab/0x05-lab/) | [lab 05 Flex Awesome](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./course/lab/0x05-lab/0x05-espec.md) |
+| [lab_06](./course/lab/0x06-lab/) | [lab 06 Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./course/lab/0x06-lab/0x06-espec.md) |
 | [lab_07](./course/lab/0x07-lab/) | [lab 07 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x07-lab/) | JavaScript | [0x07-spec](./course/lab/0x07-lab/0x07-espec.md) |
 
 ## Links de interes

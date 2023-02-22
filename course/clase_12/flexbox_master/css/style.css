@@ -243,6 +243,24 @@ xsxxl
   align-items: stretch;
 }
 
+/*****************************************
+ * flex-direction
+*****************************************/
+.flex_direction_row {
+  flex-direction: row;
+}
+
+.flex_direction_row_reverse {
+  flex-direction: row-reverse;
+}
+
+.flex_direction_column {
+  flex-direction: column;
+}
+
+.flex_direction_column_reverse {
+  flex-direction: column-reverse;
+}
 
 /*****************************************
  * align-content
@@ -266,6 +284,10 @@ xsxxl
 
 .grad_3 {
   background: linear-gradient(45deg, orange, cyan , green, indigo, cyan, magenta)
+}
+
+.grad_4 {
+  background-image: linear-gradient(135deg, #81ffef 10%, #f067b4 100%)
 }
 
 .conic_gradient {

@@ -92,3 +92,50 @@ console.log(d);
 d = c * b;
 console.log(d);
 
+let num_1 = 10;
+console.log(num_1);
+
+num_1++; /* num_1 = num_1 + 1*/
+console.log(num_1);
+
+console.log(typeof num_1);
+
+num_1 = 28;
+
+/**
+ * asignacion
+ * = asignacion
+ * += adicion
+ * -= sustracion
+ * *= multiplicacion
+ * /= division
+ * %= modulo
+ */
+num_1 += 12; /*num_1 = num_1 + 12 resultado: 40 */
+console.log(num_1);
+
+num_1 /= 10;
+console.log(num_1);
+
+/**
+ * == igual a. Evitemos usarla
+ * === igual y del mismo tipo, es la forma segura de comparar
+ * != distinto
+ * !== distinto de o del mismo tipo
+ * > mayor que
+ * < menor que
+ * >= mayor o igual que
+ * <= menor o igual que
+ */
+
+const num_2 = 10; /* number */
+const num_3 = 5;
+const texto_1 = '10'; /* string */
+
+console.log(num_2 == num_3); // valor de a igual al valor de b? false
+console.log(num_2 === num_3); // valor de a y tipo de igual al tipo y valor de b? false
+
+console.log(num_2 == texto_1); // valor de num_2 igual a texto_1? true
+console.log(num_2 === texto_1); // valor y tipo de num_2 igual a texto_1? falso
+
+console.log(num_2 > num_3); // true

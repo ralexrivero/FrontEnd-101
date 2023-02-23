@@ -14,7 +14,7 @@ El material del curso se divide en tres partes, el *codigo* desarrollado en cada
 
 ## Wiki
 
-- [FrontEnd 101 - Wiki](https://github.com/ralexrivero/FrontEnd-101-Course/wiki)
+- [FrontEnd 101 - Wiki](https://github.com/ralexrivero/FrontEnd-101/wiki)
 
 ## Entorno
 
@@ -74,7 +74,7 @@ El material del curso se divide en tres partes, el *codigo* desarrollado en cada
 ## Autor
 
 [![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/ralex_uy) <!-- twitter -->
-[![Linkedin](https://img.shields.io/badge/LinkedIn-+28K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ronald-rivero/) <!-- linkedin -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-+29K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ronald-rivero/) <!-- linkedin -->
 [![Medium](https://img.shields.io/static/v1?label=&message=Medium&color=000000&logo=Medium&logoColor=000000&labelColor=888888)](https://medium.com/@ralexrivero)<!-- medium -->
 [![Github](https://img.shields.io/github/followers/ralexrivero?style=social)](https://github.com/ralexrivero/) <!-- github -->
 [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/ralexrivero) <!-- vagrant -->

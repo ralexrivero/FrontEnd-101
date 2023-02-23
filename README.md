@@ -1,60 +1,20 @@
-# FrontEnd 101 - Course
+# FrontEnd 101
 
 ```javascript
-██   ██ ████████ ███    ███ ██           ██████ ███████ ███████          ██ ███████ 
-██   ██    ██    ████  ████ ██          ██      ██      ██               ██ ██      
-███████    ██    ██ ████ ██ ██          ██      ███████ ███████          ██ ███████ 
-██   ██    ██    ██  ██  ██ ██          ██           ██      ██     ██   ██      ██ 
-██   ██    ██    ██      ██ ███████      ██████ ███████ ███████      █████  ███████ 
+██   ██ ████████ ███    ███ ██          ██████ ███████ ███████         ██ ███████ 
+██   ██    ██    ████  ████ ██         ██      ██      ██              ██ ██      
+███████    ██    ██ ████ ██ ██         ██      ███████ ███████         ██ ███████ 
+██   ██    ██    ██  ██  ██ ██         ██           ██      ██    ██   ██      ██ 
+██   ██    ██    ██      ██ ███████     ██████ ███████ ███████     █████  ███████ 
 ```
 
-> Curso introductorio a HTML, CSS y JavaScript
+> Curso introductorio a HTML, CSS y JavaScript.
 
-## Tabla de Contenido
+El material del curso se divide en tres partes, el *codigo* desarrollado en cada clase que se encuentra en este repositorio y su despliegue en *githubpages*; la *wiki* con el contenido teorico de cada clase y material de referencia y finalmente las clases sincronicas mediante Zoom.
 
-- [Introduccion](#introduccion)
-- [HTML](#html)
-- [CSS](#css)
-- [Entorno](#entorno)
-- [Entornos en linea](#entornos-en-linea)
-- [Secciones](#secciones)
-- [Clases](#clases)
-- [Labs](#labs)
-- [Links de interes](#links-de-interes)
-- [Licencia](#licencia)
-- [Autor](#autor)
+## Wiki
 
-## Introduccion
-
-En este curso aprenderemos los fundamentos de **HTML**, **CSS** y **JavaScript**, tres tecnologias que son el corazon de la web. HTML es el lenguaje que usamos para crear la estructura de una pagina web, mientras que CSS es el lenguaje que usamos para darle estilo a la pagina y JavaScript es el lenguaje que usamos para darle interactividad a la pagina.
-
-## HTML
-
-**HTML** es el lenguaje que usamos para crear la estructura de una pagina web. **HTML** es un lenguaje de marcado, lo que significa que usamos etiquetas para definir la estructura de la pagina. Por ejemplo, la etiqueta `<h1>` define un encabezado de nivel 1, mientras que la etiqueta `<p>` define un parrafo.
-
-```html
-<h1>Este es un encabezado</h1>
-<p>Este es un parrafo</p>
-```
-
-## CSS
-
-**CSS** es el lenguaje que usamos para darle estilo a la pagina. **CSS** es un lenguaje de estilos, lo que significa que usamos reglas para definir como se ve la pagina. Por ejemplo, la regla `color: red;` define el color del texto como rojo, mientras que la regla `background-color: blue;` define el color de fondo como azul.
-
-```css
-h1 {
-  color: red;
-  background-color: blue;
-}
-```
-
-## JavaScript
-
-**JavaScript** es el lenguaje que usamos para darle interactividad a la pagina. **JavaScript** es un lenguaje de programacion, lo que significa que usamos instrucciones para definir como se comporta la pagina. Por ejemplo, la instruccion `console.log("Hola mundo");` imprime en la consola el texto "Hola mundo".
-
-```js
-console.log("Hola mundo");
-```
+- [FrontEnd 101 - Wiki](https://github.com/ralexrivero/FrontEnd-101-Course/wiki)
 
 ## Entorno
 
@@ -63,28 +23,9 @@ console.log("Hola mundo");
 [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)<!-- JS -->
 [![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/)<!-- vs code -->
 
-## Entornos en linea
-
-- [codepen.io](https://codepen.io)
-- [codesandbox.io](https://codesandbox.io)
-- [stackblitz.com](https://stackblitz.com)
-
-## Secciones
-
-- [Introduccion](./course/01-intro_es.md)
-- [HTML cheatsheet](./course/02-HTML_CS_es.md)
-- [CSS cheatsheet](./course/03-CSS_es.md)
-- [Box model](./course/05-box_model_es.md)
-- [Imagenes](./course/img_es.md)
-- [Fuentes](./course/fonts_es.md)
-- [Flexbox](./course/06-flexbox_es.md)
-- [Grid](./course/08-grid_es.md)
-- [Gradientes](./course/07-gradients_es.md)
-- [JavaScript](./course/09-JavaScript_es.md)
-
 ## Clases
 
-> clic para ver el código
+> clic para ver el código y el despliegue en *githubpages*
 
 | codigo | despliegue | contenido |
 |--------|------------------------------------|---------------|
@@ -110,7 +51,9 @@ console.log("Hola mundo");
 | [Clase_13](./course/clase_13/variables/) | [clase 13](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_13/variables) | - JavaScript: Variables en JavaScript y tipos de datos |
 | [Clase_14](./course/clase_14/00-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_14/00-grid) | - Grid: display en grilla |
 | [Clase_14](./course/clase_14/01-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_14/01-grid) | - Grid: layout base |
-| [Clase_14](./course/clase_14/02-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_14/02-grid) | - Grid: template areas |
+| [Clase_14](./course/clase_14/02-grid/) | [Grid template ares](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_14/02-grid) | - Grid: template areas |
+| [Clase_15](./course/clase_15/gradientes/) | [Ejemplos de gradientes](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_15/gradientes) | - CSS avanzado: Gradientes |
+| [Clase_15](./course/clase_15/media_queries/) | [Media queries basico](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_15/media_queries) | - CSS avanzado: Media queries |
 
 ## Labs
 
@@ -118,6 +61,8 @@ console.log("Hola mundo");
 
 | código | despliegue | contenido | especificación |
 |--------|------------------------------------|---------------|---------------|
+| [lab_00](./course/lab/0x00-lab/) | [lab 00 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x00-lab/) | Estructura base de una pagina web | [0x00-spec](./course/lab/0x02-lab/0x00-espec.md) |
+| [lab_01](./course/lab/0x01-lab/) | [lab 01 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x01-lab/) | formulario simple | [0x01-spec](./course/lab/0x02-lab/0x01-espec.md) |
 | [lab_02](./course/lab/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./course/lab/0x02-lab/0x02-espec.md) |
 | [lab_03](./course/lab/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x03-lab/) | flexbox | [0x03-spec](./course/lab/0x03-lab/0x03-espec.md) |
 | [lab_04](./course/lab/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x04-lab/09-border-box/) | refactorizacion de css border-box | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
@@ -125,16 +70,6 @@ console.log("Hola mundo");
 | [lab_05](./course/lab/0x05-lab/) | [lab 05 Flex Awesome](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./course/lab/0x05-lab/0x05-espec.md) |
 | [lab_06](./course/lab/0x06-lab/) | [lab 06 Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./course/lab/0x06-lab/0x06-espec.md) |
 | [lab_07](./course/lab/0x07-lab/) | [lab 07 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x07-lab/) | JavaScript | [0x07-spec](./course/lab/0x07-lab/0x07-espec.md) |
-
-## Links de interes
-
-- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
-- [W3SCHOOLS](https://www.w3schools.com/)
-
-## Licencia
-
-[Open Source](https://opensource.org/licenses/MIT)
 
 ## Autor
 

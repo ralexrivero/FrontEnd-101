@@ -71,6 +71,14 @@ El material del curso se divide en tres partes, el *codigo* desarrollado en cada
 | [lab_06](./course/lab/0x06-lab/) | [lab 06 Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./course/lab/0x06-lab/0x06-espec.md) |
 | [lab_07](./course/lab/0x07-lab/) | [lab 07 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x07-lab/) | JavaScript | [0x07-spec](./course/lab/0x07-lab/0x07-espec.md) |
 
+## Proyecto final
+
+> código y despligue del proyecto final
+
+| código | despliegue | contenido | especificación |
+|--------|------------------------------------|---------------|---------------|
+| [proyecto_final](./course/proyecto_final/) | [proyecto final deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/proyecto_final/) | proyecto final | [proyecto final](./course/proyecto_final/README.md) |
+
 ## Autor
 
 [![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/ralex_uy) <!-- twitter -->

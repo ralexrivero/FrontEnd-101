@@ -10,7 +10,7 @@
 
 > Curso introductorio a HTML, CSS y JavaScript.
 
-El material del curso se divide en tres partes, el *codigo* desarrollado en cada clase que se encuentra en este repositorio y su despliegue en *githubpages*; la *wiki* con el contenido teorico de cada clase y material de referencia y finalmente las clases sincronicas mediante Zoom.
+El material del curso se divide en tres partes, el *código* desarrollado en cada clase que se encuentra en este repositorio y su despliegue en *githubpages*; la *wiki* con el contenido teórico de cada clase y material de referencia y finalmente las clases sincrónicas mediante Zoom.
 
 ## Wiki
 
@@ -27,57 +27,57 @@ El material del curso se divide en tres partes, el *codigo* desarrollado en cada
 
 > clic para ver el código y el despliegue en *githubpages*
 
-| codigo | despliegue | contenido |
+| código | despliegue | contenido |
 |--------|------------------------------------|---------------|
-| [Clase_00](./course/clase_00/) | | - hola mundo |
-| [Clase_01](./course/clase_01/) | | - estructura basica de un documento HTML |
-| [Clase_02](./course/clase_02/) | | - nuestro boilerplate HTML aplicado |
-| [Clase_03](./course/clase_03/) | | - elementos HTML |
-| [Clase_04](./course/clase_04/) | | - formularios y CSS |
-| [Clase_05](./course/clase_05/) | | - href y CSS: formato de texto |
-| [Clase_06](./course/clase_06/) | | - bordes y colores |
-| [Clase_07](./course/clase_07/) | | - CSS avanzado: modelo de caja |
-| [Clase_08](./course/clase_08/consolas/) |[galeria](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_08/consolas/) | - CSS avanzado: galeria de imagenes con flexbox |
-| [Clase_08](./course/clase_08/flexbox/) |[flexbox](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
-| [Clase_09](./course/clase_09/09-border-box/) | [border-box](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_09/09-border-box)| - CSS avanzado: box-sizing  |
-| [Clase_09](./course/clase_09/09-max-width/) | [max-width](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_09/09-max-width)| - CSS avanzado: max-width y min-width |
-| [Clase_10](./course/clase_10/float) | [clase 10](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_10/float) | - CSS avanzado: posicionamiento con float |
-| [Clase_10](./course/clase_10/codigo) | [clase 10](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_10/codigo) | - CSS avanzado: formatear un code snippet |
-| [Clase_11](./course/clase_11/float) | [clase 11](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_11/float) | - CSS avanzado: layout de dos columnas con float |
-| [Clase_11](./course/clase_11/fontawesome) | [clase 11](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_11/fontawesome) | - Iconos con FontAwesome |
-| [Clase_12](./course/clase_12/flexbox_master/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_12/flexbox_master) | - CSS avanzado: Flexbox, FontAwesome y Gradientes |
-| [Clase_12](./course/clase_12/hello_javascript/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_12/hello_javascript) | - JavaScript: Hello World en consola |
-| [Clase_12](./course/clase_12/tipos_variables/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_12/tipos_variables) | - JavaScript: Tipos de variables en JavaScript |
-| [Clase_13](./course/clase_13/variables/) | [clase 13](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_13/variables) | - JavaScript: Variables en JavaScript y tipos de datos |
-| [Clase_14](./course/clase_14/00-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_14/00-grid) | - Grid: display en grilla |
-| [Clase_14](./course/clase_14/01-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_14/01-grid) | - Grid: layout base |
-| [Clase_14](./course/clase_14/02-grid/) | [Grid template ares](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_14/02-grid) | - Grid: template areas |
-| [Clase_15](./course/clase_15/gradientes/) | [Ejemplos de gradientes](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_15/gradientes) | - CSS avanzado: Gradientes |
-| [Clase_15](./course/clase_15/media_queries/) | [Media queries basico](https://ralexrivero.github.io/FrontEnd-101-Course/course/clase_15/media_queries) | - CSS avanzado: Media queries |
+| [Clase_00](./clases/clase_00/) | | - hola mundo |
+| [Clase_01](./clases/clase_01/) | | - estructura básica de un documento HTML |
+| [Clase_02](./clases/clase_02/) | | - nuestro boilerplate HTML aplicado |
+| [Clase_03](./clases/clase_03/) | | - elementos HTML |
+| [Clase_04](./clases/clase_04/) | | - formularios y CSS |
+| [Clase_05](./clases/clase_05/) | | - href y CSS: formato de texto |
+| [Clase_06](./clases/clase_06/) | | - bordes y colores |
+| [Clase_07](./clases/clase_07/) | | - CSS avanzado: modelo de caja |
+| [Clase_08](./clases/clase_08/consolas/) |[galería](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/consolas/) | - CSS avanzado: galería de imágenes con flexbox |
+| [Clase_08](./clases/clase_08/flexbox/) |[flexbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
+| [Clase_09](./clases/clase_09/09-border-box/) | [border-box](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-border-box)| - CSS avanzado: box-sizing  |
+| [Clase_09](./clases/clase_09/09-max-width/) | [max-width](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-max-width)| - CSS avanzado: max-width y min-width |
+| [Clase_10](./clases/clase_10/float) | [clase 10](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/float) | - CSS avanzado: posicionamiento con float |
+| [Clase_10](./clases/clase_10/codigo) | [clase 10](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/codigo) | - CSS avanzado: formatear un code snippet |
+| [Clase_11](./clases/clase_11/float) | [clase 11](https://ralexrivero.github.io/FrontEnd-101/clases/clase_11/float) | - CSS avanzado: layout de dos columnas con float |
+| [Clase_11](./clases/clase_11/fontawesome) | [clase 11](https://ralexrivero.github.io/FrontEnd-101/clases/clase_11/fontawesome) | - Iconos con FontAwesome |
+| [Clase_12](./clases/clase_12/flexbox_master/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101/clases/clase_12/flexbox_master) | - CSS avanzado: Flexbox, FontAwesome y Gradientes |
+| [Clase_12](./clases/clase_12/hello_javascript/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101/clases/clase_12/hello_javascript) | - JavaScript: Hello World en consola |
+| [Clase_12](./clases/clase_12/tipos_variables/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101/clases/clase_12/tipos_variables) | - JavaScript: Tipos de variables en JavaScript |
+| [Clase_13](./clases/clase_13/variables/) | [clase 13](https://ralexrivero.github.io/FrontEnd-101/clases/clase_13/variables) | - JavaScript: Variables en JavaScript y tipos de datos |
+| [Clase_14](./clases/clase_14/00-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/00-grid) | - Grid: display en grilla |
+| [Clase_14](./clases/clase_14/01-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/01-grid) | - Grid: layout base |
+| [Clase_14](./clases/clase_14/02-grid/) | [Grid template ares](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/02-grid) | - Grid: template areas |
+| [Clase_15](./clases/clase_15/gradientes/) | [Ejemplos de gradientes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/gradientes) | - CSS avanzado: Gradientes |
+| [Clase_15](./clases/clase_15/media_queries/) | [Media queries básico](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/media_queries) | - CSS avanzado: Media queries |
 
 ## Labs
 
-> código y despligue de los labs
+> código y despliegue de los labs en *githubpages*
 
 | código | despliegue | contenido | especificación |
 |--------|------------------------------------|---------------|---------------|
-| [lab_00](./course/lab/0x00-lab/) | [lab 00 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x00-lab/) | Estructura base de una pagina web | [0x00-spec](./course/lab/0x02-lab/0x00-espec.md) |
-| [lab_01](./course/lab/0x01-lab/) | [lab 01 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x01-lab/) | formulario simple | [0x01-spec](./course/lab/0x02-lab/0x01-espec.md) |
-| [lab_02](./course/lab/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./course/lab/0x02-lab/0x02-espec.md) |
-| [lab_03](./course/lab/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x03-lab/) | flexbox | [0x03-spec](./course/lab/0x03-lab/0x03-espec.md) |
-| [lab_04](./course/lab/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x04-lab/09-border-box/) | refactorizacion de css border-box | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
-| [lab_04](./course/lab/0x04-lab/09-max-width/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x04-lab/09-max-width) | refactorizacion de css max-width | [0x04-spec](./course/lab/0x04-lab/0x04-espec.md) |
-| [lab_05](./course/lab/0x05-lab/) | [lab 05 Flex Awesome](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./course/lab/0x05-lab/0x05-espec.md) |
-| [lab_06](./course/lab/0x06-lab/) | [lab 06 Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./course/lab/0x06-lab/0x06-espec.md) |
-| [lab_07](./course/lab/0x07-lab/) | [lab 07 deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/lab/0x07-lab/) | JavaScript | [0x07-spec](./course/lab/0x07-lab/0x07-espec.md) |
+| [lab_00](./labs/0x00-lab/) | [lab 00 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x00-lab/) | Estructura base de una pagina web | [0x00-spec](./labs/0x02-lab/0x00-espec.md) |
+| [lab_01](./labs/0x01-lab/) | [lab 01 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x01-lab/) | formulario simple | [0x01-spec](./labs/0x02-lab/0x01-espec.md) |
+| [lab_02](./labs/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./labs/0x02-lab/0x02-espec.md) |
+| [lab_03](./labs/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x03-lab/) | flexbox | [0x03-spec](./labs/0x03-lab/0x03-espec.md) |
+| [lab_04](./labs/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x04-lab/09-border-box/) | refactorización de css border-box | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
+| [lab_04](./labs/0x04-lab/09-max-width/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x04-lab/09-max-width) | refactorización de css max-width | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
+| [lab_05](./labs/0x05-lab/) | [lab 05 Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
+| [lab_06](./labs/0x06-lab/) | [lab 06 Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./labs/0x06-lab/0x06-espec.md) |
+| [lab_07](./labs/0x07-lab/) | [lab 07 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x07-lab/) | JavaScript | [0x07-spec](./labs/0x07-lab/0x07-espec.md) |
 
 ## Proyecto final
 
-> código y despligue del proyecto final
+> código y despliegue del proyecto final
 
 | código | despliegue | contenido | especificación |
 |--------|------------------------------------|---------------|---------------|
-| [proyecto_final](./course/proyecto_final/) | [proyecto final deploy](https://ralexrivero.github.io/FrontEnd-101-Course/course/proyecto_final/) | proyecto final | [proyecto final](./course/proyecto_final/README.md) |
+| [proyecto_final](./proyecto_final/) | [proyecto final deploy](https://ralexrivero.github.io/FrontEnd-101/clases/proyecto_final/) | proyecto final | [proyecto final](./clases/proyecto_final/README.md) |
 
 ## Autor
 

@@ -37,21 +37,21 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [Clase_05](./clases/clase_05/) | | - href y CSS: formato de texto |
 | [Clase_06](./clases/clase_06/) | | - bordes y colores |
 | [Clase_07](./clases/clase_07/) | | - CSS avanzado: modelo de caja |
-| [Clase_08](./clases/clase_08/consolas/) |[galería](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/consolas/) | - CSS avanzado: galería de imágenes con flexbox |
-| [Clase_08](./clases/clase_08/flexbox/) |[flexbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
+| [Clase_08](./clases/clase_08/consolas/) |[Galería fluida](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/consolas/) | - CSS avanzado: galería de imágenes con flexbox |
+| [Clase_08](./clases/clase_08/flexbox/) |[Flexbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
 | [Clase_09](./clases/clase_09/09-border-box/) | [border-box](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-border-box)| - CSS avanzado: box-sizing  |
 | [Clase_09](./clases/clase_09/09-max-width/) | [max-width](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-max-width)| - CSS avanzado: max-width y min-width |
-| [Clase_10](./clases/clase_10/float) | [clase 10](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/float) | - CSS avanzado: posicionamiento con float |
-| [Clase_10](./clases/clase_10/codigo) | [clase 10](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/codigo) | - CSS avanzado: formatear un code snippet |
-| [Clase_11](./clases/clase_11/float) | [clase 11](https://ralexrivero.github.io/FrontEnd-101/clases/clase_11/float) | - CSS avanzado: layout de dos columnas con float |
-| [Clase_11](./clases/clase_11/fontawesome) | [clase 11](https://ralexrivero.github.io/FrontEnd-101/clases/clase_11/fontawesome) | - Iconos con FontAwesome |
-| [Clase_12](./clases/clase_12/flexbox_master/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101/clases/clase_12/flexbox_master) | - CSS avanzado: Flexbox, FontAwesome y Gradientes |
-| [Clase_12](./clases/clase_12/hello_javascript/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101/clases/clase_12/hello_javascript) | - JavaScript: Hello World en consola |
-| [Clase_12](./clases/clase_12/tipos_variables/) | [clase 12](https://ralexrivero.github.io/FrontEnd-101/clases/clase_12/tipos_variables) | - JavaScript: Tipos de variables en JavaScript |
-| [Clase_13](./clases/clase_13/variables/) | [clase 13](https://ralexrivero.github.io/FrontEnd-101/clases/clase_13/variables) | - JavaScript: Variables en JavaScript y tipos de datos |
-| [Clase_14](./clases/clase_14/00-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/00-grid) | - Grid: display en grilla |
-| [Clase_14](./clases/clase_14/01-grid/) | [clase 14](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/01-grid) | - Grid: layout base |
-| [Clase_14](./clases/clase_14/02-grid/) | [Grid template ares](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/02-grid) | - Grid: template areas |
+| [Clase_10](./clases/clase_10/float) | [Float Layout](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/float) | - CSS avanzado: posicionamiento con float |
+| [Clase_10](./clases/clase_10/codigo) | [Code Snipet](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/codigo) | - CSS avanzado: formatear un code snippet |
+| [Clase_11](./clases/clase_11/float) | [Float layout simple](https://ralexrivero.github.io/FrontEnd-101/clases/clase_11/float) | - CSS avanzado: layout de dos columnas con float |
+| [Clase_11](./clases/clase_11/fontawesome) | [FontAwesome](https://ralexrivero.github.io/FrontEnd-101/clases/clase_11/fontawesome) | - Iconos con FontAwesome |
+| [Clase_12](./clases/clase_12/flexbox_master/) | [Flexbox Master](https://ralexrivero.github.io/FrontEnd-101/clases/clase_12/flexbox_master) | - CSS avanzado: Flexbox, FontAwesome y Gradientes |
+| [Clase_12](./clases/clase_12/hello_javascript/) | [Primer JavaScript en Consola](https://ralexrivero.github.io/FrontEnd-101/clases/clase_12/hello_javascript) | - JavaScript: Hello World en consola |
+| [Clase_12](./clases/clase_12/tipos_variables/) | [Variables en JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_12/tipos_variables) | - JavaScript: Tipos de variables en JavaScript |
+| [Clase_13](./clases/clase_13/variables/) | [Más variables en JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_13/variables) | - JavaScript: Variables en JavaScript y tipos de datos |
+| [Clase_14](./clases/clase_14/00-grid/) | [Grid básico](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/00-grid) | - Grid: display en grilla |
+| [Clase_14](./clases/clase_14/01-grid/) | [Más grid](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/01-grid) | - Grid: layout base |
+| [Clase_14](./clases/clase_14/02-grid/) | [Grid template areas](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/02-grid) | - Grid: template areas |
 | [Clase_15](./clases/clase_15/gradientes/) | [Ejemplos de gradientes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/gradientes) | - CSS avanzado: Gradientes |
 | [Clase_15](./clases/clase_15/media_queries/) | [Media queries básico](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/media_queries) | - CSS avanzado: Media queries |
 
@@ -61,15 +61,15 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 
 | código | despliegue | contenido | especificación |
 |--------|------------------------------------|---------------|---------------|
-| [lab_00](./labs/0x00-lab/) | [lab 00 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x00-lab/) | Estructura base de una pagina web | [0x00-spec](./labs/0x02-lab/0x00-espec.md) |
-| [lab_01](./labs/0x01-lab/) | [lab 01 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x01-lab/) | formulario simple | [0x01-spec](./labs/0x02-lab/0x01-espec.md) |
-| [lab_02](./labs/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./labs/0x02-lab/0x02-espec.md) |
-| [lab_03](./labs/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x03-lab/) | flexbox | [0x03-spec](./labs/0x03-lab/0x03-espec.md) |
-| [lab_04](./labs/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-border-box/) | refactorización de css border-box | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
-| [lab_04](./labs/0x04-lab/09-max-width/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-max-width) | refactorización de css max-width | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
-| [lab_05](./labs/0x05-lab/) | [lab 05 Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/labs/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
-| [lab_06](./labs/0x06-lab/) | [lab 06 Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101/labs/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./labs/0x06-lab/0x06-espec.md) |
-| [lab_07](./labs/0x07-lab/) | [lab 07 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x07-lab/) | JavaScript | [0x07-spec](./labs/0x07-lab/0x07-espec.md) |
+| [lab_00](./labs/0x00-lab/) | [Estructura base](https://ralexrivero.github.io/FrontEnd-101/labs/0x00-lab/) | Estructura base de una pagina web | [0x00-spec](./labs/0x02-lab/0x00-espec.md) |
+| [lab_01](./labs/0x01-lab/) | [Formulario simple](https://ralexrivero.github.io/FrontEnd-101/labs/0x01-lab/) | formulario simple | [0x01-spec](./labs/0x02-lab/0x01-espec.md) |
+| [lab_02](./labs/0x02-lab/) | [Formulario con estilos](https://ralexrivero.github.io/FrontEnd-101/labs/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./labs/0x02-lab/0x02-espec.md) |
+| [lab_03](./labs/0x03-lab/) | [3 cajas flex](https://ralexrivero.github.io/FrontEnd-101/labs/0x03-lab/) | flexbox | [0x03-spec](./labs/0x03-lab/0x03-espec.md) |
+| [lab_04](./labs/0x04-lab/09-border-box/) | [Refactorizar CSS I](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-border-box/) | refactorización de css border-box | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
+| [lab_04](./labs/0x04-lab/09-max-width/) | [Refactorizar CSS I](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-max-width) | refactorización de css max-width | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
+| [lab_05](./labs/0x05-lab/) | [Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/labs/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
+| [lab_06](./labs/0x06-lab/) | [Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101/labs/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./labs/0x06-lab/0x06-espec.md) |
+| [lab_07](./labs/0x07-lab/) | [JavaScript primitivo](https://ralexrivero.github.io/FrontEnd-101/labs/0x07-lab/) | JavaScript: tipos primitivos y operadores | [0x07-spec](./labs/0x07-lab/0x07-espec.md) |
 
 ## Proyecto final
 

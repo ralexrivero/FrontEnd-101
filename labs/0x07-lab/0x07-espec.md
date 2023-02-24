@@ -1,4 +1,4 @@
-# 0x07 Lab: JavaScript
+# 0x07 Lab: JavaScript: tipos primitivos y operadores
 
 ## Tipos de variables primitivas
 

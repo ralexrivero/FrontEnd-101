@@ -1,0 +1,15 @@
+body {
+  background-image: linear-gradient(135deg, rgba(255, 0, 0, .3), rgba(255, 165, 0, .3), rgba(255, 255, 0, .3),rgba(0, 255, 0, .3), rgba(0, 0, 255, .3), rgba(75, 0, 130, .3), rgba(148, 0, 211, .3));
+}
+
+header {
+  background: linear-gradient(121deg, rgba(205,53,38,0.6) 5%, rgba(205,53,38,0.8) 15%, rgba(205,53,38,0.8) 85%, rgba(205,53,38,0.6) 95%)
+}
+
+aside {
+  background: linear-gradient(90deg, rgba(68,68,68,.2) 5%, rgba(34,34,34,.1) 15%, rgba(34,34,34,.1) 85%, rgba(68,68,68,.2) 95%);
+}
+
+footer {
+  background: linear-gradient(90deg, rgba(68,68,68,.95) 2%, rgba(34,34,34,1) 4%, rgba(34,34,34,1) 94%, rgba(68,68,68,.95) 98%);
+}

@@ -61,15 +61,15 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 
 | código | despliegue | contenido | especificación |
 |--------|------------------------------------|---------------|---------------|
-| [lab_00](./labs/0x00-lab/) | [lab 00 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x00-lab/) | Estructura base de una pagina web | [0x00-spec](./labs/0x02-lab/0x00-espec.md) |
-| [lab_01](./labs/0x01-lab/) | [lab 01 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x01-lab/) | formulario simple | [0x01-spec](./labs/0x02-lab/0x01-espec.md) |
-| [lab_02](./labs/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./labs/0x02-lab/0x02-espec.md) |
-| [lab_03](./labs/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x03-lab/) | flexbox | [0x03-spec](./labs/0x03-lab/0x03-espec.md) |
-| [lab_04](./labs/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x04-lab/09-border-box/) | refactorización de css border-box | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
-| [lab_04](./labs/0x04-lab/09-max-width/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x04-lab/09-max-width) | refactorización de css max-width | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
-| [lab_05](./labs/0x05-lab/) | [lab 05 Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
-| [lab_06](./labs/0x06-lab/) | [lab 06 Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./labs/0x06-lab/0x06-espec.md) |
-| [lab_07](./labs/0x07-lab/) | [lab 07 deploy](https://ralexrivero.github.io/FrontEnd-101/clases/lab/0x07-lab/) | JavaScript | [0x07-spec](./labs/0x07-lab/0x07-espec.md) |
+| [lab_00](./labs/0x00-lab/) | [lab 00 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x00-lab/) | Estructura base de una pagina web | [0x00-spec](./labs/0x02-lab/0x00-espec.md) |
+| [lab_01](./labs/0x01-lab/) | [lab 01 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x01-lab/) | formulario simple | [0x01-spec](./labs/0x02-lab/0x01-espec.md) |
+| [lab_02](./labs/0x02-lab/) | [lab 02 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./labs/0x02-lab/0x02-espec.md) |
+| [lab_03](./labs/0x03-lab/) | [lab 03 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x03-lab/) | flexbox | [0x03-spec](./labs/0x03-lab/0x03-espec.md) |
+| [lab_04](./labs/0x04-lab/09-border-box/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-border-box/) | refactorización de css border-box | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
+| [lab_04](./labs/0x04-lab/09-max-width/) | [lab 04 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-max-width) | refactorización de css max-width | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
+| [lab_05](./labs/0x05-lab/) | [lab 05 Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/labs/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
+| [lab_06](./labs/0x06-lab/) | [lab 06 Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101/labs/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./labs/0x06-lab/0x06-espec.md) |
+| [lab_07](./labs/0x07-lab/) | [lab 07 deploy](https://ralexrivero.github.io/FrontEnd-101/labs/0x07-lab/) | JavaScript | [0x07-spec](./labs/0x07-lab/0x07-espec.md) |
 
 ## Proyecto final
 

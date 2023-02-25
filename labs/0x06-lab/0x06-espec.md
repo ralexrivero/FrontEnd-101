@@ -2,7 +2,7 @@
 
 - Crear una pagina que se ajuste a tres versiones, dos de escritorio y otra para celular
 - Con cuatro secciones: header, main, aside, footer.
-- Dentro del main crear contenedores con iconos fontawesome.
+- Dentro del main crear contenedores con iconos FontAwesome.
 - Imágenes responsivas y optimas para cada pantalla.
 - Footer con iconos de redes sociales con efectos.
 - Cada salto a un nuevo estilo debe tener un marcado cambio en el background de las cuatro secciones.

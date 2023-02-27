@@ -16,7 +16,6 @@ h1 {
   font-size: 2.5rem;
   color: #f2f2f2;
   margin: .25rem;
-  padding: .25rem;
 }
 
 h2 {
@@ -24,6 +23,10 @@ h2 {
   color: #222;
   margin: .25rem .25rem .5rem;
   padding: .25rem;
+}
+
+p {
+  margin-bottom: .5rem;
 }
 
 .float-left {
@@ -36,7 +39,7 @@ h2 {
 ******************************************************/
 
 i {
-  padding: .5rem;
+  padding-top: .5rem;
   margin: .3rem;
 }
 
@@ -84,6 +87,36 @@ i {
   color: #f1f1f1;
 }
 
+
+/******************************************************
+* imagenes
+******************************************************/
+
+.btn {
+  font-size: 1rem;
+  font-weight: 400;
+  border: 1px solid #0a58ca;
+  padding: .5rem 1rem;
+  margin: 1rem .5rem;
+  border-radius: .25rem;
+  color: #0a58ca;
+  background-color: #fff;
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+}
+
+.btn:hover {
+  box-shadow: 1px 1px 3px rgb(49, 132, 253);
+  background-color: #0a58ca;
+  color: #fff;
+}
+
+.btn:active {
+  box-shadow: 1px 1px 3px rgb(10, 38, 78);
+  background-color: rgba(49, 132, 253, .3);
+  color: #0a58ca;
+}
+
 /******************************************************
 * flex
 ******************************************************/
@@ -96,7 +129,7 @@ i {
 }
 
 article {
-  margin: 1rem;
+  margin: .5rem .2rem;
   padding: 1rem;
   border: 1px solid #ccc;
   border-radius: .25rem;
@@ -110,6 +143,7 @@ article {
 
 .container {
   margin: 0 auto;
+  max-width: 1440px;
 }
 
 .grid {
@@ -125,13 +159,11 @@ article {
 
 header {
   color: #fff;
-  padding: 1rem;
   text-align: center;
   grid-area: header;
 }
 
 main {
-  padding: 1rem;
   grid-area: main;
 }
 
@@ -174,11 +206,31 @@ footer {
   transition: all .2s ease-in-out;
 }
 
+.aside-links:hover {
+  color: #fff;
+  background-color: #333;
+}
+
+.aside-links:active {
+  color: rgb(187, 98, 98);
+}
+
 /******************************************************
 * media queries
 ******************************************************/
 
 @media screen and (min-width: 768px) {
+  header {
+    display: flex;
+    flex-direction: row;
+    padding: .5rem
+    0 1rem 1.5rem;
+  }
+
+  main {
+    padding: .5rem 1rem;
+  }
+
   .grid {
     display: grid;
     grid-template-areas:
@@ -213,4 +265,19 @@ footer {
     flex-direction: column;
     justify-content: flex-start;
   }
+}
+
+
+/******************************************************
+* imagenes
+******************************************************/
+
+.img-fluid {
+  padding-top: .7rem;
+}
+
+img {
+  max-width: 100%;
+  border-radius: .3rem;
+  box-shadow: 1px 1px 3px #ccc;
 }

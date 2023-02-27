@@ -11,5 +11,30 @@ aside {
 }
 
 footer {
-  background: linear-gradient(90deg, rgba(68,68,68,.95) 2%, rgba(34,34,34,1) 4%, rgba(34,34,34,1) 94%, rgba(68,68,68,.95) 98%);
+  background: linear-gradient(90deg, rgba(68,68,68,.95) 0%, rgba(34,34,34,1) 6%, rgba(34,34,34,1) 94%, rgba(68,68,68,.95) 100%);
+}
+
+@media screen and (min-width: 768px) {
+  header {
+  background: rgb(34, 34,34);
+  background: linear-gradient(120deg, rgba(34, 34, 34, 1) 0%, rgba(68, 68, 68, 1) 100%);
+  }
+
+  body {
+    background: rgb(34, 34, 34);
+    background: linear-gradient(120deg, rgba(68, 68, 68, .1)0%, rgba(34,34, 34, .1) 100%);
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .aside-links:link {
+    text-transform: uppercase;
+    background-image: linear-gradient(to right, #E6DADA 0%, #555 51%, #E6DADA 100%);
+    box-shadow: 0 0 5px #eee;
+    background-size: 200% auto;
+  }
+  .aside-links:hover {
+    background-position: right center;
+    color: #fff;
+  }
 }

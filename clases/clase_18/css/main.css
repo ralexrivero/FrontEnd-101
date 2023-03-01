@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #ddd;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.calculadora {
+  background: #eee;
+  padding: .5rem;
+  margin: .5rem;
+  border: 1px solid #ccc;
+  border-radius: .5rem;
+  box-shadow: 0 0 1rem -.5rem rgba(0, 0, 0, .7); /* x-offset, y-offset, blur, spread */
+  width: 98%;
+}
+
+
+.calculadora-display {
+  background-color: #222;
+  color: #eee;
+  font-size: 1.5rem;
+  padding: .5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: .25rem;
+  box-shadow: 0 0 1rem -.5rem rgba(0, 0, 0, .7); /* x-offset, y-offset, blur, spread */
+}
+
+.calculadora-display__input {
+  word-wrap: break-word;
+  text-align: end;
+}
+
+/******************************************
+  grid de botones
+******************************************/
+
+.calculadora-botones {
+  display: grid;
+  grid-template-areas:
+    "siete ocho nueve multiplicar borrar"
+    "cuatro cinco seis dividir signo-igual"
+    "uno dos tres resta signo-igual"
+    "cero cero decimal adicion signo-igual";
+    grid-gap: .5rem;
+    padding: .5rem;
+}
+
+.suma {
+  grid-area: adicion;
+}
+
+.restar {
+  grid-areas: resta;
+}
+
+
+
+/******************************************
+  botones
+******************************************/
+
+button {
+  background: #eee;
+  color: #222;
+  font-size: 1.2rem;
+  padding: .75rem .5rem;
+  border: 1px solid #CCC;
+  border-radius: .25rem;
+  box-shadow: 0 0 1rem -.5rem rgba(0, 0, 0, .7); /* x-offset, y-offset, blur, spread */
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+}
+
+button:hover {
+  background: #ccc;
+}
+
+button:active {
+  background: #aaa;
+}
+
+@media screen and (min-width: 768px) {
+  .calculadora {
+    width: 24rem;
+  }
+}

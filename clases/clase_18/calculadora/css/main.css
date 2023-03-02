@@ -150,6 +150,48 @@ button:active {
   background: #aaa;
 }
 
+
+.operadores {
+  background: #555;
+  color: #eee;
+}
+
+.operadores:hover {
+  background: #444;
+}
+
+.operadores:active {
+  background: #333;
+}
+
+.borrar {
+  background: #EE7787;
+  color: #eee;
+  font-weight: 900;
+}
+
+.borrar:hover {
+  background: #EB6173;
+}
+
+.borrar:active {
+  background: #E84A5F;
+}
+
+.signo-igual {
+  background: #7D9B85;
+  color: #eee;
+  font-weight: 900;
+}
+
+.signo-igual:hover {
+  background: #688A71;
+}
+
+.signo-igual:active {
+  background: #52795D;
+}
+
 @media screen and (min-width: 768px) {
   .calculadora {
     width: 24rem;

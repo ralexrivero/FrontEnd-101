@@ -54,6 +54,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [Clase_14](./clases/clase_14/02-grid/) | [Grid template areas](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/02-grid) | - Grid: template areas |
 | [Clase_15](./clases/clase_15/gradientes/) | [Ejemplos de gradientes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/gradientes) | - CSS avanzado: Gradientes |
 | [Clase_15](./clases/clase_15/media_queries/) | [Media queries básico](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/media_queries) | - CSS avanzado: Media queries |
+| [clase_18](./clases/clase_18/calculadora/) | [Calculadora](https://ralexrivero.github.io/FrontEnd-101/clases/clase_18/calculadora) | - JavaScript: Calculadora básica |
 
 ## Labs
 

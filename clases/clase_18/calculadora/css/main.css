@@ -13,7 +13,7 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  min-height: 100vh;
+  max-height: 100vh;
 }
 
 .calculadora {
@@ -50,10 +50,11 @@ body {
 .calculadora-botones {
   display: grid;
   grid-template-areas:
-    "siete ocho nueve multiplicar borrar"
-    "cuatro cinco seis dividir signo-igual"
-    "uno dos tres resta signo-igual"
-    "cero cero decimal adicion signo-igual";
+    "dividir multiplicar resta adicion"
+    "siete ocho nueve borrar"
+    "cuatro cinco seis signo-igual"
+    "uno dos tres signo-igual"
+    "cero cero decimal signo-igual";
     grid-gap: .5rem;
     padding: .5rem;
 }
@@ -192,8 +193,29 @@ button:active {
   background: #52795D;
 }
 
-@media screen and (min-width: 768px) {
+/************************************************
+ * media queries
+************************************************/
+
+@media screen and (orientation:landscape){
+  .calculadora {
+    width: 95%;
+  }
+  .calculadora-botones {
+    display: grid;
+    grid-template-areas:
+      "siete ocho nueve multiplicar borrar"
+      "cuatro cinco seis dividir signo-igual"
+      "uno dos tres resta signo-igual"
+      "cero cero decimal adicion signo-igual";
+      grid-gap: .5rem;
+      padding: .5rem;
+  }
+}
+
+@media screen and (min-width:768px) {
   .calculadora {
     width: 24rem;
   }
+
 }

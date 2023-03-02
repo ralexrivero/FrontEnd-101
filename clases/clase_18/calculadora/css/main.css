@@ -58,15 +58,73 @@ body {
     padding: .5rem;
 }
 
-.suma {
+.adicion {
   grid-area: adicion;
 }
 
-.restar {
-  grid-areas: resta;
+.resta {
+  grid-area: resta;
 }
 
+.multiplicar {
+  grid-area: multiplicar;
+}
 
+.dividir {
+  grid-area: dividir;
+}
+
+.siete {
+  grid-area: siete
+}
+
+.ocho {
+  grid-area: ocho;
+}
+
+.nueve {
+  grid-area: nueve;
+}
+
+.cuatro {
+  grid-area: cuatro;
+}
+
+.cinco {
+  grid-area: cinco;
+}
+
+.seis {
+  grid-area: seis;
+}
+
+.uno {
+  grid-area: uno;
+}
+
+.dos {
+  grid-area: dos;
+}
+
+.tres {
+  grid-area: tres;
+}
+
+.cero {
+  grid-area: cero;
+}
+
+.decimal {
+  grid-area: decimal;
+}
+
+.borrar {
+  grid-area: borrar;
+}
+
+.signo-igual {
+  grid-area: signo-igual;
+}
 
 /******************************************
   botones

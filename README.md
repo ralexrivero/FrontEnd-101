@@ -71,6 +71,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [lab_05](./labs/0x05-lab/) | [Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/labs/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
 | [lab_06](./labs/0x06-lab/) | [Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101/labs/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./labs/0x06-lab/0x06-espec.md) |
 | [lab_07](./labs/0x07-lab/) | [JavaScript primitivo](https://ralexrivero.github.io/FrontEnd-101/labs/0x07-lab/) | JavaScript: tipos primitivos y operadores | [0x07-spec](./labs/0x07-lab/0x07-espec.md) |
+| [lab_08](./labs/0x08-lab/) | [Calculadora en JavaScript](https://ralexrivero.github.io/FrontEnd-101/labs/0x08-lab/) | JavaScript: eventos | [0x08-spec](./labs/0x08-lab/0x08-espec.md) |
 
 ## Proyecto final
 

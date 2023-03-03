@@ -12,7 +12,7 @@
 - Como pasaron las vacaciones
 - Como fue el viaje
 - Tu juego favorito
-- Tu pelicula favorita
+- Tu película favorita
 - O lo que gustes
 
 ## Estructura
@@ -36,7 +36,7 @@ El sitio debe ser...
 - Utilizar `css` para estilos archivos separados
 - Utilizar `js` para interactividad en archivos separados
 - Contener un archivo `README.md` con la descripción del proyecto
-- Todos los hipervinculos deben estar probados y funcionar correctamente
+- Todos los hipervínculos deben estar probados y funcionar correctamente
 
 ## Opcional
 

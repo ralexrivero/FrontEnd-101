@@ -79,7 +79,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 
 | código | despliegue | contenido | especificación |
 |--------|------------------------------------|---------------|---------------|
-| [proyecto_final](./proyecto_final/) | [proyecto final deploy](https://ralexrivero.github.io/FrontEnd-101/clases/proyecto_final/) | proyecto final | [proyecto final](./clases/proyecto_final/README.md) |
+| [proyecto_final](./proyecto_final/) | [proyecto final deploy](https://ralexrivero.github.io/FrontEnd-101/proyecto_final/) | proyecto final | [proyecto final](./proyecto_final/README.md) |
 
 ## Autor
 

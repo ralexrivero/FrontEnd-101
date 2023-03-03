@@ -40,7 +40,7 @@ El sitio debe ser...
 
 ## Opcional
 
-- Puedes utilizar un framework de css como `bootstrap`, `materialize` u otro de tu elección
+- Puedes utilizar un framework de css como `bootstrap`, `materialize` u otro de tu elección pero debes personalizarlo con tus propios estilos gráficos.
 
 ## Contenido
 

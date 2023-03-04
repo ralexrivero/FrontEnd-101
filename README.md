@@ -55,7 +55,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [Clase_15](./clases/clase_15/gradientes/) | [Ejemplos de gradientes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/gradientes) | - CSS avanzado: Gradientes |
 | [Clase_15](./clases/clase_15/media_queries/) | [Media queries básico](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/media_queries) | - CSS avanzado: Media queries |
 | [clase_18](./clases/clase_18/calculadora/) | [Calculadora](https://ralexrivero.github.io/FrontEnd-101/clases/clase_18/calculadora) | - HTML y CSS: Calculadora básica (el desarrollo del algoritmo esta en el `lab_08`)|
-| [clase_19](./clases/clase_19/input_usuario/) | [Variables](https://ralexrivero.github.io/FrontEnd-101/clases/clase_19/input_usuario/) | - JavaScript: Modificar el DOM | getElementsByClassName y addEventListener |
+| [clase_19](./clases/clase_19/input_usuario/) | [Event Listener](https://ralexrivero.github.io/FrontEnd-101/clases/clase_19/input_usuario/) | - JavaScript: Modificar el DOM | getElementsByClassName y addEventListener |
 
 ## Labs
 

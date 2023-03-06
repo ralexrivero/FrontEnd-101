@@ -22,7 +22,7 @@ Realizar pruebas de la calculadora para verificar que la lógica de la calculado
 
 - [x] Cada vez que presione un boton de `número`, debe mostrarlo en el display.
 - [ ] Cada vez que presione un boton de operación, debe guardar el numero ingresado hasta ese momento y mostrar el operador en el display.
-- [ ] Al presionar el boton `C`, debe limpiar el display, el numero ingresado y la operación guardada.
+- [x] Al presionar el boton `C`, debe limpiar el display, el numero ingresado y la operación guardada.
 - [ ] Al presionar el boton `=`, debe mostrar el resultado de la operación guardada.
 - [ ] Al presionar el boton `.`, debe mostrar el punto decimal en el display. Si el display ya tiene un punto decimal, no debe mostrar otro. Luego de ingresar un operador y presionar el boton ., debe mostrar el `0`. en el display.
 

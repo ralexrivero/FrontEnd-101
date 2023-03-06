@@ -29,3 +29,4 @@ Realizar pruebas de la calculadora para verificar que la lógica de la calculado
 ## Otras funcionalidades opcionales
 
 - [ ] Al presionar el boton `+/-`, debe cambiar el signo del numero en el display.
+- [ ] Mostrar un sub display para mostrar el numero ingresado y la operación guardada. El sub display debe mostrarse sobre el display principal, y ser de un tamaño menor.

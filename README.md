@@ -21,7 +21,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=E34F26&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)<!--HTML5-->
 [![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/CSS)<!-- CSS3 -->
 [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)<!-- JS -->
-[![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/)<!-- vs code -->
+[![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/) <!-- vs code -->
 
 ## Clases
 
@@ -56,6 +56,9 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [Clase_15](./clases/clase_15/media_queries/) | [Media queries básico](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/media_queries) | - CSS avanzado: Media queries |
 | [clase_18](./clases/clase_18/calculadora/) | [Calculadora](https://ralexrivero.github.io/FrontEnd-101/clases/clase_18/calculadora) | - HTML y CSS: Calculadora básica (el desarrollo del algoritmo esta en el `lab_08`)|
 | [clase_19](./clases/clase_19/input_usuario/) | [Event Listener](https://ralexrivero.github.io/FrontEnd-101/clases/clase_19/input_usuario/) | - JavaScript: Modificar el DOM | getElementsByClassName y addEventListener |
+| [clase_20](./clases/clase_20/for/) | [Ciclo For](https://ralexrivero.github.io/FrontEnd-101/clases/clase_20/for/) | - JavaScript: For loops |
+| [clase_21](./clases/clase_21/menu_desplegable/) | [Menu desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/menu_desplegable/) | - Manipulacion del DOM: Menu desplegable con JS, `position:absolute` y `position:relative` |
+| [clase_21](./clases/clase_21/bienvenida/) | [Mostrar y ocultar contenido con JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/menu_desplegable/) | - Manipulacion del DOM: mostrar y ocultar contenido con JS, `display:none`, `.classList.add()` y `.classList.remove()`|
 
 ## Labs
 

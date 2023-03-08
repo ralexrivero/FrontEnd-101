@@ -58,7 +58,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_19](./clases/clase_19/input_usuario/) | [Event Listener](https://ralexrivero.github.io/FrontEnd-101/clases/clase_19/input_usuario/) | - JavaScript: Modificar el DOM | getElementsByClassName y addEventListener |
 | [clase_20](./clases/clase_20/for/) | [Ciclo For](https://ralexrivero.github.io/FrontEnd-101/clases/clase_20/for/) | - JavaScript: For loops |
 | [clase_21](./clases/clase_21/menu_desplegable/) | [Menu desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/menu_desplegable/) | - Manipulacion del DOM: Menu desplegable con JS, `position:absolute` y `position:relative` |
-| [clase_21](./clases/clase_21/bienvenida/) | [Mostrar y ocultar contenido con JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/menu_desplegable/) | - Manipulacion del DOM: mostrar y ocultar contenido con JS, `display:none`, `.classList.add()` y `.classList.remove()`|
+| [clase_21](./clases/clase_21/bienvenida/) | [Mostrar y ocultar contenido con JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/bienvenida/) | - Manipulacion del DOM: mostrar y ocultar contenido con JS, `display:none`, `.classList.add()` y `.classList.remove()`|
 
 ## Labs
 

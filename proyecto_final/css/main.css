@@ -1,0 +1,17 @@
+/**************************************************
+ * Generales
+/**************************************************/
+
+/* reset */
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+/* google fonts global */
+body {
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+

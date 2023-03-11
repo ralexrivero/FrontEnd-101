@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Galeria simple</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main>
+    <div class="galeria">
+      <div class="miniaturas">
+        <h1>Galeria de imagenes</h1>
+        <div class="img-container"><img src="img/cat_01_m.jpg" title="click para agrandar imagen" alt="miniatura" onclick="cambiarImagen('img/cat_01_m.jpg')" /></div>
+        <div class="img-container"><img src="img/cat_02_m.jpg" title="click para agrandar imagen" alt="miniatura" onclick="cambiarImagen('img/cat_02_m.jpg')" /></div>
+        <div class="img-container"><img src="img/cat_03_m.jpg" title="click para agrandar imagen" alt="miniatura" onclick="cambiarImagen('img/cat_03_m.jpg')" /></div>
+      </div>
+      <div class="vista">
+        <h2>Vista previa</h2>
+        <img id="vista-img" alt="imagen grande" title="imagen grande" src="img/cat_01_m.jpg">
+      </div>
+    </div>
+  </main>
+  <script src="js/script.js"></script>
+</body>
+</html>

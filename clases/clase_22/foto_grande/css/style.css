@@ -7,6 +7,9 @@
 body {
   color: #333;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #eee;
+  position: relative;
+  overflow: auto;
 }
 
 .container {
@@ -22,7 +25,7 @@ body {
   flex-wrap: wrap;
   flex-direction: row;
   align-items: center;
-  justify-content: flex-start;
+  justify-content: space-evenly;
   min-width: fit-content;
   border: 1px solid #333;
   border-radius: .5rem;
@@ -50,8 +53,51 @@ img {
   border-radius: .5rem;
   box-shadow: 2px 2px 6px rgba(34, 34, 34, .7);
   margin: 1rem;
+  cursor:pointer;
+  transition: all .3s ease-in-out;
+}
+
+img:hover {
+  box-shadow: 2px 2px 2px rgba(34, 34, 34, .4);
 }
 
 .pantalla-completa {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(34, 34, 34, .7);
+  width: 100vw;
+  height: 100vh;
+  min-width: fit-content;
+  position: absolute;
+  top:0;
+  left:0;
+}
+
+#maxi-img {
+  max-width: 98%;
+  max-height: 95vh;
+
+}
+
+.oculto {
   display: none;
+  background-color: rgba(34, 34, 34, 0);
+}
+
+
+
+
+img[data]:hover:after {
+  content: attr(data);
+  padding: 4px 8px;
+  color: rgba(0,0,0,0.5);
+  position: absolute;
+  left: 0;
+  top: 100%;
+  white-space: nowrap;
+  z-index: 2;
+  border-radius: 5px ;
+  background: rgba(0,0,0,0.5);
 }

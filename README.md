@@ -59,8 +59,8 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_20](./clases/clase_20/for/) | [Ciclo For](https://ralexrivero.github.io/FrontEnd-101/clases/clase_20/for/) | - JavaScript: For loops |
 | [clase_21](./clases/clase_21/menu_desplegable/) | [Menu desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/menu_desplegable/) | - Manipulacion del DOM: Menu desplegable con JS, `position:absolute` y `position:relative` |
 | [clase_21](./clases/clase_21/bienvenida/) | [Mostrar y ocultar contenido con JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/bienvenida/) | - Manipulacion del DOM: mostrar y ocultar contenido con JS, `display:none`, `.classList.add()` y `.classList.remove()`|
-| [clase_22](./clases/clase_22/preview/) | [Preview de imagenes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/preview/) | - Manipulacion del DOM: Preview de imagenes con JS, evento `click` en html y cambio de src en funcion|
-| [clase_22](./clases/clase_22/foto_grande/) | [Galeria con muestra de foto grande](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/foto_grande/) | - Galeria de miniaturas y foto grande a pantalla completa al clickear la imagen |
+| [clase_22](./clases/clase_22/galeria/) | [Galeria de imagenes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/preview/) | - Manipulacion del DOM: Galeria de imagenes con JS, evento `click` en html y cambio de `src` mediante funcion|
+| [clase_22](./clases/clase_22/lightbox/) | [Galeria estilo lightbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/lightbox/) | - Galeria de miniaturas y foto grande a pantalla completa al clickear la imagen |
 
 ## Labs
 

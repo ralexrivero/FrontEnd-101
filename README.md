@@ -61,6 +61,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_21](./clases/clase_21/bienvenida/) | [Mostrar y ocultar contenido con JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/bienvenida/) | - Manipulacion del DOM: mostrar y ocultar contenido con JS, `display:none`, `.classList.add()` y `.classList.remove()`|
 | [clase_22](./clases/clase_22/galeria/) | [Galeria de imagenes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/galeria/) | - Manipulacion del DOM: Galeria de imagenes con JS, evento `click` en html y cambio de `src` mediante funcion|
 | [clase_22](./clases/clase_22/lightbox/) | [Galeria estilo lightbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/lightbox/) | - Galeria de miniaturas y foto grande a pantalla completa al clickear la imagen |
+| [clase_22](./clases/clase_22/galeria_simple/) | [Galeria simple](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/galeria_simple/) | - Galeria de miniaturas y la foto grande cambia segun se cliquea la miniatura |
 
 ## Labs
 

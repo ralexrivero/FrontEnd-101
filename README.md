@@ -29,14 +29,32 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 
 | código | despliegue | contenido |
 |--------|------------------------------------|---------------|
-| [Clase_00](./clases/clase_00/) | | - hola mundo |
-| [Clase_01](./clases/clase_01/) | | - estructura básica de un documento HTML |
-| [Clase_02](./clases/clase_02/) | | - nuestro boilerplate HTML aplicado |
-| [Clase_03](./clases/clase_03/) | | - elementos HTML |
-| [Clase_04](./clases/clase_04/) | | - formularios y CSS |
-| [Clase_05](./clases/clase_05/) | | - href y CSS: formato de texto |
-| [Clase_06](./clases/clase_06/) | | - bordes y colores |
-| [Clase_07](./clases/clase_07/) | | - CSS avanzado: modelo de caja |
+| [Clase_00](./clases/clase_00/hola_mundo/) |[Página web con HTML](https://ralexrivero.github.io/FrontEnd-101/clases/clase_00/hola_mundo/) | - hola mundo en html|
+| [Clase_01](./clases/clase_01/HTML_base/) |[HTML base](https://ralexrivero.github.io/FrontEnd-101/clases/clase_01/HTML_base/) | - estructura básica de un documento HTML |
+| [Clase_01](./clases/clase_01/secciones_fundamentales/) |[Secciones fundamentales](https://ralexrivero.github.io/FrontEnd-101/clases/clase_01/secciones_fundamentales/) | - secciones fundamentales de un documento HTML |
+| [Clase_02](./clases/clase_02/boilerplate/) | [Boilerplate HTML](https://ralexrivero.github.io/FrontEnd-101/clases/clase_02/boilerplate/)| - nuestro boilerplate HTML aplicado |
+| [Clase_03](./clases/clase_03/favicon/) | [Favicon](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/favicon/)| - favicon |
+| [Clase_03](./clases/clase_03/hipervinculos/) | [Hipervínculos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/hipervinculos/)| - Hipervinculos en texto e imagenes |
+| [Clase_03](./clases/clase_03/iframes/) | [iframes](https://ralexrivero.github.io/FrontEnd-101/ases/clase_03/iframes/)| - iframes de google maps y youtube |
+| [Clase_03](./clases/clase_03/listas/) | [Listas](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/listas/)| - Listas desordenadas y ordenadas |
+| [Clase_03](./clases/clase_03/navegacion/) | [Navegación](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/navegacion/)| - Estructura de un menú de navegación |
+| [Clase_03](./clases/clase_03/texto_preformateado/) | [Preformateado](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/texto_preformateado/)| - Texto preformateado, conservando espacios y saltos de línea |
+| [Clase_03](./clases/clase_03/formulario_base/) | [Formulario base](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/formulario_base/)| - Estructura de un formulario base |
+| [Clase_04](./clases/clase_04/formulario_simple/) | [Formulario Simple](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/formulario_simple/)| - Estructura de un formulario simple |
+| [Clase_04](./clases/clase_04/area_texto/) | [Área de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/area_texto/)| - Campo de área de texto |
+| [Clase_04](./clases/clase_04/boton_radio/) | [Botónes de radio](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/boton_radio/)| - campo de selección con botón de radio |
+| [Clase_04](./clases/clase_04/lista_desplegable/) | [Lista desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/lista_desplegable/)| - campo de selección con lista desplegable |
+| [Clase_04](./clases/clase_04/checkbox/clase_04/checkbox) | [Checkbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/checkbox)| - campo de selección múltiple con checkbox |
+| [Clase_04](./clases/clase_04/css_en_linea/) | [CSS en línea](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_en_linea/)| - CSS en con atributo `style` |
+| [Clase_04](./clases/clase_04/css_interno/) | [CSS interno](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_interno/)| - CSS en `<style>` dentro del `<head>` |
+| [Clase_04](./clases/clase_04/css_externo/) | [CSS externo](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_externo/)| - CSS externo en un archivo `.css` referenciado dentro de un `<link>` en el `<head>` |
+| [Clase_05](./clases/clase_05/05-00-fuentes.html) | [Fuentes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-fuentes.html)| - Formato de fuentes |
+| [Clase_05](./clases/clase_05/05-00-texto.html) | [Texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-texto.html)| - Formato de texto |
+| [Clase_05](./clases/clase_05/05-anchor_id.html) | [Vinculos internos](https://ralexrivero.github.io/FrontEnd-101/)| - Vinculos a una sección de la página |
+| [Clase_06](./clases/clase_06/06-bordes.html) | [Bordes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-bordes.html)| - bordes |
+| [Clase_06](./clases/clase_06/06-colores.html) | [Colores](https://ralexrivero.github.io/FrontEnd-101/)| - colores |
+| [Clase_06](./clases/clase_06/06-multiples.html) | [Elementos de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-multiples.html)| - Ejemplo de multiples elementos de texto |
+| [Clase_07](./clases/clase_07/07-boxmodel.html) | [Box model](https://ralexrivero.github.io/FrontEnd-101/clases/clase_07/07-boxmodel.html)| - CSS avanzado: modelo de caja |
 | [Clase_08](./clases/clase_08/consolas/) |[Galería fluida](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/consolas/) | - CSS avanzado: galería de imágenes con flexbox |
 | [Clase_08](./clases/clase_08/flexbox/) |[Flexbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
 | [Clase_09](./clases/clase_09/09-border-box/) | [border-box](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-border-box)| - CSS avanzado: box-sizing  |

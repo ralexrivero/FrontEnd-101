@@ -24,7 +24,7 @@
         <li><a href="#">Wiki</a></li>
         <li><a href="#">Labs</a></li>
           <ul class="menu-l2">
-            <li><a href="#">Lab 00</a></li>
+            <li><a href="labs/0x00-lab/lab_00.html">Lab 00</a></li>
             <li><a href="#">Lab 01</a></li>
             <li><a href="#">Lab 02</a></li>
             <li><a href="#">Lab 03</a></li>
@@ -40,11 +40,30 @@
       </ul>
     </nav>
   </header>
-  <main><span class="material-symbols-rounded">
+  <main>
+    <h1>Proyecto final</h1>
+    <span class="material-symbols-rounded">
     home
-    </span></main>
+    </span>
+
+    <h2>Galeria de imagenes</h2>
+    <div class="galeria">
+      <div class="miniaturas">
+        <img src="http://via.placeholder.com/640x360" alt="miniatura" onclick="cambiarImagen('http://via.placeholder.com/640x360')" />
+        <img src="https://placekitten.com/g/200/300" alt="miniatura" onclick="cambiarImagen('https://placekitten.com/g/200/300')" />
+        <img src="http://via.placeholder.com/640x480" alt="miniatura" onclick="cambiarImagen('http://via.placeholder.com/640x48')" />
+      </div>
+      <h3>Vista previa</h3>
+      <div class="vista">
+        <img id="vista-img" src="http://via.placeholder.com/640x360">
+      </div>
+    </div>
+
+  </main>
   <aside></aside>
-  <footer></footer>
+  <footer>
+    <small><a href="mailto:ralexrivero@gmail.com?subject=Contacto web">Enviame un correo</a></small>
+  </footer>
 </body>
   <script src="js/main.js"></script>
 </html>

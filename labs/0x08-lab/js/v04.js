@@ -14,7 +14,7 @@ const botones = document.querySelectorAll('button');
 let primerTermino = 0;
 let operadorIngresado = '';
 let banderaTerminoSiguiente = false; // indicar si debe espera el siguiente termino
-let banderaResultadoEnviado = false; // indica si ha presionado =
+
 /**
  * Operaciones = cada miembro del objeto llama a una funcion anonima
  */
@@ -93,12 +93,12 @@ function agregarDecimal() {
  * resltuado - muestra el resultado en pantalla
  */
 function resultado() {
+  console.log('=');
   const valorActual = Number(display.textContent);
   const resultadoFinal = operaciones[operadorIngresado](primerTermino, valorActual);
   display.textContent = resultadoFinal;
   primerTermino = resultadoFinal;
   banderaTerminoSiguiente = true;
-  banderaResultadoEnviado = true;
 }
 
 /**
@@ -109,14 +109,14 @@ function usarOperador(operador) {
   const valorActual = Number(display.textContent); // convierto el valor actual del display en numero
   if (!primerTermino) {
     primerTermino = valorActual;
-  }
-
-  if (banderaResultadoEnviado === true) {
-    primerTermino = valorActual;
+  } else {
+    console.log(`valor actual: ${valorActual}`)
   }
 
   banderaTerminoSiguiente = true; // listo para el siguiente valor
   operadorIngresado = operador;
+  console.log(`primerValor: ${primerTermino}`);
+  console.log(`operador: ${operadorIngresado}`);
 }
 
 /**

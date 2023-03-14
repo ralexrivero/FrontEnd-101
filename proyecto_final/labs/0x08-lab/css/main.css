@@ -1,0 +1,221 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #444;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  max-height: 100vh;
+}
+
+.calculadora {
+  background: #eee;
+  padding: .5rem;
+  margin: .5rem;
+  border: 1px solid #ccc;
+  border-radius: .5rem;
+  box-shadow: 0 0 1rem -.5rem rgba(0, 0, 0, .7); /* x-offset, y-offset, blur, spread */
+  width: 98%;
+}
+
+
+.calculadora-display {
+  background-color: #222;
+  color: #eee;
+  font-size: 1.5rem;
+  padding: .5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: .25rem;
+  box-shadow: 0 0 1rem -.5rem rgba(0, 0, 0, .7); /* x-offset, y-offset, blur, spread */
+}
+
+.calculadora-display__input {
+  word-wrap: break-word;
+  text-align: end;
+}
+
+/******************************************
+  grid de botones
+******************************************/
+
+.calculadora-botones {
+  display: grid;
+  grid-template-areas:
+    "dividir multiplicar resta adicion"
+    "siete ocho nueve borrar"
+    "cuatro cinco seis signo-igual"
+    "uno dos tres signo-igual"
+    "cero cero decimal signo-igual";
+    grid-gap: .5rem;
+    padding: .5rem;
+}
+
+.adicion {
+  grid-area: adicion;
+}
+
+.resta {
+  grid-area: resta;
+}
+
+.multiplicar {
+  grid-area: multiplicar;
+}
+
+.dividir {
+  grid-area: dividir;
+}
+
+.siete {
+  grid-area: siete
+}
+
+.ocho {
+  grid-area: ocho;
+}
+
+.nueve {
+  grid-area: nueve;
+}
+
+.cuatro {
+  grid-area: cuatro;
+}
+
+.cinco {
+  grid-area: cinco;
+}
+
+.seis {
+  grid-area: seis;
+}
+
+.uno {
+  grid-area: uno;
+}
+
+.dos {
+  grid-area: dos;
+}
+
+.tres {
+  grid-area: tres;
+}
+
+.cero {
+  grid-area: cero;
+}
+
+.decimal {
+  grid-area: decimal;
+}
+
+.borrar {
+  grid-area: borrar;
+}
+
+.signo-igual {
+  grid-area: signo-igual;
+}
+
+/******************************************
+  botones
+******************************************/
+
+button {
+  background: #eee;
+  color: #222;
+  font-size: 1.2rem;
+  padding: .75rem .5rem;
+  border: 1px solid #CCC;
+  border-radius: .25rem;
+  box-shadow: 0 0 1rem -.5rem rgba(0, 0, 0, .7); /* x-offset, y-offset, blur, spread */
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+}
+
+button:hover {
+  background: #ccc;
+}
+
+button:active {
+  background: #aaa;
+}
+
+
+.operadores {
+  background: #555;
+  color: #eee;
+}
+
+.operadores:hover {
+  background: #444;
+}
+
+.operadores:active {
+  background: #333;
+}
+
+.borrar {
+  background: #EE7787;
+  color: #eee;
+  font-weight: 900;
+}
+
+.borrar:hover {
+  background: #EB6173;
+}
+
+.borrar:active {
+  background: #E84A5F;
+}
+
+.signo-igual {
+  background: #7D9B85;
+  color: #eee;
+  font-weight: 900;
+}
+
+.signo-igual:hover {
+  background: #688A71;
+}
+
+.signo-igual:active {
+  background: #52795D;
+}
+
+/************************************************
+ * media queries
+************************************************/
+
+@media screen and (orientation:landscape){
+  .calculadora {
+    width: 95%;
+  }
+  .calculadora-botones {
+    display: grid;
+    grid-template-areas:
+      "siete ocho nueve multiplicar borrar"
+      "cuatro cinco seis dividir signo-igual"
+      "uno dos tres resta signo-igual"
+      "cero cero decimal adicion signo-igual";
+      grid-gap: .5rem;
+      padding: .5rem;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .calculadora {
+    width: 24rem;
+  }
+
+}

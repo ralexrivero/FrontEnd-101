@@ -35,7 +35,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [Clase_02](./clases/clase_02/boilerplate/) | [Boilerplate HTML](https://ralexrivero.github.io/FrontEnd-101/clases/clase_02/boilerplate/)| - nuestro boilerplate HTML aplicado |
 | [Clase_03](./clases/clase_03/favicon/) | [Favicon](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/favicon/)| - favicon |
 | [Clase_03](./clases/clase_03/hipervinculos/) | [Hipervínculos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/hipervinculos/)| - Hipervinculos en texto e imagenes |
-| [Clase_03](./clases/clase_03/iframes/) | [iframes](https://ralexrivero.github.io/FrontEnd-101/ases/clase_03/iframes/)| - iframes de google maps y youtube |
+| [Clase_03](./clases/clase_03/iframes/) | [iframes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/iframes/)| - iframes de google maps y youtube |
 | [Clase_03](./clases/clase_03/listas/) | [Listas](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/listas/)| - Listas desordenadas y ordenadas |
 | [Clase_03](./clases/clase_03/navegacion/) | [Navegación](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/navegacion/)| - Estructura de un menú de navegación |
 | [Clase_03](./clases/clase_03/texto_preformateado/) | [Preformateado](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/texto_preformateado/)| - Texto preformateado, conservando espacios y saltos de línea |
@@ -92,7 +92,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [lab_02](./labs/0x02-lab/) | [Formulario con estilos](https://ralexrivero.github.io/FrontEnd-101/labs/0x02-lab/) | formulario simple con estilos css | [0x02-spec](./labs/0x02-lab/0x02-espec.md) |
 | [lab_03](./labs/0x03-lab/) | [3 cajas flex](https://ralexrivero.github.io/FrontEnd-101/labs/0x03-lab/) | flexbox | [0x03-spec](./labs/0x03-lab/0x03-espec.md) |
 | [lab_04](./labs/0x04-lab/09-border-box/) | [Refactorizar CSS I](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-border-box/) | refactorización de css border-box | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
-| [lab_04](./labs/0x04-lab/09-max-width/) | [Refactorizar CSS I](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-max-width) | refactorización de css max-width | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
+| [lab_04](./labs/0x04-lab/09-max-width/) | [Refactorizar CSS II](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-max-width) | refactorización de css max-width | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
 | [lab_05](./labs/0x05-lab/) | [Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/labs/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
 | [lab_06](./labs/0x06-lab/) | [Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101/labs/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./labs/0x06-lab/0x06-espec.md) |
 | [lab_07](./labs/0x07-lab/) | [JavaScript primitivo](https://ralexrivero.github.io/FrontEnd-101/labs/0x07-lab/) | JavaScript: tipos primitivos y operadores | [0x07-spec](./labs/0x07-lab/0x07-espec.md) |

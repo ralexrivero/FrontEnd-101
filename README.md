@@ -52,7 +52,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [Clase_05](./clases/clase_05/05-00-texto.html) | [Texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-texto.html)| - Formato de texto |
 | [Clase_05](./clases/clase_05/05-anchor_id.html) | [Vinculos internos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-anchor_id.html)| - Vinculos a una sección de la página |
 | [Clase_06](./clases/clase_06/06-bordes.html) | [Bordes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-bordes.html)| - bordes |
-| [Clase_06](./clases/clase_06/06-colores.html) | [Colores](https://ralexrivero.github.io/FrontEnd-101/)| - colores |
+| [Clase_06](./clases/clase_06/06-colores.html) | [Colores](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-colores.html)| - colores |
 | [Clase_06](./clases/clase_06/06-multiples.html) | [Elementos de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-multiples.html)| - Ejemplo de multiples elementos de texto |
 | [Clase_07](./clases/clase_07/07-boxmodel.html) | [Box model](https://ralexrivero.github.io/FrontEnd-101/clases/clase_07/07-boxmodel.html)| - CSS avanzado: modelo de caja |
 | [Clase_08](./clases/clase_08/consolas/) |[Galería fluida](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/consolas/) | - CSS avanzado: galería de imágenes con flexbox |

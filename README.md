@@ -50,7 +50,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [Clase_04](./clases/clase_04/css_externo/) | [CSS externo](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_externo/)| - CSS externo en un archivo `.css` referenciado dentro de un `<link>` en el `<head>` |
 | [Clase_05](./clases/clase_05/05-00-fuentes.html) | [Fuentes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-fuentes.html)| - Formato de fuentes |
 | [Clase_05](./clases/clase_05/05-00-texto.html) | [Texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-texto.html)| - Formato de texto |
-| [Clase_05](./clases/clase_05/05-anchor_id.html) | [Vinculos internos](https://ralexrivero.github.io/FrontEnd-101/)| - Vinculos a una sección de la página |
+| [Clase_05](./clases/clase_05/05-anchor_id.html) | [Vinculos internos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-anchor_id.html)| - Vinculos a una sección de la página |
 | [Clase_06](./clases/clase_06/06-bordes.html) | [Bordes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-bordes.html)| - bordes |
 | [Clase_06](./clases/clase_06/06-colores.html) | [Colores](https://ralexrivero.github.io/FrontEnd-101/)| - colores |
 | [Clase_06](./clases/clase_06/06-multiples.html) | [Elementos de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-multiples.html)| - Ejemplo de multiples elementos de texto |

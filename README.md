@@ -45,8 +45,8 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_04](./clases/clase_04/boton_radio/) | [Botónes de radio](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/boton_radio/)| - campo de selección con botón de radio |
 | [clase_04](./clases/clase_04/lista_desplegable/) | [Lista desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/lista_desplegable/)| - campo de selección con lista desplegable |
 | [clase_04](./clases/clase_04/checkbox/) | [Checkbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/checkbox)| - campo de selección múltiple con checkbox |
-| [clase_04](./clases/clase_04/css_en_linea/) | [CSS en línea](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_en_linea/)| - CSS en con atributo `style` |
-| [clase_04](./clases/clase_04/css_interno/) | [CSS interno](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_interno/)| - CSS en `<style>` dentro del `<head>` |
+| [clase_04](./clases/clase_04/css_en_linea/04-01-css.html) | [CSS en línea](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_en_linea/04-01-css.html)| - CSS en con atributo `style` |
+| [clase_04](./clases/clase_04/css_interno/index.html) | [CSS interno](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_interno/)| - CSS en `<style>` dentro del `<head>` |
 | [clase_04](./clases/clase_04/css_externo/) | [CSS externo](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_externo/)| - CSS externo en un archivo `.css` referenciado dentro de un `<link>` en el `<head>` |
 | [clase_05](./clases/clase_05/05-00-fuentes.html) | [Fuentes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-fuentes.html)| - Formato de fuentes |
 | [clase_05](./clases/clase_05/05-00-texto.html) | [Texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-texto.html)| - Formato de texto |

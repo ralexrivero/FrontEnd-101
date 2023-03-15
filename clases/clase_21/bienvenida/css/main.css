@@ -114,4 +114,10 @@ label, input, button {
 
 .esconder {
     display: none;
-  }
+}
+
+#hamburguesa {
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #eee;
+}

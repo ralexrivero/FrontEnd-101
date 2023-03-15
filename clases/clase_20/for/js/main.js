@@ -33,3 +33,7 @@ const alumnos = ['Juan', 'Maria', 'John', 'Alfred'];
 alumnos.forEach( (alumno) => {
   console.log(`Nombre: ${alumno}`);
 });
+
+// mensaje
+
+document.write(`<p>Para ver el resto de la ejecución del programa utiliza el Developers Tools o herramientas de debugging</p>`);

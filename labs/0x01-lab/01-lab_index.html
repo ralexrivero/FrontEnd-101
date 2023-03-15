@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulario de registro</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <meta name="description" content="Regístrese hoy en nuestro sitio web y obtenga acceso a una variedad de funciones exclusivas. Únase a nuestra comunidad y disfrute de una experiencia de usuario personalizada. ¡Que esperas!">
+  <meta name="keywords" content="registro de usuarios, comunidad, funciones exclusivas, experiencia de usuario personalizada">
+  <meta name="author" content="Ronald Alexander Rivero">
+
+<body>
+  <head>
+    <nav>
+      <h1>Registro de usuario</h1>
+    </nav>
+  </head>
+  <main>
+    <form>
+      <label for="nombre">nombre</label>
+      <input type="text" id="nombre" name="nombre" placeholder="ingresa tu nombre" required>
+      <br>
+      <label for="apellido">apellido</label>
+      <input type="text" id="apellido" name="apellido" placeholder="ingresa tu apellido" required>
+      <br>
+      <label for="email">email</label>
+      <input type="email" id="email" name="email" placeholder="nombre@dominio.com" required>
+      <br>
+      <label for="password">Contraseña</label>
+      <input type="password" id="password" required>
+      <br>
+      <label for="password">Confirmar contraseña</label>
+      <input type="password" id="password" required>
+      <br>
+      <label for="nacimiento">fecha de nacimiento</label>
+      <input type="date" id="nacimiento" name="nacimiento" required>
+      <br>
+      <p>genero</p>
+      <input type="radio" id="masculino" name="genero" value="masculino">
+      <label for="masculino">masculino</label>
+      <input type="radio" id="femenino" name="genero" value="femenino">
+      <label for="femenino">femenino</label>
+      <input type="radio" id="no-binario" name="genero" value="no-binario">
+      <label for="no-binario">no binario</label>
+      <br>
+      <label for="pais">País</label>
+      <br>
+      <select id="pais" name="pais">
+        <option value="vacio" disabled selected>--elija un Pais--</option>
+        <option value="uruguay" >Uruguay</option>
+        <option value="argentina" >Argentina</option>
+        <option value="brasil">Brasil</option>
+        <option value="chile">Chile</option>
+      </select>
+      <br>
+      <label for="departamento">Departamento</label>
+      <br>
+      <select id="departamento" name="departamento">
+        <option value="vacio" disabled selected>--elija un Departamento--</option>
+        <option value="montevideo" >Montevideo</option>
+        <option value="artigas" >Artigas</option>
+        <option value="maldonado">Maldonado</option>
+        <option value="canelones">Canelones</option>
+      </select>
+      <br>
+      <label for="direccion">dirección</label>
+      <input type="text" id="direccion" name="direccion">
+      <br>
+      <label for="telefono">teléfono</label>
+      <input type="text" id="telefono" name="telefono">
+      <br>
+      <label for="foto">foto de pefil</label>
+      <input type="file" id="foto" name="foto">
+      <br>
+      <label for="intereses">Cuentanos tus intereses</label>
+      <br>
+      <textarea name="interes" id="intereses"></textarea>
+      <p>lenguajes </p>
+      <input type="checkbox" id="html" name="lenguajes" value="html">
+      <label for="html">HTML</label>
+      <br>
+      <input type="checkbox" id="css" name="lenguajes" value="css">
+      <label for="css">CSS</label>
+      <br>
+      <input type="checkbox" id="javascript" name="lenguajes" value="javascript">
+      <label for="javascript">Javascript</label>
+      <br>
+      <input type="submit" value="enviar">
+    </form>
+  </main>
+
+</body>
+</html>

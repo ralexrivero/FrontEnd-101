@@ -50,10 +50,10 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_04](./clases/clase_04/css_externo/) | [CSS externo](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_externo/)| - CSS externo en un archivo `.css` referenciado dentro de un `<link>` en el `<head>` |
 | [clase_05](./clases/clase_05/05-00-fuentes.html) | [Fuentes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-fuentes.html)| - Formato de fuentes |
 | [clase_05](./clases/clase_05/05-00-texto.html) | [Texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-texto.html)| - Formato de texto |
-| [clase_05](./clases/clase_05/05-anchor_id.html) | [Vinculos internos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-anchor_id.html)| - Vinculos a una sección de la página |
+| [clase_05](./clases/clase_05/05-anchor_id.html) | [Vinculos internos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-anchor_id.html)| - Vínculos a una sección de la página |
 | [clase_06](./clases/clase_06/) | [Bordes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-bordes.html)| - bordes |
 | [clase_06](./clases/clase_06/) | [Colores](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-colores.html)| - colores |
-| [clase_06](./clases/clase_06/) | [Elementos de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-multiples.html)| - Ejemplo de multiples elementos de texto |
+| [clase_06](./clases/clase_06/) | [Elementos de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-multiples.html)| - Ejemplo de múltiples elementos de texto |
 | [clase_07](./clases/clase_07/) | [Box model](https://ralexrivero.github.io/FrontEnd-101/clases/clase_07/07-boxmodel.html)| - CSS avanzado: modelo de caja |
 | [clase_08](./clases/clase_08/consolas/) |[Galería fluida](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/consolas/) | - CSS avanzado: galería de imágenes con flexbox |
 | [clase_08](./clases/clase_08/flexbox/) |[Flexbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
@@ -75,11 +75,11 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_18](./clases/clase_18/calculadora/) | [Calculadora](https://ralexrivero.github.io/FrontEnd-101/clases/clase_18/calculadora) | - Calculadora básica (ver algoritmo esta en el `lab_08`)|
 | [clase_19](./clases/clase_19/input_usuario/) | [Event Listener](https://ralexrivero.github.io/FrontEnd-101/clases/clase_19/input_usuario/) | - JavaScript: Modificar el DOM | getElementsByClassName y addEventListener |
 | [clase_20](./clases/clase_20/for/) | [Ciclo For](https://ralexrivero.github.io/FrontEnd-101/clases/clase_20/for/) | - JavaScript: For loops |
-| [clase_21](./clases/clase_21/menu_desplegable/) | [Menu desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/menu_desplegable/) | - Manipulacion del DOM: Menu desplegable con JS, `position:absolute` y `position:relative` |
-| [clase_21](./clases/clase_21/bienvenida/) | [Mostrar y ocultar contenido con JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/bienvenida/) | - Manipulacion del DOM: mostrar y ocultar contenido con JS, `display:none`, `.classList.add()` y `.classList.remove()`|
-| [clase_22](./clases/clase_22/galeria/) | [Galeria de imagenes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/galeria/) | - Manipulacion del DOM: Galeria de imagenes con JS, evento `click` en html y cambio de `src` mediante funcion|
-| [clase_22](./clases/clase_22/lightbox/) | [Galeria estilo lightbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/lightbox/) | - Galeria de miniaturas y foto grande a pantalla completa al clickear la imagen |
-| [clase_22](./clases/clase_22/galeria_simple/) | [Galeria simple](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/galeria_simple/) | - Galeria de miniaturas y la foto grande cambia segun se cliquea la miniatura |
+| [clase_21](./clases/clase_21/menu_desplegable/) | [Menu desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/menu_desplegable/) | - Manipulación del DOM: Menu desplegable con JS, `position:absolute` y `position:relative` |
+| [clase_21](./clases/clase_21/bienvenida/) | [Mostrar y ocultar contenido con JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/bienvenida/) | - Manipulación del DOM: mostrar y ocultar contenido con JS, `display:none`, `.classList.add()` y `.classList.remove()`|
+| [clase_22](./clases/clase_22/galeria/) | [Galería de imagenes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/galeria/) | - Manipulación del DOM: Galería de imágenes con JS, evento `click` en html y cambio de `src` mediante funcion|
+| [clase_22](./clases/clase_22/lightbox/) | [Galería estilo lightbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/lightbox/) | - Galería de miniaturas y foto grande a pantalla completa al clickear la imagen |
+| [clase_22](./clases/clase_22/galeria_simple/) | [Galería simple](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/galeria_simple/) | - Galería de miniaturas y la foto grande cambia según se cliquea la miniatura |
 
 ## Labs
 
@@ -93,7 +93,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [lab_03](./labs/0x03-lab/) | [3 cajas flex](https://ralexrivero.github.io/FrontEnd-101/labs/0x03-lab/) | flexbox | [0x03-spec](./labs/0x03-lab/0x03-espec.md) |
 | [lab_04](./labs/0x04-lab/09-border-box/) | [Refactorizar CSS I](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-border-box/) | refactorización de css border-box | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
 | [lab_04](./labs/0x04-lab/09-max-width/) | [Refactorizar CSS II](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-max-width) | refactorización de css max-width | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
-| [lab_05](./labs/0x05-lab/) | <!-- [Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/labs/0x05-lab/) --> | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
+| [lab_05](./labs/0x05-lab/) | [Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/labs/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
 | [lab_06](./labs/0x06-lab/) | [Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101/labs/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./labs/0x06-lab/0x06-espec.md) |
 | [lab_07](./labs/0x07-lab/) | [JavaScript primitivo](https://ralexrivero.github.io/FrontEnd-101/labs/0x07-lab/) | JavaScript: tipos primitivos y operadores | [0x07-spec](./labs/0x07-lab/0x07-espec.md) |
 | [lab_08](./labs/0x08-lab/) | [Calculadora en JavaScript](https://ralexrivero.github.io/FrontEnd-101/labs/0x08-lab/) | JavaScript: eventos | [0x08-spec](./labs/0x08-lab/0x08-espec.md) |

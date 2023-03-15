@@ -1,10 +1,14 @@
 /**
  * Variables del tipo primitivo
- * No son objetos ni tienen metodos
- * case sensitive: sensibles a las mayusculas
- * Dinamicas: no se especifica el tipo, JavaScript lo infiere
+ * No son objetos ni tienen métodos
+ * case sensitive: son sensibles a las mayúsculas
+ * Dinámicas: no se especifica el tipo, JavaScript lo infiere
  */
 
+
+/***************************************
+ * Tipos de variables
+ ***************************************/
 // string
 
 var texto = 'Curso de JavaScript';
@@ -21,6 +25,9 @@ var numero = 1;
 
 var a = 250;
 
-
-// typeof
+// operador unario typeof
 console.log(typeof a);
+
+// mensaje de bienvenida
+
+document.write('Para ver la ejecución del script, abre la consola habilitando las herramientas de desarrollo o "Developers Tools"');

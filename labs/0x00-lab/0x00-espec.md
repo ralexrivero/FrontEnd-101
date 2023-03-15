@@ -15,24 +15,21 @@ Crear una página web​ con el nombre de archivo: `lab_00_nombre_apellido.html�
 - Resaltar texto​
 - Frases​
 - Listas​
-- Crear una sección de artículos​
-- Con encabezados y varias jerarquías​
-- Párrafos​
-- Resaltar texto​
-- Frases​
-- Listas​
+- Tabla con datos en filas y columnas con encabezados
+- Sección con imágenes de fuentes externas​
+- Insertar un video de YouTube​
+- Insertar un mapa de Google​
 
 ## Requerimientos técnicos​
 
 - HTML5
 - Código bien comentado​
 - Sin errores​
-- Bien indentado​
-- Buena organización​
+- Indentacion uniforme
 - Buena semántica​
 - Estructura coherente​
 - Información meta​
 - Titulo​
 - Favicon​
 - Un solo archivo​
-- Todos enlaces a recursos externos
+- Incluir enlaces a recursos externos

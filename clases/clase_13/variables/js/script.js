@@ -1,6 +1,6 @@
 /*
   declarar una variable con la palabra reservada var
-  primero asigno un valor con el operarod de asignacion =
+  primero asigno un valor con el operador de asignación =
   recupero el valor por referencia usando el nombre de la variable
 */
 
@@ -37,7 +37,7 @@ usuario = 'ronald_alexander_2814'
 */
 
 /****************
- * tipado debil
+ * tipado débil
  */
 
 const user = 'ronald'; // string o cadena
@@ -72,7 +72,7 @@ console.log(x);
 console.log(typeof x)
 
 /**
- * aritmeticas
+ * aritméticas
  * +
  * -
  * *
@@ -103,12 +103,12 @@ console.log(typeof num_1);
 num_1 = 28;
 
 /**
- * asignacion
- * = asignacion
- * += adicion
- * -= sustracion
- * *= multiplicacion
- * /= division
+ * asignación
+ * = asignación
+ * += adición
+ * -= sustracción
+ * *= multiplicación
+ * /= división
  * %= modulo
  */
 num_1 += 12; /*num_1 = num_1 + 12 resultado: 40 */
@@ -139,3 +139,6 @@ console.log(num_2 == texto_1); // valor de num_2 igual a texto_1? true
 console.log(num_2 === texto_1); // valor y tipo de num_2 igual a texto_1? falso
 
 console.log(num_2 > num_3); // true
+
+// mensaje de bienvenida
+document.write('Para ver la ejecución del script, abre la consola habilitando las herramientas de desarrollo o "Developers Tools"');

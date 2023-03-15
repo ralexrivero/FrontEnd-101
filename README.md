@@ -93,7 +93,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [lab_03](./labs/0x03-lab/) | [3 cajas flex](https://ralexrivero.github.io/FrontEnd-101/labs/0x03-lab/) | flexbox | [0x03-spec](./labs/0x03-lab/0x03-espec.md) |
 | [lab_04](./labs/0x04-lab/09-border-box/) | [Refactorizar CSS I](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-border-box/) | refactorización de css border-box | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
 | [lab_04](./labs/0x04-lab/09-max-width/) | [Refactorizar CSS II](https://ralexrivero.github.io/FrontEnd-101/labs/0x04-lab/09-max-width) | refactorización de css max-width | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
-| [lab_05](./labs/0x05-lab/) | [Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/labs/0x05-lab/) | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
+| [lab_05](./labs/0x05-lab/) | <!-- [Flex Awesome](https://ralexrivero.github.io/FrontEnd-101/labs/0x05-lab/) --> | Flexbox y FontAwesome | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
 | [lab_06](./labs/0x06-lab/) | [Responsive Rainbow](https://ralexrivero.github.io/FrontEnd-101/labs/0x06-lab/) | Grid, responsive y gradientes | [0x06-spec](./labs/0x06-lab/0x06-espec.md) |
 | [lab_07](./labs/0x07-lab/) | [JavaScript primitivo](https://ralexrivero.github.io/FrontEnd-101/labs/0x07-lab/) | JavaScript: tipos primitivos y operadores | [0x07-spec](./labs/0x07-lab/0x07-espec.md) |
 | [lab_08](./labs/0x08-lab/) | [Calculadora en JavaScript](https://ralexrivero.github.io/FrontEnd-101/labs/0x08-lab/) | JavaScript: eventos | [0x08-spec](./labs/0x08-lab/0x08-espec.md) |

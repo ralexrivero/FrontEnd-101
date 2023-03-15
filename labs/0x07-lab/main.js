@@ -47,3 +47,6 @@ console.log(arregloInfo);
 const arreglo = [1, 5, 8, 3, 2, 19]
 console.log(arreglo[0]);
 console.log(arreglo[4]);
+
+// mensaje de bienvenida
+document.write(`<small><em>para ver la ejecución del código utiliza el developers tools</em></small>`);

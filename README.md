@@ -51,10 +51,10 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_05](./clases/clase_05/05-00-fuentes.html) | [Fuentes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-fuentes.html)| - Formato de fuentes |
 | [clase_05](./clases/clase_05/05-00-texto.html) | [Texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-texto.html)| - Formato de texto |
 | [clase_05](./clases/clase_05/05-anchor_id.html) | [Vinculos internos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-anchor_id.html)| - Vinculos a una sección de la página |
-| [clase_06](./clases/clase_06/06-bordes.html) | [Bordes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-bordes.html)| - bordes |
-| [clase_06](./clases/clase_06/06-colores.html) | [Colores](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-colores.html)| - colores |
-| [clase_06](./clases/clase_06/06-multiples.html) | [Elementos de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-multiples.html)| - Ejemplo de multiples elementos de texto |
-| [clase_07](./clases/clase_07/07-boxmodel.html) | [Box model](https://ralexrivero.github.io/FrontEnd-101/clases/clase_07/07-boxmodel.html)| - CSS avanzado: modelo de caja |
+| [clase_06](./clases/clase_06/) | [Bordes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-bordes.html)| - bordes |
+| [clase_06](./clases/clase_06/) | [Colores](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-colores.html)| - colores |
+| [clase_06](./clases/clase_06/) | [Elementos de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-multiples.html)| - Ejemplo de multiples elementos de texto |
+| [clase_07](./clases/clase_07/) | [Box model](https://ralexrivero.github.io/FrontEnd-101/clases/clase_07/07-boxmodel.html)| - CSS avanzado: modelo de caja |
 | [clase_08](./clases/clase_08/consolas/) |[Galería fluida](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/consolas/) | - CSS avanzado: galería de imágenes con flexbox |
 | [clase_08](./clases/clase_08/flexbox/) |[Flexbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/flexbox/) | - CSS avanzado: posicionamiento con flexbox |
 | [clase_09](./clases/clase_09/09-border-box/) | [border-box](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-border-box)| - CSS avanzado: box-sizing  |

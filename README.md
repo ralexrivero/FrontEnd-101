@@ -42,7 +42,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_03](./clases/clase_03/formulario_base/) | [Formulario base](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/formulario_base/)| - Estructura de un formulario base |
 | [clase_04](./clases/clase_04/formulario_simple/) | [Formulario Simple](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/formulario_simple/)| - Estructura de un formulario simple |
 | [clase_04](./clases/clase_04/area_texto/) | [Área de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/area_texto/)| - Campo de área de texto |
-| [clase_04](./clases/clase_04/boton_radio/) | [Botónes de radio](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/boton_radio/)| - campo de selección con botón de radio |
+| [clase_04](./clases/clase_04/boton_radio/) | [Botones de radio](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/boton_radio/)| - campo de selección con botón de radio |
 | [clase_04](./clases/clase_04/lista_desplegable/) | [Lista desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/lista_desplegable/)| - campo de selección con lista desplegable |
 | [clase_04](./clases/clase_04/checkbox/) | [Checkbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/checkbox)| - campo de selección múltiple con checkbox |
 | [clase_04](./clases/clase_04/css_en_linea/04-01-css.html) | [CSS en línea](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_en_linea/04-01-css.html)| - CSS en con atributo `style` |
@@ -50,7 +50,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_04](./clases/clase_04/css_externo/) | [CSS externo](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/css_externo/)| - CSS externo en un archivo `.css` referenciado dentro de un `<link>` en el `<head>` |
 | [clase_05](./clases/clase_05/05-00-fuentes.html) | [Fuentes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-fuentes.html)| - Formato de fuentes |
 | [clase_05](./clases/clase_05/05-00-texto.html) | [Texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-00-texto.html)| - Formato de texto |
-| [clase_05](./clases/clase_05/05-anchor_id.html) | [Vinculos internos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-anchor_id.html)| - Vínculos a una sección de la página |
+| [clase_05](./clases/clase_05/05-anchor_id.html) | [Vínculos internos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/05-anchor_id.html)| - Vínculos a una sección de la página |
 | [clase_06](./clases/clase_06/) | [Bordes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-bordes.html)| - bordes |
 | [clase_06](./clases/clase_06/) | [Colores](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-colores.html)| - colores |
 | [clase_06](./clases/clase_06/) | [Elementos de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/06-multiples.html)| - Ejemplo de múltiples elementos de texto |
@@ -69,7 +69,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_13](./clases/clase_13/variables/) | [Más variables en JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_13/variables) | - JavaScript: Variables en JavaScript y tipos de datos |
 | [clase_14](./clases/clase_14/00-grid/) | [Grid básico](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/00-grid) | - Grid: display en grilla |
 | [clase_14](./clases/clase_14/01-grid/) | [Más grid](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/01-grid) | - Grid: layout base |
-| [clase_14](./clases/clase_14/02-grid/) | [Grid template areas](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/02-grid) | - Grid: template areas |
+| [clase_14](./clases/clase_14/02-grid/) | [Grid template áreas](https://ralexrivero.github.io/FrontEnd-101/clases/clase_14/02-grid) | - Grid: template areas |
 | [clase_15](./clases/clase_15/gradientes/) | [Ejemplos de gradientes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/gradientes) | - CSS avanzado: Gradientes |
 | [clase_15](./clases/clase_15/media_queries/) | [Media queries básico](https://ralexrivero.github.io/FrontEnd-101/clases/clase_15/media_queries) | - CSS avanzado: Media queries |
 | [clase_18](./clases/clase_18/calculadora/) | [Calculadora](https://ralexrivero.github.io/FrontEnd-101/clases/clase_18/calculadora) | - Calculadora básica (ver algoritmo esta en el `lab_08`)|
@@ -77,7 +77,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_20](./clases/clase_20/for/) | [Ciclo For](https://ralexrivero.github.io/FrontEnd-101/clases/clase_20/for/) | - JavaScript: For loops |
 | [clase_21](./clases/clase_21/menu_desplegable/) | [Menu desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/menu_desplegable/) | - Manipulación del DOM: Menu desplegable con JS, `position:absolute` y `position:relative` |
 | [clase_21](./clases/clase_21/bienvenida/) | [Mostrar y ocultar contenido con JS](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21/bienvenida/) | - Manipulación del DOM: mostrar y ocultar contenido con JS, `display:none`, `.classList.add()` y `.classList.remove()`|
-| [clase_22](./clases/clase_22/galeria/) | [Galería de imagenes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/galeria/) | - Manipulación del DOM: Galería de imágenes con JS, evento `click` en html y cambio de `src` mediante funcion|
+| [clase_22](./clases/clase_22/galeria/) | [Galería de imágenes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/galeria/) | - Manipulación del DOM: Galería de imágenes con JS, evento `click` en html y cambio de `src` mediante funcion|
 | [clase_22](./clases/clase_22/lightbox/) | [Galería estilo lightbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/lightbox/) | - Galería de miniaturas y foto grande a pantalla completa al clickear la imagen |
 | [clase_22](./clases/clase_22/galeria_simple/) | [Galería simple](https://ralexrivero.github.io/FrontEnd-101/clases/clase_22/galeria_simple/) | - Galería de miniaturas y la foto grande cambia según se cliquea la miniatura |
 

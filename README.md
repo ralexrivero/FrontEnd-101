@@ -10,7 +10,7 @@
 
 > Curso introductorio a HTML, CSS y JavaScript.
 
-Este contenido es desarrollado en vivo para la **Cohorte 2256** Abril-Junio 2023
+Este contenido es desarrollado en vivo para la **Cohorte ** - 
 
 El material del curso se divide en tres partes, el *código* desarrollado en cada clase que se encuentra en este repositorio y su despliegue en *githubpages*; la *wiki* con el contenido teórico de cada clase y material de referencia y finalmente las clases sincrónicas mediante Zoom.
 

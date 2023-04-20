@@ -21,9 +21,11 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=E34F26&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)<!--HTML5-->
 [![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/CSS)<!-- CSS3 -->
 [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)<!-- JS -->
-[![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/) <!-- vs code -->
+[![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/)<!-- vs code -->
 
 ## clases
+
+contenido de Cohorte 2216 - enero-marzo 2023
 
 > clic para ver el código y el despliegue en *githubpages*
 

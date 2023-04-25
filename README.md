@@ -31,7 +31,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 
 | código | despliegue | contenido |
 |--------|------------------------------------|---------------|
-| | | |
+| [clase_01](./clases/clase_01/hola_mundo.html) | [hola mundo](https://ralexrivero.github.io/FrontEnd-101/clase_01/hola_mundo.html) | primer código en html |
 
 ## Labs
 

@@ -1,6 +1,9 @@
 # Lab 00 - Especificación
 
-Crear una página web​ con el nombre de archivo: `lab_00_nombre_apellido.html​`
+Crear una página web​ con el nombre de archivo: `lab_00/index.html​`
+
+subir el archivo al hosting con `filezilla​`
+una carpeta que se llame `lab_00` y dentro un archivo `index.html` y el `favicon.png` (o `.ico` o `.svg`)
 
 ## Requerimientos​
 
@@ -31,5 +34,4 @@ Crear una página web​ con el nombre de archivo: `lab_00_nombre_apellido.html�
 - Información meta​
 - Titulo​
 - Favicon​
-- Un solo archivo​
 - Incluir enlaces a recursos externos

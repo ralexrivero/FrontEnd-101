@@ -32,7 +32,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | código | despliegue | contenido |
 |--------|------------------------------------|---------------|
 | [clase_01](./clases/clase_01/hola_mundo.html) | [hola mundo](https://ralexrivero.github.io/FrontEnd-101/clases/clase_01/hola_mundo.html) | primer código en html |
-| [clase_02](./clases/clase_02/intro_html.html) | [intro_html](https://ralexrivero.github.io/FrontEnd-101/clases/clase_02/intro_html.html) | introduccion a los elementos html |
+| [clase_02](./clases/clase_02/intro_html.html) | [intro_html](https://ralexrivero.github.io/FrontEnd-101/clases/clase_02/intro_html.html) | introducción a los elementos html |
 | [clase_02](./clases/clase_02/estructura_base.html) | [estructura_base](https://ralexrivero.github.io/FrontEnd-101/clases/clase_02/estructura_base.html) | template para documentos html |
 | [clase_04](./clases/clase_04/secciones_fundamentales/) | [estructura_base](https://ralexrivero.github.io/FrontEnd-101/clases/clase_04/secciones_fundamentales/index.html) | Secciones fundamentales y favicon |
 

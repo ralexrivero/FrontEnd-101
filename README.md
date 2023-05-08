@@ -43,6 +43,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | código | despliegue | contenido | especificación |
 |--------|------------------------------------|---------------|---------------|
 | | | | [0x00-spec](./labs/0x00-lab/0x00-espec.md) |
+| | | | [0x01-spec](./labs/0x01-lab/0x01-espec.md) |
 
 ## Proyecto final
 

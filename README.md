@@ -42,8 +42,15 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 
 | código | despliegue | contenido | especificación |
 |--------|------------------------------------|---------------|---------------|
-| | | | [0x00-spec](./labs/0x00-lab/0x00-espec.md) |
-| | | | [0x01-spec](./labs/0x01-lab/0x01-espec.md) |
+|[lab_00](./labs/lab_00/) |[Estructura base](https://ralexrivero.github.io/FrontEnd-101/labs/lab_00) | Estructura y elementos básicos | [0x00-spec](./labs/0x00-lab/0x00-espec.md) |
+| | | Formularios | [0x01-spec](./labs/0x01-lab/0x01-espec.md) |
+<!-- | | | | [0x02-spec](./labs/0x02-lab/0x02-espec.md) |
+| | | | [0x03-spec](./labs/0x03-lab/0x03-espec.md) |
+| | | | [0x04-spec](./labs/0x04-lab/0x04-espec.md) |
+| | | | [0x05-spec](./labs/0x05-lab/0x05-espec.md) |
+| | | | [0x06-spec](./labs/0x06-lab/0x06-espec.md) |
+| | | | [0x07-spec](./labs/0x07-lab/0x07-espec.md) |
+| | | | [0x08-spec](./labs/0x08-lab/0x08-espec.md) | -->
 
 ## Proyecto final
 

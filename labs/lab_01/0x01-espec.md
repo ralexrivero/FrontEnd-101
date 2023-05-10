@@ -1,7 +1,7 @@
 # Lab 01 - Especificación
 
-directorio: `lab_01`
-archivos: `index.html`, `favicon.png`
+- directorio: `lab_01`
+- archivos: `index.html`, `favicon.png`
 
 Crear un formulario para capturar información de usuario en nuestro sitio web
 

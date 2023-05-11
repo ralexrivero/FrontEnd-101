@@ -35,6 +35,11 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_02](./clases/clase_02/intro_html.html) | [intro_html](https://ralexrivero.github.io/FrontEnd-101/clases/clase_02/intro_html.html) | introducción a los elementos html |
 | [clase_02](./clases/clase_02/estructura_base.html) | [estructura_base](https://ralexrivero.github.io/FrontEnd-101/clases/clase_02/estructura_base.html) | template para documentos html |
 | [clase_03](./clases/clase_03/secciones_fundamentales/) | [secciones](https://ralexrivero.github.io/FrontEnd-101/clases/clase_03/secciones_fundamentales/index.html) | Secciones fundamentales y favicon |
+| [clase_05](./clases/clase_05/hipervinculos/) | [hipervínculos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/hipervinculos/index.html) | Hipervínculos en el mismo sitio y a paginas externas |
+| [clase_05](./clases/clase_05/imagenes/) | [imágenes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/imagenes/index.html) | Imágenes desde el sitio o externas |
+| [clase_05](./clases/clase_05/tablas/) | [tablas](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/tablas/index.html) | Tablas |
+| [clase_05](./clases/clase_05/formulario_simple/) | [formulario simple](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/formulario_simple/index.html) | Formulario simple con input, label y submit |
+| [clase_05](./clases/clase_05/formulario_lista_desplegable/) | [formulario lista desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/formulario_lista_desplegable/index.html) | Formulario con lista desplegable de opciones |
 
 ## Labs
 

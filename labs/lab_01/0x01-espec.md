@@ -2,6 +2,7 @@
 
 - directorio: `lab_01`
 - archivos: `index.html`, `favicon.png`
+- estructura meta y semántica
 
 Crear un formulario para capturar información de usuario en nuestro sitio web
 

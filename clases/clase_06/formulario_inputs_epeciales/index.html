@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formularios: tipos especiales</title>
+</head>
+<body>
+  <main>
+    <form>
+      <h2>Areas de texto de una linea y varias lineas</h2>
+      <p>Campo de texto de una sola linea y maximo de 6 caracteres</p>
+      <label for="nombre">Nombre</label>
+      <input type="text" id="nombre" name="nombre" maxlength="6"><!-- name se usa para nombrar las variables donde se transportan los datos-->
+      <p>Entrada de datos de multiples lineas</p>
+      <textarea name="opinion" placeholder="Cuentanos tu opinion" maxlength="256"></textarea>
+      <br>
+      <textarea name="acerca_de_ti" rows="6" cols="30">Yo soy...</textarea>
+      <h2>Tipos de datos especializados</h2>
+      <h3>Password</h3>
+      <label for="pass">Password</label>
+      <input id="pass" name="password" type="password" placeholder="no reveles esta informacion con nadie" minlength="8" maxlength="20">
+      <h3>Search</h3>
+      <input type="search">
+      <h3>Email</h3>
+      <input type="email">
+      <br>
+      <h3>Tel</h3>
+      <input type="tel">
+      <h3>url</h3>
+      <input type="url">
+      <br>
+      <h3>Submit y reset</h3>
+      <br>
+      <input type="submit">
+      <br>
+      <br>
+      <input type="reset">
+    </form>
+  </main>
+</body>
+</html>

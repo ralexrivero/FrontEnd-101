@@ -1,0 +1,45 @@
+/* comentarios */
+/*
+  Selector de etiqueta
+  y no es el mas recomendado
+*/
+
+h1 {
+  color: cadetblue;
+}
+
+/*
+  selector de id
+*/
+
+#propiedad_texto {
+  color: blue;
+}
+
+/********************************************************
+  Clases
+********************************************************/
+
+.titulo_secundario {
+  color: chocolate;
+  background-color: aquamarine;
+}
+
+/********************************************************
+  Fuentes
+********************************************************/
+
+.parrafo_uno {
+  color: blueviolet;
+}
+
+.texto_formal {
+  font-family: 'Playfair', serif;
+  color: cornflowerblue;
+}
+
+
+.texto_informal {
+  font-family: 'Poppins', sans-serif;
+  color: darkmagenta;
+}

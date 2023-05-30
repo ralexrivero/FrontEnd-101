@@ -1,0 +1,34 @@
+/*********************************
+ * Box model
+*********************************/
+
+.container {
+  /* content / contenido */
+  width: 120px; /* ancho */
+  height: 120px; /* alto */
+  background-color: #D1C4E9;
+
+  /* padding / relleno entre el contenido y el borde */
+  padding: 20px;
+
+  /* border / borde */
+  border: 4px solid #9cc25a;
+
+  /* margin / margen */
+  margin: 20px;
+}
+
+.redondo {
+  border-radius: 50%;
+}
+
+.container_2 {
+  width: 80px;
+  height: 80px;
+  background-color: #9da7da;
+  border: 4px solid #9a38b5;
+  padding: 20px;
+  /* margin: 5px 10px 20px 30px; */
+  /* margin: 10px 20px; arriba y abajo / derecha e izquierda*/
+  margin: 20px auto;
+}

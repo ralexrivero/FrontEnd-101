@@ -1,0 +1,45 @@
+/*************************************************************
+ * Bordes
+*************************************************************/
+
+.borde_solido {
+  border: 1px solid #EF5350; /* ancho estilo color */
+}
+
+.borde_punteado {
+  border: 1px dotted #EF5350; /* ancho estilo color */
+}
+
+.borde_superior {
+  border-top: 5px dashed #EC407A;
+}
+
+.borde_inferior {
+  border-bottom: 3px solid #AB47BC;
+}
+
+.borde_multiple {
+  border-top-width: 4px;
+  border-top-style: double;
+  border-top-color: #5C6BC0;
+  /* border-top: 4px double #5C6BC0; */
+  border-right-width: 2px;
+  border-right-style: dotted;
+  border-right-color: #3F51B5;
+
+  border-bottom-width: 2px;
+  border-bottom-style: dashed;
+  border-bottom-color: #3949AB;
+
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #303F9F;
+}
+
+.borde_relieve {
+  border: 10px groove #1976D2;
+}
+
+.link {
+  border: 1px solid #EC407A;
+}

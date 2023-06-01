@@ -40,6 +40,14 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_05](./clases/clase_05/tablas/) | [tablas](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/tablas/index.html) | Tablas |
 | [clase_05](./clases/clase_05/formulario_simple/) | [formulario simple](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/formulario_simple/index.html) | Formulario simple con input, label y submit |
 | [clase_05](./clases/clase_05/formulario_lista_desplegable/) | [formulario lista desplegable](https://ralexrivero.github.io/FrontEnd-101/clases/clase_05/formulario_lista_desplegable/index.html) | Formulario con lista desplegable de opciones |
+| [clase_06](./clases/clase_06/formulario_inputs_epeciales/) | [inputs especiales](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/formulario_inputs_epeciales/) | inputs especiales: textarea, password, submit, reset |
+| [clase_06](./clases/clase_06/formulario_otros_controles/) | [otros controles](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/formulario_otros_controles) | otros tipos de controles: time, color, date, file |
+| [clase_06](./clases/clase_06/formulario_radio_checkbox/) | [radio y checkbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/formulario_radio_checkbox) | formularios: botón de radio y checkbox |
+| [clase_06](./clases/clase_06/iframes/) | [iframes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/iframes) | iframes: google maps y youtube |
+| [clase_07](./clases/clase_07/intro_css/) | [intro css](https://ralexrivero.github.io/FrontEnd-101/clases/clase_07/intro_css) | introducción a css |
+| [clase_07](./clases/clase_07/css_externo/) | [css externo](https://ralexrivero.github.io/FrontEnd-101/clases/clase_07/css_externo) | css externo |
+| [clase_08](./clases/clase_08/) | [CSS: formato de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/) | formato de texto en CSS |
+| [clase_09](./clses/clase_09/) | [CSS: boxmodel](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/) | Modelo de caja en CSS |
 
 ## Labs
 
@@ -49,10 +57,9 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 |--------|------------------------------------|---------------|---------------|
 |[lab_00](./labs/lab_00/) |[Estructura base](https://ralexrivero.github.io/FrontEnd-101/labs/lab_00) | Estructura y elementos básicos | [0x00-spec](./labs/lab_00/0x00-espec.md) |
 | | | Formularios | [0x01-spec](./labs/lab_01/0x01-espec.md) |
-| | | | [0x02-spec](./labs/lab_02/0x02-espec.md) |
-<!--
+| [lab_02](./labs/lab_02/)|[Formulario con Estilos](https://ralexrivero.github.io/FrontEnd-101/labs/lab_02) | Formulario con estilos y efectos | [0x02-spec](./labs/lab_02/0x02-espec.md) |
 | | | | [0x03-spec](./labs/lab_03/0x03-espec.md) |
-| | | | [0x04-spec](./labs/lab_04/0x04-espec.md) |
+<!--| | | | [0x04-spec](./labs/lab_04/0x04-espec.md) |
 | | | | [0x05-spec](./labs/lab_05/0x05-espec.md) |
 | | | | [0x06-spec](./labs/lab_06/0x06-espec.md) |
 | | | | [0x07-spec](./labs/lab_07/0x07-espec.md) |

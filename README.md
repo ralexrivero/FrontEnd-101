@@ -48,8 +48,8 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_07](./clases/clase_07/css_externo/) | [css externo](https://ralexrivero.github.io/FrontEnd-101/clases/clase_07/css_externo) | css externo |
 | [clase_08](./clases/clase_08/) | [CSS: formato de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/08-00-texto.html) | formato de texto en CSS |
 | [clase_08](./clases/clase_08/) | [CSS: mas formato de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/08-01-text.html) | formato de texto en CSS |
-| [clase_09](./clses/clase_09/) | [CSS: bordes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-bores.html) | bordes |
-| [clase_09](./clses/clase_09/) | [CSS: boxmodel](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-boxmodel.html) | Modelo de caja en CSS |
+| [clase_09](./clases/clase_09/) | [CSS: bordes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-bordes.html) | bordes |
+| [clase_09](./clases/clase_09/) | [CSS: boxmodel](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-boxmodel.html) | Modelo de caja en CSS |
 
 ## Labs
 

@@ -23,7 +23,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=E34F26&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)<!--HTML5-->
 [![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=0071B5&logo=CSS3&logoColor=1572B6&labelColor=2F333A)](https://developer.mozilla.org/en-US/docs/Web/CSS)<!-- CSS3 -->
 [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=F7DF1E&labelColor=2F333A)](https://www.javascript.com)<!-- JS -->
-[![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/) <!-- vs code -->
+[![VS Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=007ACC&logo=Visual%20Studio%20Code&logoColor=007ACC&labelColor=2F333A)](https://code.visualstudio.com/) <!-- vscode -->
 
 ## clases
 
@@ -43,13 +43,16 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_06](./clases/clase_06/formulario_inputs_epeciales/) | [inputs especiales](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/formulario_inputs_epeciales/) | inputs especiales: textarea, password, submit, reset |
 | [clase_06](./clases/clase_06/formulario_otros_controles/) | [otros controles](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/formulario_otros_controles) | otros tipos de controles: time, color, date, file |
 | [clase_06](./clases/clase_06/formulario_radio_checkbox/) | [radio y checkbox](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/formulario_radio_checkbox) | formularios: botón de radio y checkbox |
-| [clase_06](./clases/clase_06/iframes/) | [iframes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/iframes) | iframes: google maps y youtube |
+| [clase_06](./clases/clase_06/iframes/) | [iframes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_06/iframes) | iframes: google maps y YouTube |
 | [clase_07](./clases/clase_07/intro_css/) | [intro css](https://ralexrivero.github.io/FrontEnd-101/clases/clase_07/intro_css) | introducción a css |
 | [clase_07](./clases/clase_07/css_externo/) | [css externo](https://ralexrivero.github.io/FrontEnd-101/clases/clase_07/css_externo) | css externo |
 | [clase_08](./clases/clase_08/) | [CSS: formato de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/08-00-texto.html) | formato de texto en CSS |
 | [clase_08](./clases/clase_08/) | [CSS: mas formato de texto](https://ralexrivero.github.io/FrontEnd-101/clases/clase_08/08-01-text.html) | formato de texto en CSS |
 | [clase_09](./clases/clase_09/) | [CSS: bordes](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-bordes.html) | bordes |
 | [clase_09](./clases/clase_09/) | [CSS: boxmodel](https://ralexrivero.github.io/FrontEnd-101/clases/clase_09/09-boxmodel.html) | Modelo de caja en CSS |
+| [clase_10](./clases/clase_10/box-sizing/) | [CSS: box-sizing](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/box-sizing/) | box-sizing: tamaño de caja predecible |
+| [clase_10](./clases/clase_10/flexbox-intro/) | [CSS: flexbox intro](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/flexbox-intro/) | introducción a flexbox |
+| [clase_10](./clases/clase_10/galeria-flex/) | [CSS: galería flex](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/galeria-flex/) | galería de imágenes con flexbox |
 
 ## Labs
 

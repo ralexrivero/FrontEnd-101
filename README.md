@@ -53,6 +53,8 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_10](./clases/clase_10/box-sizing/) | [CSS: box-sizing](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/box-sizing/) | box-sizing: tamaño de caja predecible |
 | [clase_10](./clases/clase_10/flexbox-intro/) | [CSS: flexbox intro](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/flexbox-intro/) | introducción a flexbox |
 | [clase_10](./clases/clase_10/galeria-flex/) | [CSS: galería flex](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/galeria-flex/) | galería de imágenes con flexbox |
+| [clase_11](./clases/clase_11/max_width/) | [CSS: max-width](https://ralexrivero.github.io/FrontEnd-101/clases/clase_11/max_width/) | max-width: tamaño de caja predecible y flexible |
+| [clase_11](./clases/clase_11/flexbox_master/) | [CSS: flexbox master](https://ralexrivero.github.io/FrontEnd-101/clases/clase_11/flexbox_master/) | Flexbox & FontAwesome & Gradientes |
 
 ## Labs
 
@@ -64,8 +66,8 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | | | Formularios | [0x01-spec](./labs/lab_01/0x01-espec.md) |
 | [lab_02](./labs/lab_02/)|[Formulario con Estilos](https://ralexrivero.github.io/FrontEnd-101/labs/lab_02) | Formulario con estilos y efectos | [0x02-spec](./labs/lab_02/0x02-espec.md) |
 | | | | [0x03-spec](./labs/lab_03/0x03-espec.md) |
-<!--| | | | [0x04-spec](./labs/lab_04/0x04-espec.md) |
-| | | | [0x05-spec](./labs/lab_05/0x05-espec.md) |
+| | | | [0x04-spec](./labs/lab_04/0x04-espec.md) |
+<!--| | | | [0x05-spec](./labs/lab_05/0x05-espec.md) |
 | | | | [0x06-spec](./labs/lab_06/0x06-espec.md) |
 | | | | [0x07-spec](./labs/lab_07/0x07-espec.md) |
 | | | | [0x08-spec](./labs/lab_08/0x08-espec.md) |

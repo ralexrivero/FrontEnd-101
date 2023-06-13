@@ -76,10 +76,70 @@ li {
 ***************************************************/
 
 .container {
-  display: flex; /* contenedor flexible: sus items son flex-items */
+  display: flex; /* contenedor flexible: sus (hijos) items son flex-items */
+  flex-direction: row; /* row | row-reverse | column | column-reverse*/
   padding: 1rem;
   margin: 1rem auto;
   border: 1px solid #212121;
   border-radius: 1rem;
   box-shadow: 2px 2px 10px #37474f;
+}
+
+.container-large {
+  min-width: fit-content;
+  width: 100%;
+}
+
+/***************************************************
+ * Flex items
+***************************************************/
+
+.flex-item {
+  border: 1px solid #263238;
+  border-radius: .4rem;
+  box-shadow: 2px 2px 10px #37474f;
+  margin: .8rem;
+  padding: .8rem;
+  font-size: 1.5rem;
+  background: linear-gradient(45deg, rgba(255, 255, 255, .3), rgba(255, 255, 255, 1));
+  transition: all .3s ease-in-out;
+}
+
+/***************************************************
+ * Wrap
+***************************************************/
+.no_wrap {
+  flex-wrap: nowrap;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.wrap_reverse {
+  flex-wrap: wrap-reverse;
+}
+
+/***************************************************
+ * Justify-content
+***************************************************/
+
+.justify_content_start {
+  justify-content: flex-start;
+}
+
+.justify_content_end {
+  justify-content: flex-end;
+}
+
+.justify_content_center {
+  justify-content: center;
+}
+
+/***************************************************
+ * Justify-content
+***************************************************/
+
+.grad_1 {
+  background: linear-gradient(45deg, #2196f3, #f44336);
 }

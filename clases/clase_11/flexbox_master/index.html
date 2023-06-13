@@ -25,9 +25,9 @@
     </div>
     <h3>nowrap</h3>
     <p>nowrap contiene un valor por defecto (omision): flex-direction: row;</p>
-
-    <ul class="container container-large grad_1 no_wrap">
-      <li class="flex-item flex-item-sm"><i class="fa-brands fa-html5"></i></li>
+    <p>todos los items flex van a estar en una sola linea</p>
+    <ul class="container container-large grad_1 no_wrap"> <!-- contenedor flex (padre)-->
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-html5"></i></li> <!-- los <li> son los items flex-->
       <li class="flex-item flex-item-sm"><i class="fa-brands fa-css3-alt"></i></li>
       <li class="flex-item flex-item-sm"><i class="fa-brands fa-square-js"></i></li>
       <li class="flex-item flex-item-sm"><i class="fa-brands fa-react"></i></li>
@@ -36,6 +36,66 @@
       <li class="flex-item flex-item-sm"><i class="fa-brands fa-python"></i></li>
       <li class="flex-item flex-item-sm"><i class="fa-brands fa-git"></i></li>
       <li class="flex-item flex-item-sm"><i class="fa-brands fa-github"></i></li>
+    </ul>
+
+    <h3>wrap</h3>
+    <p>todos los items se envuelven en multiples lineas</p>
+    <ul class="container container-large grad_1 wrap"> <!-- contenedor flex (padre)-->
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-html5"></i></li> <!-- los <li> son los items flex-->
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-css3-alt"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-square-js"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-react"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-ubuntu"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-docker"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-python"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-git"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-github"></i></li>
+    </ul>
+
+    <h3>wrap-reverse</h3>
+    <p>todos los items se envuelven en multiples lineas desde abajo hacia arriba</p>
+    <ul class="container container-large grad_1 wrap_reverse"> <!-- contenedor flex (padre)-->
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-html5"></i></li> <!-- los <li> son los items flex-->
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-css3-alt"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-square-js"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-react"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-ubuntu"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-docker"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-python"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-git"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-brands fa-github"></i></li>
+    </ul>
+
+    <!-- justify-content -->
+    <div class="title_bar">
+      <h2>justify-content</h2>
+    </div>
+    <h3>flex-start</h3>
+    <p>flex-start contiene un valor por defecto (omision): justify-content: flex-start;</p>
+    <p>Agrupa (junta o empaqueta) los elementos al inicio del contenedor</p>
+    <ul class="container container-large grad_2 justify_content_start">
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-battery-half"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-power-off"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-camera"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-headphones"></i></li>
+    </ul>
+
+    <h3>flex-end</h3>
+    <p>Los items se empaquetan hacia el final de la dirección flex</p>
+    <ul class="container container-large grad_2 justify_content_end">
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-battery-half"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-power-off"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-camera"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-headphones"></i></li>
+    </ul>
+
+    <h3>flex-center</h3>
+    <p>Los items se empaquetan hacia el centro de la linea</p>
+    <ul class="container container-large grad_2 justify_content_center">
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-battery-half"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-power-off"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-camera"></i></li>
+      <li class="flex-item flex-item-sm"><i class="fa-solid fa-headphones"></i></li>
     </ul>
 
   </main>

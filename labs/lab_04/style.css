@@ -1,0 +1,43 @@
+  /*
+  DRY: DON'T REPEAT YOURSELF
+  */
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Oswald', sans-serif;
+  }
+
+  h1 {
+    margin: .5rem;
+    text-align: center;
+  }
+
+  .box {
+    display: flex;
+    flex-direction: column;
+    border-radius: .3rem;
+    padding: .8rem;
+    margin: .8rem;
+    font-size: 1.4rem;
+  }
+
+  .box-1 {
+    min-width: 240px;
+    max-width: 480px;
+    border: 10px solid #00419d;
+    background-color: #ee6002;
+    color: #fff;
+  }
+
+  .box-2 {
+    min-width: none;
+    max-width: 480px;
+    border: 10px solid #6002ee;
+    background-color: #90ee02;
+    color: #000;
+  }

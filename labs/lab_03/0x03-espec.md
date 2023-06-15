@@ -3,7 +3,7 @@
 - Crea una nueva página HTML
 - Crea un div con la clase "container"
 - Dentro del div "container", agrega 3 divs con la clase "box"
-- Apllica CSS a la página que establezca el display como "flex" para el div "container".
+- Aplicar CSS a la página que establezca el display como "flex" para el div "container".
 - Utiliza las propiedades de flexbox justify-content, align-items, flex-direction y flex-wrap para controlar la disposición y el alineamiento de los divs "box".
 - Agrega estilos CSS adicionales para establecer el ancho, alto, margen, borde y relleno para cada uno de los divs "box".
 - Experimenta con diferentes valores para el ancho, alto, margen, borde y relleno para ver cómo afectan el tamaño y la apariencia de los divs "box".

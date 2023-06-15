@@ -2,7 +2,9 @@
  * General y reset
 ***************************************************/
 
-* {
+*,
+*::before,
+*::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -90,6 +92,11 @@ li {
   width: 100%;
 }
 
+.container-xl {
+  width: fit-content;
+  max-width: 80%;
+}
+
 /***************************************************
  * Flex items
 ***************************************************/
@@ -103,6 +110,35 @@ li {
   font-size: 1.5rem;
   background: linear-gradient(45deg, rgba(255, 255, 255, .3), rgba(255, 255, 255, 1));
   transition: all .3s ease-in-out;
+
+  /* item flex que tambien es contenedor flex */
+  display: flex;
+  justify-content: center; /* eje principal (x) */
+  align-items: center; /* eje transversal (y) */
+}
+
+.flex-item:hover {
+  color: #eceff1;
+  border: 1px solid rgba(255, 255, 255, .5);
+  box-shadow: 2px 2px 10px #f3f3f3;
+  font-size: 1.75rem;
+  background: linear-gradient(45deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .6));
+}
+
+.flex-item-sm {
+  width: 4rem;
+  height: 4rem;
+}
+
+.flex-item-md {
+  width: 5rem;
+  height: 5rem;
+  font-size: 2rem;
+}
+
+.flex-item-xsxl {
+  width: 5rem;
+  height: 8rem;
 }
 
 /***************************************************
@@ -137,9 +173,37 @@ li {
 }
 
 /***************************************************
- * Justify-content
+ * Align-items
+***************************************************/
+
+.align_items_start {
+  align-items: flex-start;
+}
+
+.align_items_end {
+  align-items: flex-end;
+}
+
+.align_items_center {
+  align-items: center;
+}
+
+/***************************************************
+ * Gradientes
 ***************************************************/
 
 .grad_1 {
   background: linear-gradient(45deg, #2196f3, #f44336);
+}
+
+.grad_2 {
+  background: linear-gradient(30deg, #1cb5e0 30%, #000851 100%);
+}
+
+.grad_3 {
+  background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
+}
+
+.grad_4 {
+  background-image: linear-gradient(135deg, #81ff3f 10%, #f067b4 100%);
 }

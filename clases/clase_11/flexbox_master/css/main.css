@@ -141,6 +141,18 @@ li {
   height: 8rem;
 }
 
+.flex-item-no-height {
+  width: 4rem;
+  height: auto;
+}
+
+.item-i-big {
+  font-size: 3rem;
+}
+
+.item-i-small {
+  font-size: .8rem;
+}
 /***************************************************
  * Wrap
 ***************************************************/
@@ -172,6 +184,18 @@ li {
   justify-content: center;
 }
 
+.justify_content_between {
+  justify-content: space-between;
+}
+
+.justify_content_space_around {
+  justify-content: space-around;
+}
+
+.justify_content_space_evenly {
+  justify-content: space-evenly;
+}
+
 /***************************************************
  * Align-items
 ***************************************************/
@@ -186,6 +210,14 @@ li {
 
 .align_items_center {
   align-items: center;
+}
+
+.align_items_baseline {
+  align-items: baseline;
+}
+
+.align_items_stretch {
+  align-items: stretch;
 }
 
 /***************************************************

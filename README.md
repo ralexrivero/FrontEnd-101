@@ -55,6 +55,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_10](./clases/clase_10/galeria-flex/) | [CSS: galería flex](https://ralexrivero.github.io/FrontEnd-101/clases/clase_10/galeria-flex/) | galería de imágenes con flexbox |
 | [clase_11](./clases/clase_11/max_width/) | [CSS: max-width](https://ralexrivero.github.io/FrontEnd-101/clases/clase_11/max_width/) | max-width: tamaño de caja predecible y flexible |
 | [clase_11](./clases/clase_11/flexbox_master/) | [CSS: flexbox master](https://ralexrivero.github.io/FrontEnd-101/clases/clase_11/flexbox_master/) | Flexbox & FontAwesome & Gradientes |
+| [clase_17](./clases/clase_17/navegacion/) | [CSS: navegación](https://ralexrivero.github.io/FrontEnd-101/clases/clase_17/navegacion/) | Navegación |
 
 ## Labs
 

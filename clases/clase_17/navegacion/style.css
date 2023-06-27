@@ -1,0 +1,43 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eee;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.nav-header {
+
+}
+
+/* links */
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-header-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: .4rem;
+}
+
+.nav-header-links {
+  margin-right: 1rem;
+  font-size: 1.2rem;
+  color: #1a237e;
+}
+
+.fa-solid {
+  margin-right: .5rem;
+}

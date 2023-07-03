@@ -68,9 +68,9 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [lab_02](./labs/lab_02/)|[Formulario con Estilos](https://ralexrivero.github.io/FrontEnd-101/labs/lab_02) | Formulario con estilos y efectos | [0x02-spec](./labs/lab_02/0x02-espec.md) |
 | [lab_03](./labs/lab_03/)|[Cajas Flexbox](https://ralexrivero.github.io/FrontEnd-101/labs/lab_03) | Flexbox y Box-Model | [0x03-spec](./labs/lab_03/0x03-espec.md) |
 | [lab_04](./labs/lab_04/) | [Refactorizacion](./labs/lab_04/) | Refactorización y DRY | [0x04-spec](./labs/lab_04/0x04-espec.md) |
-<!--| | | | [0x05-spec](./labs/lab_05/0x05-espec.md) |
+| | | | [0x05-spec](./labs/lab_05/0x05-espec.md) |
 | | | | [0x06-spec](./labs/lab_06/0x06-espec.md) |
-| | | | [0x07-spec](./labs/lab_07/0x07-espec.md) |
+<!--| | | | [0x07-spec](./labs/lab_07/0x07-espec.md) |
 | | | | [0x08-spec](./labs/lab_08/0x08-espec.md) |
 -->
 
@@ -80,7 +80,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 
 | código | despliegue | contenido | especificación |
 |--------|------------------------------------|---------------|---------------|
-| | | | |
+| | | | [consigna](./proyecto_final/README.md) |
 
 ## Autor
 

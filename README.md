@@ -71,8 +71,8 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [lab_04](./labs/lab_04/) | [Refactorizacion](./labs/lab_04/) | Refactorización y DRY | [0x04-spec](./labs/lab_04/0x04-espec.md) |
 | | | | [0x05-spec](./labs/lab_05/0x05-espec.md) |
 | | | | [0x06-spec](./labs/lab_06/0x06-espec.md) |
-<!--| | | | [0x07-spec](./labs/lab_07/0x07-espec.md) |
-| | | | [0x08-spec](./labs/lab_08/0x08-espec.md) |
+| | | | [0x07-spec](./labs/lab_07/0x07-espec.md) |
+<!--| | | | [0x08-spec](./labs/lab_08/0x08-espec.md) |
 -->
 
 ## Proyecto final

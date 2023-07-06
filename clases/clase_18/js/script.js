@@ -27,7 +27,7 @@ const precio = 50.8;
 
 
 let nombre = 'Ronald';
-let apellido = 'Rivero';
+let apellido = "Rivero";
 let edad = 43;
 let email = 'ralexrivero@gmail.com';
 

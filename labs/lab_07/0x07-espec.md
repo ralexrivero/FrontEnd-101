@@ -1,24 +1,35 @@
 # 0x07 Lab: JavaScript: tipos primitivos y operadores
 
-## Tipos de variables primitivas
+## Desarrolla contenido sobre JavaScript
+
+- Crea una web con los siguientes temas:
+  - Que es JavaScript y que diferencias tiene con HTML y CSS
+  - Como se manejan los archivos de JavaScript
+  - Variables, `var`, `let` y `const`
+  - `console.log()`
+  - DOM
+
+## Crea una archivo de JavaScript y desarrolla los siguientes elementos
+
+### Tipos de variables primitivas
 
 - Crea una variable de cada tipo de variable primitiva: string, number, boolean, null, undefined.
-- Asigna valores a cada variable y usa typeof para imprimir el tipo de cada variable en la consola.
+- Asigna valores a cada variable y usa `typeof` para imprimir el tipo de cada variable en la consola.
 
-## Uso de let y const
+### Uso de let y const
 
 - Crea una constante con un valor numérico.
 - Crea una variable con un valor de cadena.
 - Intenta reasignar la constante y la variable, ¿qué sucede? Imprime el resultado en la consola.
 
-## Operadores de asignación, aritméticos, de comparación y lógicos
+### Operadores de asignación, aritméticos, de comparación y lógicos
 
 - Crea una variable y asígnale un valor numérico.
 - Usa operadores aritméticos para realizar operaciones matemáticas con la variable y almacena el resultado en otra variable.
 - Crea una expresión con operadores de comparación que compare la variable original con el resultado de la operación matemática.
 - Crea una expresión que use operadores lógicos para verificar si la variable original es mayor que 5 y menor que 10. Imprime el resultado en la consola.
 
-## Trabajo con cadenas
+### Trabajo con cadenas
 
 - Crea una variable de cadena con un valor de varias palabras.
 - Usa el método split para dividir la cadena en palabras individuales y almacenar el resultado en un array.

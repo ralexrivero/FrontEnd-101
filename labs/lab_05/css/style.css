@@ -160,3 +160,7 @@ p {
   margin-right: 1rem;
   float: left; /* left o right */
 }
+
+.float-right {
+  float: right;
+}

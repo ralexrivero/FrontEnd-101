@@ -17,8 +17,9 @@
 
 ## Estructura
 
+- directorio (carpeta) `proyecto_final`
 - página principal `index.html`
-- estructura de carpetas `css`, `js`, proyectos
+- estructura de carpetas `css`, `js`, `img`
 - Vínculos y navegar por el sitio en todas direcciones
 - estructura semántica el html
 - comentarios en `html`, `css` y `js`
@@ -28,19 +29,14 @@
 
 El sitio debe ser...
 
-- Responsive
+- Responsive (media queries)
 - Accesible, leerse bien, tener buen contraste de colores, etc.
 - Compatible con los navegadores más populares
 - Compatible con dispositivos móviles
 - Utilizar `html` semántico
 - Utilizar `css` para estilos archivos separados
 - Utilizar `js` para interactividad en archivos separados
-- Contener un archivo `README.md` con la descripción del proyecto
 - Todos los hipervínculos deben estar probados y funcionar correctamente
-
-## Opcional
-
-- Puedes utilizar un framework de css como `bootstrap`, `materialize` u otro de tu elección pero debes personalizarlo con tus propios estilos gráficos.
 
 ## Contenido
 
@@ -65,8 +61,5 @@ El sitio debe ser...
 ## Labs a incluir
 
 - Pagina principal o inicio
-- Labs a incluir
-  - `lab_02` - Formulario con estilos
-  - `lab_05` - Flex Awesome
-  - `lab_06` - Responsive Rainbow
-  - `lab_08` - Calculadora
+- menu para navegar a los labs y al proyecto final
+- incluir todos los labs

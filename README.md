@@ -59,6 +59,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 | [clase_18](./clases/clase_18/) | [JavaScript: Introduccion](https://ralexrivero.github.io/FrontEnd-101/clases/clase_18/) | Introducción a JavaScript |
 | [clase_19](./clases/clase_19/estructuras/) | [JavaScript: Estructuras de control](https://ralexrivero.github.io/FrontEnd-101/clases/clase_19/estructuras/) | Estructuras de control |
 | [clase_19](./clases/clase_19/input/) | [JavaScript: input de usuario](https://ralexrivero.github.io/FrontEnd-101/clases/clase_19/input/) | input de usuario |
+| [clase_21](./clases/clase_21/) | [JavaScript: arreglos](https://ralexrivero.github.io/FrontEnd-101/clases/clase_21) | Arrays, index, length, push() y pop() |
 
 ## Labs
 

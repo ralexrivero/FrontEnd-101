@@ -75,7 +75,7 @@ El material del curso se divide en tres partes, el *código* desarrollado en cad
 |[lab_05](./labs/lab_05/) | [Grid y Float](https://ralexrivero.github.io/FrontEnd-101/labs/lab_05) | Grid, float, flexbox y FontAwesome | [0x05-spec](./labs/lab_05/0x05-espec.md) |
 | | | | [0x06-spec](./labs/lab_06/0x06-espec.md) |
 | | | | [0x07-spec](./labs/lab_07/0x07-espec.md) |
-| | | | [0x08-spec](./labs/lab_08/0x08-espec.md) |
+| [lab_08](./labs/lab_08/)| [Calculadora](https://ralexrivero.github.io/FrontEnd-101/labs/lab_08) | Grid, responsive y JavaScript | [0x08-spec](./labs/lab_08/0x08-espec.md) |
 
 ## Proyecto final
 

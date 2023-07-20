@@ -9,13 +9,9 @@
 }
 
 body {
+  height: 100%;
   font-family: 'Roboto', sans-serif;
   background-color: rgb(171, 197, 237);
-  height: 98vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 .calculadora {
@@ -24,7 +20,6 @@ body {
   border-radius: .75rem;
   display: flex;
   flex-direction: column;
-  height: 100%;
 }
 
 .light .calculadora {
@@ -209,9 +204,14 @@ button:active {
 }
 
 .switch {
-  border: 1px solid #9a9a9a;
-  font-size: 1rem;
-  margin-top: 1rem;
+  align-self: flex-start;
+  margin: 1rem;
+  padding: .5rem 1rem;
+}
+
+.brush {
+  width: 1rem;
+  height: 1rem;
 }
 
 /* media queries */
@@ -225,19 +225,18 @@ button:active {
     "cuatro cinco seis dividir signo-igual"
     "uno dos tres resta signo-igual"
     "cero cero decimal adicion signo-igual";
-    grid-gap: .5rem;
   }
 }
 
-@media screen and (min-width:768px) {
+@media screen and (min-width:576px) {
   body {
     display: flex;
     justify-content: center;
-    height: 75vh;
+    height: 100vh;
+    min-height: fit-content;
+    max-height: 640px;
   }
   .calculadora {
-    margin-top: 2rem;
     width: 22rem;
-    box-shadow: 1px 1px 2px 1px rgba(0, 0, 0, .25);
   }
 }

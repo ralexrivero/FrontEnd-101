@@ -9,12 +9,13 @@
 }
 
 body {
-  height: 100%;
+  height: 100vh;
   font-family: 'Roboto', sans-serif;
   background-color: rgb(171, 197, 237);
 }
 
 .calculadora {
+  height: 100%;
   background-color: #1F2537;
   margin: .25rem;
   border-radius: .75rem;
@@ -55,7 +56,7 @@ body {
     "cuatro cinco seis signo-igual"
     "uno dos tres signo-igual"
     "cero cero decimal signo-igual";
-  grid-gap: 1.5rem;
+  grid-gap: 1rem;
   background-color: #252B3E;
   border-radius: .5rem;
   padding: 1rem;
@@ -145,6 +146,7 @@ button {
   border: 0;
   outline: 0;
   border-radius: .5rem;
+  padding: 1.25rem 0;
 }
 
 .light button {
@@ -219,24 +221,41 @@ button:active {
 @media screen and (orientation:landscape) {
 
   .calculadora--botones {
-    display: grid;
     grid-template-areas:
     "siete ocho nueve multiplicar borrar"
     "cuatro cinco seis dividir signo-igual"
     "uno dos tres resta signo-igual"
     "cero cero decimal adicion signo-igual";
+    grid-gap: .2rem;
+  }
+
+  .calculadora {
+    height: 100%;
+  }
+
+  button {
+    padding: .5rem 0;
   }
 }
 
-@media screen and (min-width:576px) {
+
+@media screen and (min-width:768px) {
   body {
     display: flex;
     justify-content: center;
-    height: 100vh;
     min-height: fit-content;
     max-height: 640px;
   }
+
   .calculadora {
     width: 22rem;
+  }
+
+  .calculadora--botones {
+    grid-gap: 1rem;
+  }
+
+  button {
+    padding: 1rem;
   }
 }

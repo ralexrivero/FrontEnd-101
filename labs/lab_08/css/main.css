@@ -249,6 +249,7 @@ button:active {
 
   .calculadora {
     width: 22rem;
+    margin-top: 1rem;
   }
 
   .calculadora--botones {

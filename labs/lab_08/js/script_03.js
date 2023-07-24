@@ -12,7 +12,6 @@ const temaBoton = document.getElementById('tema');
 let primerTermino = 0;
 let operadorIngresado = '';
 let bandera = false; // indicar si estoy esperando otro termino o no
-let banderaResultadoEnviado = false; // si presiones el signo de =
 
 /**
  * operaciones = cada miembro del objeto llama a una funcion anonima
@@ -88,27 +87,23 @@ function usarOperador(operador) {
   const valorActual = Number(display.textContent); // convierto el texto del display a numero
   if (!primerTermino) { // el primer termino esta vacio '!' significa not o negacion
     primerTermino = valorActual;
-  }
-
-  if (banderaResultadoEnviado === true) {
-    primerTermino = valorActual;
+  } else {
+    console.log(`valor actual: ${ valorActual }`);
   }
 
   bandera = true; // listo para el siguiente valor, el primer termino ya lo tengo
   operadorIngresado = operador;
+  console.log(`primer valor: ${primerTermino}`);
+  console.log(`operador: ${operadorIngresado}`);
 }
 
 function resultado() {
-  if (operadorIngresado === '') {
-    // si apreto = sin ingresar primero un operador
-    return
-  }
+  console.log('=');
   const valorActual = Number(display.textContent);
   const resultadoFinal = operaciones[operadorIngresado](primerTermino, valorActual);
-  display.textContent = resultadoFinal;
+  console.log(resultadoFinal);
   primerTermino = resultadoFinal;
   bandera = true;
-  banderaResultadoEnviado = true;
 }
 
 /*********************************
